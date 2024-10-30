@@ -3,9 +3,15 @@ layout: single
 title: Bloody Dostoevsky
 permalink: /literature/dostoevsky/
 ---
+Dostoevsky is an imperialist writer, who expressed his
+[chauvinistic](/literature/dostoevsky/#chauvinism),
+[ukrainophobic](/literature/dostoevsky/#ukrainophobia),
+[antisemitic](/literature/dostoevsky/#antisemitism),
+and [polonophobic](/literature/dostoevsky/#polonophobia)
+views multiple times in his diaries and upon encountering other people.
+Below you can find the list of his quotes and memories about him.
 
 ## Chauvinism
-#### Memories and research on the works of F. M. Dostoevsky, 1876
 > Dostoevsky [...] finds that a Serb, a Little Russian, etc. [...] is a positively harmful member of society,
 > and hinders the work of universal education, universal Great Russian literature, in which lies all salvation, all hope. [...]
 > <details><summary>Original</summary>
@@ -17,7 +23,6 @@ permalink: /literature/dostoevsky/
 > </details>
 
 ## Ukrainophobia
-#### Memories and research on the works of F. M. Dostoevsky, 1876
 > [...] a Little Russian, for example, always holds a stone in his bosom
 > and cannot treat a Great Russian otherwise than with hostility.
 > <details><summary>Original</summary>
@@ -42,7 +47,6 @@ permalink: /literature/dostoevsky/
 > </details>
 
 ## Antisemitism
-#### Writer's Diary, 1877
 > [...] in the very labor of the Jews [...] there is something wrong, abnormal, something unnatural [...].
 > Jew loves to trade other people's labor! [...]
 > <details><summary>Original</summary>
@@ -69,7 +73,6 @@ permalink: /literature/dostoevsky/
 > </details>
 
 ## Polonophobia
-#### Memories and research on the works of F. M. Dostoevsky, 1876
 > — [...] Recently Pashkov, that famous preacher, took into his home [...] two Poles released from the fortress.
 > [...] there are many Russians [...], and he [took] Poles! [—]
 > Dostoevsky had reached such an irritation that it was impossible to argue with him [...]
@@ -82,15 +85,25 @@ permalink: /literature/dostoevsky/
 > <br><br><i>Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876</i>
 > </details>
 
-#### Writer's Diary, 1877
-> Mr. Kostomarov proves with clear and precise reasoning that all this is only a trap for us, that they will bring us Konrad Wallenrods, traitors; that the Pole of Old Poland instinctively, blindly hates Russia and the Russians. Mr. Kostomarov admits, however, that there are excellent Poles who can even live in friendship with another Russian, save him in trouble, lend him a favor. This is, of course, true, but as soon as this Russian, even after twenty years of friendship, suddenly expressed to this excellent Pole his political convictions about Poland in the Russian spirit, then this Pole would immediately, right there, become an open or secret enemy of his Russian friend, for life, to the end, irreconcilable and boundless. Mr. Kostomarov forgot to add this.
+> [...] the Pole of Old Poland instinctively, blindly hates Russia and the Russians. [...]
+> As soon as Russian, even after twenty years of friendship, suddenly expressed to this excellent Pole his political
+> convictions about Poland in the Russian spirit, then this Pole would [become an] enemy of his Russian friend, for life [...]
 > <details><summary>Original</summary>
-> Рассуждениями ясными и точными доказывает г-н Костомаров, что всё это лишь нам западня, что наведут они к нам Конрадов Валленродов, предателей; что поляк Старой Польши инстинктивно, слепо ненавидит Россию и русских. Г-н Костомаров допускает, однако же, что есть прекрасные поляки, которые могут жить даже в дружбе с иным русским, спасти его в беде, одолжить его. Это, конечно, правда, но чуть только этот русский, хотя бы даже после двадцати лет дружбы, вдруг бы выразил этому прекрасному поляку свои политические убеждения насчет Польши в русском духе, то этот поляк тотчас же, тут же, стал бы явным или тайным врагом своего русского друга, на всю жизнь, до конца, непримиримым и безграничным. Об этом забыл прибавить г-н Костомаров.
+> Рассуждениями ясными и точными доказывает г-н Костомаров, что всё это лишь нам западня,
+> что наведут они к нам Конрадов Валленродов, предателей; что поляк Старой Польши инстинктивно, слепо ненавидит Россию и русских.
+> Г-н Костомаров допускает, однако же, что есть прекрасные поляки, которые могут жить даже в дружбе с иным русским,
+> спасти его в беде, одолжить его. Это, конечно, правда, но чуть только этот русский, хотя бы даже после двадцати лет дружбы,
+> вдруг бы выразил этому прекрасному поляку свои политические убеждения насчет Польши в русском духе, то этот поляк тотчас же, тут же, стал бы явным или тайным врагом своего русского друга, на всю жизнь, до конца, непримиримым и безграничным. Об этом забыл прибавить г-н Костомаров.
 > <br><br><i>Дневник писателя, 1877</i>
 > </details>
 
-> Now about something else: having satisfied your anger by writing a deliberate lie, you still allow yourself to hope, after your act of such obvious betrayal of Russian interests to the Old Poles and Austrians, and all the endless and eternally agitating European scum against us, for sympathy for you from Russian readers? Do you really think so lowly of them?
+> [...] after your act of such obvious betrayal of Russian interests to the Old Poles and Austrians,
+> and all the endless and eternally agitating European scum against us, for sympathy for you from Russian readers?
+> Do you really think so lowly of them?
 > <details><summary>Original</summary>
-> Теперь о другом: утолив вашу злобу, написав заведомую неправду, вы позволяете еще себе надеяться, после вашего-то поступка столь явного предательства русских интересов старополякам и австрийцам, и всякой бесконечной и вечно агитирующей против нас европейской швали, — на сочувствие к вам русских читателей? Неужели вы так низко об них думаете?
+> Теперь о другом: утолив вашу злобу, написав заведомую неправду, вы позволяете еще себе надеяться,
+> после вашего-то поступка столь явного предательства русских интересов старополякам и австрийцам,
+> и всякой бесконечной и вечно агитирующей против нас европейской швали, — на сочувствие к вам русских читателей?
+> Неужели вы так низко об них думаете?
 > <br><br><i>Дневник писателя, 1877</i>
 > </details>
