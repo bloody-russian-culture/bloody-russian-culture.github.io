@@ -17,7 +17,7 @@ Specifically
 - [Claimed Jews to be trading other people's labour.](#claimed-jews-to-be-trading-other-peoples-labour)
 - [Used antisemitic slurs. Despised Jews for not being Christians.](#used-antisemitic-slurs-despised-jews-for-not-being-christians)
 - [Was angry at the preacher for providing shelter to Polish refugee girls instead of Russians.](#was-angry-at-the-preacher-for-providing-shelter-to-polish-refugee-girls-instead-of-russians)
-- [Claimed Poles to be hostile and ultra-nationalist.Permalink.](#claimed-poles-to-be-hostile-and-ultra-nationalist)
+- [Claimed Poles to be hostile and ultra-nationalist.](#claimed-poles-to-be-hostile-and-ultra-nationalist)
 - [Called Old Poles and Austrians scum. Claimed them to be unworthy of Russian sympathy.](#called-old-poles-and-austrians-scum-claimed-them-to-be-unworthy-of-russian-sympathy)
 
 ## Chauvinism
