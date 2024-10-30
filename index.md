@@ -7,4 +7,4 @@ title: Bloody Russian Culture
 
 #### Bloody Russian Literature
 
-- [Dostoevsky](/literature/dostoevsky/)
+- [Dostoevsky](/dostoevsky/)

@@ -1,17 +1,27 @@
 ---
 layout: single
 title: Bloody Dostoevsky
-permalink: /literature/dostoevsky/
+permalink: /dostoevsky/
 ---
-Dostoevsky is an imperialist writer, who expressed his
-[chauvinistic](/literature/dostoevsky/#chauvinism),
-[ukrainophobic](/literature/dostoevsky/#ukrainophobia),
-[antisemitic](/literature/dostoevsky/#antisemitism),
-and [polonophobic](/literature/dostoevsky/#polonophobia)
-views multiple times in his diaries and upon encountering other people.
-Below you can find the list of his quotes and memories about him.
+Dostoevsky was an imperialist writer, who expressed his
+[chauvinistic](#chauvinism),
+[ukrainophobic](#ukrainophobia),
+[antisemitic](#antisemitism),
+and [polonophobic](#polonophobia)
+views multiple times in his diaries and to other people.
+
+Specifically
+- [Claimed Russians to be superior and colonized nations to be inferior and harmful.](#claimed-russians-to-be-superior-and-colonized-nations-to-be-inferior-and-harmful)
+- [Despised Ukrainians being liberal and respecting women's rights. Claimed Russian patriarchy to be natural.](#despised-ukrainians-being-liberal-and-respecting-womens-rights-claimed-russian-patriarchy-to-be-natural)
+- [Claimed Russians to be kind while Ukrainians being hostile.](#claimed-russians-to-be-kind-while-ukrainians-being-hostile)
+- [Claimed Jews to be trading other people's labour.](#claimed-jews-to-be-trading-other-peoples-labour)
+- [Used antisemitic slurs. Despised Jews for not being Christians.](#used-antisemitic-slurs-despised-jews-for-not-being-christians)
+- [Was angry at the preacher for providing shelter to Polish refugee girls instead of Russians.](#was-angry-at-the-preacher-for-providing-shelter-to-polish-refugee-girls-instead-of-russians)
+- [Claimed Poles to be hostile and ultra-nationalist.Permalink.](#claimed-poles-to-be-hostile-and-ultra-nationalist)
+- [Called Old Poles and Austrians scum. Claimed them to be unworthy of Russian sympathy.](#called-old-poles-and-austrians-scum-claimed-them-to-be-unworthy-of-russian-sympathy)
 
 ## Chauvinism
+- ###### Claimed Russians to be superior and colonized nations to be inferior and harmful.
 > Dostoevsky [...] finds that a Serb, a Little Russian, etc. [...] is a positively harmful member of society,
 > and hinders the work of universal education, universal Great Russian literature, in which lies all salvation, all hope. [...]
 > <details><summary>Original</summary>
@@ -23,14 +33,7 @@ Below you can find the list of his quotes and memories about him.
 > </details>
 
 ## Ukrainophobia
-> [...] a Little Russian, for example, always holds a stone in his bosom
-> and cannot treat a Great Russian otherwise than with hostility.
-> <details><summary>Original</summary>
-> Один великоросс великодушно и честно смотрит на все национальности, без всякой злобы и преднамеренности,
-> тогда как малоросс, например, вечно держит камень за пазухой и не может отнестись к великороссу иначе, как с враждой.
-> <br><br><i>Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876</i>
-> </details>
-
+- ##### Despised Ukrainians being liberal and respecting women's rights. Claimed Russian patriarchy to be natural.
 > — [...] in Little Russia there is independence of personality, [...] women are not looked upon as beasts [...].
 > There is nothing good about that [...]. What’s the harm if the old man is respected in the family?
 > He is not a despot, he [..] fulfills the position assigned to him by nature, and everyone else quite naturally submits to him. [...]
@@ -46,7 +49,17 @@ Below you can find the list of his quotes and memories about him.
 > <br><br><i>Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876</i>
 > </details>
 
+- ##### Claimed Russians to be kind while Ukrainians being hostile.
+> [...] a Little Russian, for example, always holds a stone in his bosom
+> and cannot treat a Great Russian otherwise than with hostility.
+> <details><summary>Original</summary>
+> Один великоросс великодушно и честно смотрит на все национальности, без всякой злобы и преднамеренности,
+> тогда как малоросс, например, вечно держит камень за пазухой и не может отнестись к великороссу иначе, как с враждой.
+> <br><br><i>Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876</i>
+> </details>
+
 ## Antisemitism
+- ##### Claimed Jews to be trading other people's labour.
 > [...] in the very labor of the Jews [...] there is something wrong, abnormal, something unnatural [...].
 > Jew loves to trade other people's labor! [...]
 > <details><summary>Original</summary>
@@ -61,6 +74,7 @@ Below you can find the list of his quotes and memories about him.
 > <br><br><i>Дневник писателя, 1877</i>
 > </details>
 
+- ##### Used antisemitic slurs. Despised Jews for not being Christians.
 > The Jews keep shouting that there are good people among them. Oh, God! Is that really the point? [...]
 > We are talking about [slur for Judaism] and the [slur for Jewish] idea,
 > which embraces the whole world, instead of the "failed" Christianity...
@@ -73,6 +87,7 @@ Below you can find the list of his quotes and memories about him.
 > </details>
 
 ## Polonophobia
+- ##### Was angry at the preacher for providing shelter to Polish refugee girls instead of Russians.
 > — [...] Recently Pashkov, that famous preacher, took into his home [...] two Poles released from the fortress.
 > [...] there are many Russians [...], and he [took] Poles! [—]
 > Dostoevsky had reached such an irritation that it was impossible to argue with him [...]
@@ -85,6 +100,7 @@ Below you can find the list of his quotes and memories about him.
 > <br><br><i>Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876</i>
 > </details>
 
+- ##### Claimed Poles to be hostile and ultra-nationalist.
 > [...] the Pole of Old Poland instinctively, blindly hates Russia and the Russians. [...]
 > As soon as Russian, even after twenty years of friendship, suddenly expressed to this excellent Pole his political
 > convictions about Poland in the Russian spirit, then this Pole would [become an] enemy of his Russian friend, for life [...]
@@ -93,10 +109,13 @@ Below you can find the list of his quotes and memories about him.
 > что наведут они к нам Конрадов Валленродов, предателей; что поляк Старой Польши инстинктивно, слепо ненавидит Россию и русских.
 > Г-н Костомаров допускает, однако же, что есть прекрасные поляки, которые могут жить даже в дружбе с иным русским,
 > спасти его в беде, одолжить его. Это, конечно, правда, но чуть только этот русский, хотя бы даже после двадцати лет дружбы,
-> вдруг бы выразил этому прекрасному поляку свои политические убеждения насчет Польши в русском духе, то этот поляк тотчас же, тут же, стал бы явным или тайным врагом своего русского друга, на всю жизнь, до конца, непримиримым и безграничным. Об этом забыл прибавить г-н Костомаров.
+> вдруг бы выразил этому прекрасному поляку свои политические убеждения насчет Польши в русском духе, то этот поляк тотчас же,
+> тут же, стал бы явным или тайным врагом своего русского друга, на всю жизнь, до конца, непримиримым и безграничным.
+> Об этом забыл прибавить г-н Костомаров.
 > <br><br><i>Дневник писателя, 1877</i>
 > </details>
 
+- ##### Called Old Poles and Austrians scum. Claimed them to be unworthy of Russian sympathy.
 > [...] after your act of such obvious betrayal of Russian interests to the Old Poles and Austrians,
 > and all the endless and eternally agitating European scum against us, for sympathy for you from Russian readers?
 > Do you really think so lowly of them?
