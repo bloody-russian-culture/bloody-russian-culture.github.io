@@ -1,2 +1,3 @@
-# bloody-russian-culture.github.io
-Russian Imperialism Wiki
+# [Bloody Russian Culture](https://bloody-russian-culture.github.io)
+
+## Great = Imperial = Bloody Russian Culture
