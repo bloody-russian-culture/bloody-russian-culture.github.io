@@ -8,3 +8,4 @@ title: Bloody Russian Culture
 #### Bloody Russian Literature
 
 - [Dostoevsky](/dostoevsky/)
+- [Pushkin](/pushkin/)
