@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: main
 title: Bloody Russian Culture
 related: false
 ---
