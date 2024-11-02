@@ -26,21 +26,16 @@
                 {% for image in site.static_files %}
                     {% assign folderPath = "/assets/images/" | append: folderName | append: "/" %}
                     {% if image.path contains folderPath %}
+                        {% assign slides = '<div class="' | append: folderName | append: '-slides fade"><img src="' | append: image.path | append: '" style="width:100%"></div>' %}
                         {% if folderName == "blood" %}
-                            <div class="{{ folderName }}-slides fade">
-                                <img src="{{ image.path }}" style="width:100%">
-                            </div>
+                            {{ slides }}
                         {% else %}
                             {% if page.data_source %}
                                 {% if image.path contains page.data_source %}
-                                    <div class="{{ folderName }}-slides fade">
-                                        <img src="{{ image.path }}" style="width:100%">
-                                    </div>
+                                    {{ slides }}
                                 {% endif %}
                             {% else %}
-                                <div class="{{ folderName }}-slides fade">
-                                    <img src="{{ image.path }}" style="width:100%">
-                                </div>
+                                {{ slides }}
                             {% endif %}
                         {% endif %}
                     {% endif %}
