@@ -18,7 +18,7 @@
     }
 </style>
 
-<div class="page">
+<div id="footer-wrapper" class="page">
     <div class="slideshow-wrapper">
         {% assign folderNames = "russian-culture,blood" | split: "," %}
         {% for folderName in folderNames %}
@@ -51,6 +51,7 @@
 </div>
 
 <script>
+  document.getElementById("main").appendChild(document.getElementById("footer-wrapper"));
   showSlides("russian-culture", 0);
   showSlides("blood", 0);
 
