@@ -9,7 +9,7 @@ Ever wondered what makes it so great?
 The answer is __Imperialism__.
 
 Russian culture is __imperialist__, __elitist__ and __chauvinistic__.
-It's richness of Russian culture comes from the <span style="color: #780606">__blood__</span> of the people it colonized.
+It's richness comes from the <span style="color: #780606">__blood__</span> of the people it colonized.
 
 - The "father of the modern Russian language", [__Pushkin__](/pushkin/), approved the colonisation of
 [Crimean Tatars](/pushkin/#approved-crimean-tatars-genocide-claimed-disarming-circassians-was-the-only-option-to-pacify-them-after-the-violent-conquest),
