@@ -4,11 +4,15 @@ layout: main
 
 {{ content }}
 
-{% assign data = site.data[page.data_source] %}
+{% assign locale = page.locale %}
+{% unless locale %}{% assign locale = "en" %}{% endunless %}
+{% assign locale_data = site.data[locale] %}
+{% assign data = locale_data[page.data_source] %}
 
-{{ data.lead | markdownify}}
+{{ data.lead | markdownify }}
 
-Specifically
+{{ locale_data.quotes.specifically }}:
+
 <ul>
     {%- for category in data.categories -%}
         {% for quote in category.quotes %}
@@ -36,4 +40,5 @@ Specifically
     {% endfor %}
 {% endfor %}
 
+{{ locale_data.quotes.sources }}:
 {{ data.sources | markdownify }}

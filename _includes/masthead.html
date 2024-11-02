@@ -1,0 +1,22 @@
+{% assign locale = page.locale %}
+{% unless locale %}{% assign locale = "en" %}{% endunless %}
+{% assign data = site.data[locale].masthead %}
+
+<div class="masthead">
+    <div class="masthead__inner-wrap">
+        <div class="masthead__menu">
+            <nav id="site-nav" class="greedy-nav">
+                <a class="site-title" href="{{ data.title_url | relative_url }}">
+                    {{ data.title }}
+                </a>
+                <ul class="visible-links">
+                    {%- for link in site.data.navigation.main -%}
+                    <li class="masthead__menu-item">
+                        <a href="{{ link.url | relative_url }}" title="{{ link.description }}">{{ link.title }}</a>
+                    </li>
+                    {%- endfor -%}
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
