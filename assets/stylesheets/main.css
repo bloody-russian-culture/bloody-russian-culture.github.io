@@ -1,0 +1,17 @@
+.slideshow-wrapper {
+    display: flex;
+}
+
+.slideshow-container {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.slideshow-container img {
+    width: 100%; /* Forces image to fill width */
+    height: 100%; /* Forces image to fill height */
+    object-fit: cover; /* Scales image to fill container without white space */
+}
