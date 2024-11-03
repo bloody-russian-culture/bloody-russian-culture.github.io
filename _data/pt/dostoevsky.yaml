@@ -1,0 +1,112 @@
+lead: >
+  Dostoiévski foi um escritor imperialista que expressou as suas visões
+  [chauvinistas](#chauvinismo),
+  [ucraninófobas](#ucraninofobia),
+  [antissemitas](#anti-semitismo)
+  e [polonofóbicas](#polonofobia)
+  diversas vezes nos seus diários e a outras pessoas.
+categories:
+  - name: Chauvinismo
+    quotes:
+      - source: Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876
+        original: >
+          Нетерпимость в споре еще более выказалась у Достоевского, когда речь как-то нечаянно коснулась национальностей:
+          он находит, что серб, малоросс и т. д., сочувствующий родному языку, родной литературе, положительно зловредный член общества,
+          и тормозит работу всеобщего просвещения, всеобщей великорусской литературы, в которых все спасение, вся надежда.
+          Он тормозит ход цивилизации, созданной одним великорусским народом, сумевшим создать величайшее из государств.
+        excerpt: >
+          Dostoievski [...] considera que um sérvio, um pequeno russo, etc.
+          e dificulta o trabalho da educação universal, da literatura universal da Grande Rússia, na qual reside toda a salvação, toda a esperança. [...]
+        summary: Alegou que os russos eram superiores e que as nações colonizadas eram inferiores e prejudiciais.
+  - name: Ucraninofobia
+    quotes:
+      - source: Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876
+        original: >
+          — Вы говорите, что в Малороссии существует независимость личности, что взрослый женатый сын выбирается на хозяйство,
+          что на женщину не смотрят как на скотину, что часто она орудует в доме, что семья живет особняком.
+          Что ж тут хорошего: женится сын, обособляется и тотчас делается врагом. Хозяйство делится по клочкам, интересы идут врозь,
+          — вот вам и начало нищенства. Между тем как великорусская семья представляет собою общинное начало.
+          Что за беда, если старика уважают в семье. Это не деспот, в нем для семьи олицетворяется известный идеал,
+          он не потому властвует, что ему так вздумалось, — нет, он точно выполняет должность, назначенную ему природой,
+          а все остальные вполне естественно подчиняются ему. Чувствуется близость, общность интересов, разделение труда,
+          и взамен всего этого вы предлагаете обособленность, вражду.
+        excerpt: >
+          — [...] na Pequena Rússia há independência de personalidade, [...] as mulheres não são vistas como feras [...].
+          Não tem nada de bom […]. Qual é o problema se o idoso for respeitado na família?
+          Não é um déspota, ele [..] cumpre a posição que lhe é atribuída pela natureza, e todos os outros se lhe submetem naturalmente. [...]
+        summary: Desprezava os ucranianos por serem liberais e respeitarem os direitos das mulheres. Alegou que o patriarcado russo era natural.
+      - source: Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876
+        original: >
+          Один великоросс великодушно и честно смотрит на все национальности, без всякой злобы и преднамеренности,
+          тогда как малоросс, например, вечно держит камень за пазухой и не может отнестись к великороссу иначе, как с враждой.
+        excerpt: >
+          Só o Grande Russo olha para todas as nacionalidades com generosidade e honestidade, sem qualquer malícia ou premeditação,
+          enquanto um Pequeno Russo, por exemplo, segura sempre uma pedra ao peito
+          e não pode tratar um grão-russo de outra forma que não seja com hostilidade.
+        summary: Alegou que os russos eram bondosos e de mente aberta, enquanto os ucranianos eram hostis.
+  - name: Anti-semitismo
+    quotes:
+      - source: Дневник писателя, 1877
+        original: >
+          Наши оппоненты указывают, что евреи, напротив, бедны, повсеместно даже бедны, а в России особенно,
+          что только самая верхушка евреев богата, банкиры и цари бирж, а из остальных евреев чуть ли не девять десятых их
+          — буквально нищие, мечутся из-за куска хлеба, предлагают куртаж, ищут где бы урвать копейку на хлеб.
+          Да, это, кажется, правда, но что же это обозначает? Не значит ли это именно, что в самом труде евреев
+          (то есть огромного большинства их, по крайней мере), в самой эксплуатации их заключается нечто неправильное,
+          ненормальное, нечто неестественное, несущее само в себе свою кару. Еврей предлагает посредничество, торгует чужим трудом.
+          Капитал есть накопленный труд; еврей любит торговать чужим трудом! Но всё же это пока ничего не изменяет;
+          зато верхушка евреев воцаряется над человечеством всё сильнее и тверже и стремится дать миру свой облик и свою суть.
+        excerpt: >
+          [...] no próprio trabalho dos judeus [...] há algo de errado, anormal, algo de antinatural [...].
+          O judeu adora negociar o trabalho de outras pessoas! [...]
+        summary: Alegou que os judeus estavam a negociar o trabalho de outras pessoas.
+      - source: Дневник писателя, 1877
+        original: >
+          Евреи все кричат, что есть же и между ними хорошие люди. О Боже! да разве в этом дело?
+          Да и вовсе мы не о хороших или дурных людях теперь говорим. И разве между теми нет тоже хороших людей?
+          Разве покойный парижский Джемс Ротшильд был дурной человек? Мы говорим о целом и об идее его,
+          мы говорим о жидовстве и об идее жидовской, охватывающей весь мир, вместо "неудавшегося" христианства...
+        excerpt: >
+          Os judeus continuam a gritar que há pessoas boas entre eles. Ah, Deus! É mesmo esse o ponto? [...]
+          Estamos a falar de [calúnia para o Judaísmo] e da ideia [calúnia para o Judaísmo],
+          que abraça o mundo inteiro, em vez do Cristianismo “falhado”...
+        summary: Calúnias anti-semitas utilizadas. Desprezavam os judeus por não serem cristãos.
+  - name: Polonofobia
+    quotes:
+      - source: Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876
+        original: >
+          — Я знаю, мы все куда как сочувствуем чужим национальностям.
+          Недавно Пашков, этот известный проповедник, принял к себе в дом, отделил помещение и окружил всеми удобствами
+          — кого бы вы думали? — двух полек, выпущенных из крепости. Черт знает что такое — мало ли русских вешается с голоду, а он — полек!
+          <br>
+          Я видела, что Достоевский дошел до такого раздражения, что спорить с ним больше невозможно, и замолчала.
+        excerpt: >
+          — [...] Recentemente Pashkov, esse famoso pregador, acolheu em sua casa [...] dois polacos libertados da fortaleza.
+           [...] há muitos russos [...], e ele [apanhou] polacos!
+           Vi que Dostoievski estava tão irritado que era impossível discutir com ele [...]
+        summary: Ficou zangado com o pregador por este ter providenciado abrigo a raparigas refugiadas polacas em vez de russas.
+      - source: Дневник писателя, 1877
+        original: >
+          Рассуждениями ясными и точными доказывает г-н Костомаров, что всё это лишь нам западня,
+          что наведут они к нам Конрадов Валленродов, предателей; что поляк Старой Польши инстинктивно, слепо ненавидит Россию и русских.
+          Г-н Костомаров допускает, однако же, что есть прекрасные поляки, которые могут жить даже в дружбе с иным русским,
+          спасти его в беде, одолжить его. Это, конечно, правда, но чуть только этот русский, хотя бы даже после двадцати лет дружбы,
+          вдруг бы выразил этому прекрасному поляку свои политические убеждения насчет Польши в русском духе, то этот поляк тотчас же,
+          тут же, стал бы явным или тайным врагом своего русского друга, на всю жизнь, до конца, непримиримым и безграничным.
+          Об этом забыл прибавить г-н Костомаров.
+        excerpt: >
+          [...] o polaco da Velha Polónia instintivamente, odeia cegamente a Rússia e os russos. [...]
+          Assim que o russo, mesmo depois de vinte anos de amizade, manifestou subitamente a este excelente polaco a sua
+          convicções sobre a Polónia no espírito russo, então este polaco [tornar-se-ia] inimigo do seu amigo russo, para toda a vida [...]
+        summary: Alegou que os polacos eram hostis e ultranacionalistas.
+      - source: Дневник писателя, 1877
+        original: >
+          Теперь о другом: утолив вашу злобу, написав заведомую неправду, вы позволяете еще себе надеяться,
+          после вашего-то поступка столь явного предательства русских интересов старополякам и австрийцам,
+          и всякой бесконечной и вечно агитирующей против нас европейской швали, — на сочувствие к вам русских читателей?
+          Неужели вы так низко об них думаете?
+        excerpt: >
+          [...] permite-se ter esperança, depois do seu acto de tão evidente traição dos interesses russos aos velhos polacos e austríacos,
+          e toda a interminável e eternamente agitada escumalha europeia contra nós, pela simpatia dos leitores russos por si?
+          Considera-os realmente tão humildes?
+        summary: Chamados de escumalha polaca e austríaca. Alegou que eram indignos da simpatia russa.

@@ -1,0 +1,65 @@
+lead: >
+  Púchkin foi um escritor imperialista, que expressou as suas opiniões
+  [chauvinistas](#chauvinismo)
+  diversas vezes nos seus diários.
+sources: >
+  ["Púchkin não é apenas um imperialista e chauvinista, é um fascista assumido"](https://republic.com.ua/article/pushkin-ne-prosto-imperecz-i-shovinist-vin-vidvertij-fashist.html)
+  por [Oksana Bailo](https://www.facebook.com/Oksana.Bailo)
+categories:
+  - name: Chauvinismo
+    quotes:
+      - source: Путешествие в Арзрум во время похода 1829 года
+        original: >
+          Черкесы нас ненавидят. Мы вытеснили их из привольных пастбищ; аулы их разорены, целые племена уничтожены...
+          Дружба мирных черкесов ненадежна: они всегда готовы помочь буйным своим единоплеменникам.
+          Почти нет никакого способа их усмирить, пока их не обезоружат, как обезоружили крымских татар...
+        excerpt: >
+          Os circassianos odeiam-nos. Nós expulsámo-los das pastagens livres; as suas aldeias foram destruídas, tribos inteiras foram destruídas...
+          A amizade dos pacíficos circassianos não é fiável: estão sempre prontos a ajudar os seus violentos companheiros de tribo.
+          Quase não há forma de os pacificar até que sejam desarmados, tal como os tártaros da Crimeia foram desarmados...
+        summary: Genocídio aprovado dos Tártaros da Crimeia. Alegou que desarmar os circassianos era a única opção para os pacificar após a conquista violenta.
+      - source: Путешествие в Арзрум во время похода 1829 года
+        original: >
+          Недавно поймали мирного черкеса, выстрелившего в солдата. Он оправдывался тем, что ружье его слишком долго было заряжено.
+          Что делать с таковым народом? Должно, однако ж, надеяться, что приобретение восточного края Черного моря,
+          отрезав черкесов от торговли с Турцией, принудит их с нами сблизиться.
+        excerpt: >
+          Recentemente, apanharam um civil circassiano que baleou um soldado. [...] O que fazer com estas pessoas?
+          Devemos, no entanto, esperar que a aquisição da margem oriental do Mar Negro [...]
+          irá obrigá-los a aproximar-se de nós.
+        summary: Esperava pacificar economicamente os circassianos, bloqueando-lhes o acesso ao Mar Negro.
+      - source: Путешествие в Арзрум во время похода 1829 года
+        original: >
+          Влияние роскоши может благоприятствовать их укрощению: самовар был бы важным нововведением.
+          Есть средство более сильное, более нравственное, более сообразное с просвещением нашего века: проповедание Евангелия...
+          Кавказ ожидает христианских миссионеров...
+        excerpt: >
+          A influência do luxo pode favorecer a sua domesticação: o samovar seria uma inovação importante. [...]
+          O Cáucaso espera missionários cristãos...
+        summary: Esperava mais conquistas do Cáucaso.
+      - source: Путешествие в Арзрум во время похода 1829 года
+        original: >
+          Осетинцы самое бедное племя из народов, обитающих на Кавказе;
+          женщины их прекрасны и, как слышно, очень благосклонны к путешественникам.
+        excerpt: >
+          Os ossetas são a tribo mais pobre dos povos que vivem no Cáucaso;
+          as suas mulheres são bonitas e, segundo ouvimos dizer, gostam muito de viajantes.
+        summary: Prostituição aprovada entre as mulheres pobres da Ossétia.
+      - source: Путешествие в Арзрум во время похода 1829 года
+        original: >
+          Я ехал по земле, везде засеянной хлебом; кругом видны были деревни, но они были пусты: жители разбежались.
+        excerpt: >
+          Eu estava a viajar por uma terra semeada de cereais por toda a parte;
+          aldeias eram visíveis por toda a parte, mas estavam vazias: os habitantes tinham fugido.
+        summary: Admitiu a conquista violenta de terras turcas.
+      - source: Путешествие в Арзрум во время похода 1829 года
+        original: >
+          Никогда еще не видал я чужой земли. Граница имела для меня что-то таинственное;
+          с детских лет путешествия были моею любимою мечтою... никогда еще не вырывался из пределов необъятной России.
+          Я весело въехал в заветную реку, и добрый конь вынес меня на турецкий берег.
+          Но этот берег был уже завоеван: я все еще находился в России.
+        excerpt: >
+          [...] Nunca escapei às fronteiras da vasta Rússia. [...]
+          Um bom cavalo levou-me até à margem turca.
+          Mas esta costa já estava conquistada: eu ainda estava na Rússia.
+        summary: Ironizado sobre a expansão da fronteira do Império Russo.
