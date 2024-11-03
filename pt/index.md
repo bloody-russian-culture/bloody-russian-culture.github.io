@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Cultura Russa Sangrenta
+title: A cultura sanguinária da Rússia
 locale: pt
 related: false
 ---
