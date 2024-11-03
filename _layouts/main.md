@@ -31,10 +31,8 @@ layout: single
     {% endfor %}
 </div>
 
-<h3>Ukraine is struggling against Russian imperialism and colonialism right now!</h3>
-<a href="https://savelife.in.ua/en/donate-en/">Make a donation to Ukrainian Army (Come Back Alive)</a>
-<br>
-<a href="https://u24.gov.ua/">Make a humanitarian donation (United 24)</a>
-
-
 <script src="/assets/javascript/main.js"></script>
+
+{% assign locale = page.locale %}
+{% unless locale %}{% assign locale = "en" %}{% endunless %}
+{{ site.data[locale].main.donate }}

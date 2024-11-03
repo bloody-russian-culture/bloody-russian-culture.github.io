@@ -9,11 +9,11 @@ Ever wondered what makes it so great?
 The answer is __Imperialism__.
 
 Russian culture is __imperialist__, __elitist__ and __chauvinistic__.
-It's richness comes from the <span style="color: #780606">__blood__</span> of the people it colonized.
+It's richness comes from the <span style="color: #780606">__blood__</span> of the colonized people.
 
 - The "father of the modern Russian language", [__Pushkin__](/pushkin/), approved the colonisation of
 [Crimean Tatars](/pushkin/#approved-crimean-tatars-genocide-claimed-disarming-circassians-was-the-only-option-to-pacify-them-after-the-violent-conquest),
-[Circassians](/pushkin/#approved-crimean-tatars-genocide-claimed-disarming-circassians-was-the-only-option-to-pacify-them-after-the-violent-conquest),
+[Circassians](/pushkin/#was-hoping-to-pacify-circassians-economically-by-blocking-their-access-to-the-black-sea),
 and
 [Ossetians](/pushkin/#approved-prostitution-among-poor-ossetian-women).
 
@@ -21,7 +21,7 @@ and
 and described [atrocities](/lermontov/#hussars-ignore-tears-and-prayers-and-brutally-traumatize-the-victim-because-of-an-arousal)
 that accompanied these conquests.
 
-- The "empathetic examiners of the human soul", [__Dostoevsky__](/dostoevsky/), openly despised
+- The "empathetic examiner of the human soul", [__Dostoevsky__](/dostoevsky/), openly despised
 [Ukrainians](/dostoevsky/#despised-ukrainians-being-liberal-and-respecting-womens-rights-claimed-russian-patriarchy-to-be-natural),
 [Jews](/dostoevsky/#used-antisemitic-slurs-despised-jews-for-not-being-christians),
 [Poles](/dostoevsky/#claimed-poles-to-be-hostile-and-ultra-nationalist),

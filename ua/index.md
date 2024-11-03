@@ -5,40 +5,40 @@ locale: ua
 related: false
 ---
 
-Ever heard of the "Great" Russian culture?
-Ever wondered what makes it so great?
-The answer is __Imperialism__.
+Ви коли-небудь чули про «Велику» російську культуру?
+Ви коли-небудь замислювалися, що робить її такою великою?
+Відповідь - __Імперіалізм__.
 
-Russian culture is __imperialist__, __elitist__ and __chauvinistic__.
-It's richness comes from the <span style="color: #780606">__blood__</span> of the people it colonized.
+Російська культура __імперіалістична__, __елітарна__ і __шовіністична__.
+Її багатство походить від <span style="color: #780606">__крові__</span> колонізованих народів.
 
-- The "father of the modern Russian language", [__Pushkin__](/ua/pushkin/), approved the colonisation of
-[Crimean Tatars](/ua/pushkin/#approved-crimean-tatars-genocide-claimed-disarming-circassians-was-the-only-option-to-pacify-them-after-the-violent-conquest),
-[Circassians](/ua/pushkin/#approved-crimean-tatars-genocide-claimed-disarming-circassians-was-the-only-option-to-pacify-them-after-the-violent-conquest),
-and
-[Ossetians](/ua/pushkin/#approved-prostitution-among-poor-ossetian-women).
+- "Батько сучасної російської мови", [__Пушкін__](/ua/pushkin/), схвалював колонізацію
+[кримських татар](/ua/pushkin/#схвалював-геноцид-кримських-татар-стверджув-що-роззброєння-черкесів-було-єдиним-способом-заспокоїти-їх-після-насильницького-завоювання),
+[черкесів](/ua/pushkin/#сподівався-економічно-вгамувати-черкесів-перекривши-їм-вихід-до-чорного-моря),
+та
+[осетинців](/ua/pushkin/#схвалював-проституцію-серед-бідних-осетинських-жінок).
 
-- The "Poet of the Caucasus", or "Russia’s Second Poet", [__Lermontov__](/ua/lermontov/), was a soldier himself,
-and described [atrocities](/ua/lermontov/#hussars-ignore-tears-and-prayers-and-brutally-traumatize-the-victim-because-of-an-arousal)
-that accompanied these conquests.
+- "Поет Кавказу", або "Другий російський поет" [__Лєрмонтов__](/ua/lermontov/), сам був солдатом,
+і описував [звірства](/ua/lermontov/#гусари-ігнорують-сльози-та-молитви-та-жорстоко-травмують-жертву-через-збудження)
+що супроводжували ці завоювання.
 
-- The "empathetic examiners of the human soul", [__Dostoevsky__](/ua/dostoevsky/), openly despised
-[Ukrainians](/ua/dostoevsky/#despised-ukrainians-being-liberal-and-respecting-womens-rights-claimed-russian-patriarchy-to-be-natural),
-[Jews](/ua/dostoevsky/#used-antisemitic-slurs-despised-jews-for-not-being-christians),
-[Poles](/ua/dostoevsky/#claimed-poles-to-be-hostile-and-ultra-nationalist),
-[Austrians](/ua/dostoevsky/#called-old-poles-and-austrians-scum-claimed-them-to-be-unworthy-of-russian-sympathy)
-and
-[Serbs](/ua/dostoevsky/#claimed-russians-to-be-superior-and-colonized-nations-to-be-inferior-and-harmful).
+- "Емпатичний дослідник людської душі", [__Достоєвський__](/ua/dostoevsky/), відкрито зневажав
+[українців](/ua/dostoevsky/#зневажав-українців-за-ліберальність-і-повагу-до-жіночих-прав-стверджував-природність-російського-патріархату),
+[євреїв](/ua/dostoevsky/#використовував-антисемітські-образи-зневажав-євреїв-за-те-що-вони-не-були-християнами),
+[поляків](/ua/dostoevsky/#стверджував-що-поляки-ворожі-та-ультранаціоналістичні),
+[австрійців](/ua/dostoevsky/#називав-поляків-і-австрійців-шваллю-стверджував-що-вони-не-достойні-російського-співчуття)
+і
+[сербів](/ua/dostoevsky/#вважав-росіян-хорошими-а-колонізовані-нації-поганими-та-шкідливими).
 
-- The "visionary critic of Soviet society", [__Bulgakov__](/ua/bulgakov/), was born and lived in Kyiv, yet mocked
-[Kyivians](/ua/bulgakov/#viewed-kyiv-as-inferior-to-moscow),
-[Ukrainian language](/ua/bulgakov/#mocked-ukrainian-language-and-didnt-take-it-seriously)
-and
-[Ukrainian speakers](/ua/bulgakov/#mocked-people-who-switched-to-ukrainian-implying-russian-language-and-resources-are-richer).
+- "Критик-візіонер радянського суспільства", [__Булгаков__](/ua/bulgakov/), народився і жив у Києві, тим не менш глузував з
+[киян](/ua/bulgakov/#вважав-київ-гіршим-за-москву),
+[української мови](/ua/bulgakov/#глузував-з-української-мови-і-не-сприймав-її-серйозно)
+та
+[людей, що нею говорять](/ua/bulgakov/#глузував-з-людей-що-почали-говорити-українською-мовою-натякаючи-що-російські-культура-та-ресурси-є-багатшими).
 
-- The "Russian opposition leader", [__Navalny__](/ua/navalny/), supported
-[Crimea annexation](/ua/navalny/#supported-crimea-annexation-by-russia)
-and despised [Crimean Tatars](/ua/navalny/#referred-to-indigenous-crimean-tatars-as-agitating-interested-parties).
+- "Лідер російської опозиції", [__Навальний__](/ua/navalny/), підтримував
+[анексію Криму](/ua/navalny/#підтримав-анексію-криму-росією)
+і зневажав [кримських татар](/ua/navalny/#згадував-корінних-кримських-татар-як-агітуючу-зацікавлену-сторону).
 
-    His widow, the "New face of Russian opposition", __Yulia Navalnaya__ supports
-    [Russian colonialism](/ua/navalny/#yulia-navalnaya-wishes-to-punish-the-opponents-of-russian-colonialism).
+  Його вдова, "Нове лице російської опозиції", __Юлія Навальна__ підтримує
+  [російський колоніалізм](/ua/navalny#юлія-навальна-обіцяє-переслідувати-противників-російського-колоніалізму).

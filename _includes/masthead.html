@@ -12,7 +12,7 @@
                 <ul class="visible-links">
                     {%- for link in site.data.navigation.main -%}
                     <li class="masthead__menu-item">
-                        <a href="{{ link.url | relative_url }}" title="{{ link.description }}">{{ link.title }}</a>
+                        <a href="{{ link.url | append: page.data_source | relative_url }}" title="{{ link.description }}">{{ link.title }}</a>
                     </li>
                     {%- endfor -%}
                 </ul>

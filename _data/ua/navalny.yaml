@@ -1,31 +1,29 @@
 lead: >
-  Navalny was a Russian politician, who expressed his
-  [imperialist](#imperialism) 
-  views multiple times during interviews.
-  His wife, Yulia Navalnaya [supports Russian colonialism](#yulia-navalnaya-wishes-to-punish-the-opponents-of-russian-colonialism).
+  Навальний був російським політиком, який висловлював свої
+  [імперіалістичні](#імперіалізм)
+  погляди кілька разів під час інтервʼю.
+  Його дружина Юлія Навальна [підтримує російський колоніалізм] (#юлі-навальна-обіцяє-переслідувати-противників-російського-колоніалізму).
 sources: >
-  Sources:
-    <details>
+  - <details>
         <summary>Интервью Навального на радио "Эхо Москвы", 2014</summary>
         <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fradiosvoboda.org%2Fvideos%2F1017836138699284%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
     </details>
-    <br>
-    <a href="https://www.golosameriki.com/a/navalny-interview-voa-rferl/2796991.html">
+  - <a href="https://www.golosameriki.com/a/navalny-interview-voa-rferl/2796991.html">
       Алексей Навальный: интервью «Голосу Америки» и Радио Свобода, 2015
     </a>
-    <details>
+  - <details>
         <summary>Речь Юлии Навальной на стратегическом форуме в Словении, 2024</summary>
         <blockquote class="twitter-tweet"><p lang="ru" dir="ltr">Публикуем речь Юлии Навальной, с которой она выступила на стратегическом форуме в Словении ❤️<br><br>Дорогая госпожа Файон, уважаемые ⁰дамы и господа,<br><br>Я благодарю вас за приглашение выступить на стратегическом форуме в Бледе ⁰и за премию, которой вы решили меня наградить. Это…</p>&mdash; Команда Навального | ФБК (@teamnavalny) <a href="https://twitter.com/teamnavalny/status/1830948210757480679?ref_src=twsrc%5Etfw">September 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </details>
 categories:
-  - name: Imperialism
+  - name: Імперіалізм
     quotes:
       - source: Интервью Навального на радио "Эхо Москвы", 2014
         original: >
           - Крым - это бутерброд с колбасой, что ли, чтобы его туда-сюда возвращать?
         excerpt: >
-          - Is Crimea a <b>sandwich</b> with sausage, or what, to be returned back and forth?
-        summary: Supported Crimea annexation by Russia.
+          – Крим – це <b>бутерброд</b> із ковбасою, чи що, щоб його туди-сюди повертати?
+        summary: Підтримав анексію Криму Росією.
       - source: "Алексей Навальный: интервью «Голосу Америки» и Радио Свобода, 2015"
         original: >
           Навальный: Захват Крыма был вредным нарушением международных договоренностей [...].
@@ -37,22 +35,23 @@ categories:
           В настоящий момент там 3 миллиона граждан России, у них есть паспорта,
           и вот так вот просто щелкнуть пальцем и сказать – отдайте...
         excerpt: >
-          Navalny: The Crimea annexation was a harmful violation of international agreements [...].
-          But the Crimea problem cannot be solved quickly.
+          Навальний: Захоплення Криму було шкідливим порушенням міжнародних домовленостей [...].
+          Але проблему Криму не можна вирішити швидко.
           <br>
-          Interviewer: In your opinion, "in a <b>sandwich</b> way."
-          <br> Navalny: It cannot be solved in a <b>sandwich</b> way, that's right. It cannot simply be returned. [...]
-          At the moment, there are 3 million Russian citizens there, they have a passport,
-          and it is easy to snap a finger and say - give it back...
-        summary: Admitted Crimea annexation to be illegal. Then doubled down on supporting it.
+          Інтерв'юер: На вашу думку, «бутербродом».
+          <br>
+          Навальний: Не можна вирішити бутербродом, саме так. Його не можна просто повернути. [...]
+          На даний момент там 3 мільйони громадян Росії, у них є паспорти,
+          і ось так просто клацнути пальцем і сказати - віддайте...
+        summary: Визнавав анексію Криму незаконною. Потім підтримав її знову.
       - source: "Алексей Навальный: интервью «Голосу Америки» и Радио Свобода, 2015"
         original: >
           Первое и единственное, что можно начать делать – это провести честный референдум с длительным периодом подготовки,
           где и Украина, и крымские татары, то есть все заинтересованные стороны продолжительное время смогут вести агитацию.
         excerpt: >
-          The first and only thing that can be done is to hold an honest referendum with a long period of preparation,
-          where both Ukraine and the Crimean Tatars, that is, all interested parties, will be able to agitate for a long time.
-        summary: Referred to indigenous Crimean Tatars as agitating interested party.
+          Перше та єдине, що можна почати робити – це провести чесний референдум із тривалим періодом підготовки,
+          де і Україна, і кримські татари, тобто всі зацікавлені сторони, тривалий час зможуть вести агітацію.
+        summary: Згадував корінних кримських татар як агітуючу зацікавлену сторону.
       - source: Речь Юлии Навальной на стратегическом форуме в Словении, 2024
         original: >
           Наконец, мы найдем и тех, кто рассказывает про необходимость срочно «деколонизировать» Россию.
@@ -61,9 +60,9 @@ categories:
           Правда, объяснить, почему люди с общим бэкграундом и культурным контекстом должны быть искусственно разделены,
           «деколонизаторы» не могут. И как это вообще должно произойти — не сообщают.
         excerpt: >
-          Finally, we will find those who talk about the urgent need to "decolonize" Russia.
-          Supposedly, our too-large country needs to be divided into a couple dozen small and safe states.
+          Зрештою, ми знайдемо і тих, хто розповідає про необхідність терміново деколонізувати Росію.
+          Треба, нібито, розділити нашу надто велику країну на кілька десятків маленьких та безпечних держав.
           <br>
-          True, the "decolonizers" cannot explain why people with a common background and cultural context should be artificially divided.
-          And they do not say how this should happen at all.
-        summary: Yulia Navalnaya wishes to punish the opponents of Russian colonialism.
+          Щоправда, пояснити, чому люди із загальним бекграундом та культурним контекстом мають бути штучно розділені,
+          «деколонізатори» не можуть. І як це взагалі має статися – не повідомляють.
+        summary: Юлія Навальна обіцяє переслідувати противників російського колоніалізму.

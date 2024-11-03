@@ -1,12 +1,12 @@
 lead: >
-  Dostoevsky was an imperialist writer, who expressed his
-  [chauvinistic](#chauvinism),
-  [ukrainophobic](#ukrainophobia),
-  [antisemitic](#antisemitism),
-  and [polonophobic](#polonophobia)
-  views multiple times in his diaries and to other people.
+  Достоєвський був імперіалістичним письменником, що висловлював свої
+  [шовіністичні](#шовінізм),
+  [українофобні](#українофобія),
+  [антисемітські](#антисемітизм),
+  та [полонофобні](#полонофобія)
+  погляди неодноразово у своїх щоденниках та іншим людям.
 categories:
-  - name: Chauvinism
+  - name: Шовінізм
     quotes:
       - source: Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876
         original: >
@@ -15,10 +15,11 @@ categories:
           и тормозит работу всеобщего просвещения, всеобщей великорусской литературы, в которых все спасение, вся надежда.
           Он тормозит ход цивилизации, созданной одним великорусским народом, сумевшим создать величайшее из государств.
         excerpt: >
-          Dostoevsky [...] finds that a Serb, a Little Russian, etc. [...] is a positively harmful member of society,
-          and hinders the work of universal education, universal Great Russian literature, in which lies all salvation, all hope. [...]
-        summary: Claimed Russians to be superior and colonized nations to be inferior and harmful.
-  - name: Ukrainophobia
+          [Достоєвський] вважає, що серб, малорос і т. д., [це] позитивно шкідливий член суспільства,
+          що гальмує роботу загальної освіти, загальної великоросійської літератури,
+          у яких [полягає] весь порятунок, вся надія. [...]
+        summary: Вважав росіян хорошими, а колонізовані нації поганими та шкідливими.
+  - name: Українофобія
     quotes:
       - source: Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876
         original: >
@@ -31,19 +32,20 @@ categories:
           а все остальные вполне естественно подчиняются ему. Чувствуется близость, общность интересов, разделение труда,
           и взамен всего этого вы предлагаете обособленность, вражду.
         excerpt: >
-          — [...] in Little Russia there is independence of personality, [...] women are not looked upon as beasts [...].
-          There is nothing good about that [...]. What’s the harm if the old man is respected in the family?
-          He is not a despot, he [..] fulfills the position assigned to him by nature, and everyone else quite naturally submits to him. [...]
-        summary: Despised Ukrainians being liberal and respecting women's rights. Claimed Russian patriarchy to be natural.
+          — [...] У Малоросії існує незалежність особистості, [...] що на жінку не дивляться як на худобу [...].
+          Що ж тут гарного [...]. Що за біда, якщо старого поважають у сім'ї?
+          Це не деспот, [...] він точно виконує посаду, призначену йому природою,
+          а решта цілком природно підкоряються йому. [...]
+        summary: Зневажав українців за ліберальність і повагу до жіночих прав. Стверджував природність російського патріархату.
       - source: Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876
         original: >
           Один великоросс великодушно и честно смотрит на все национальности, без всякой злобы и преднамеренности,
           тогда как малоросс, например, вечно держит камень за пазухой и не может отнестись к великороссу иначе, как с враждой.
         excerpt: >
-          [...] a Little Russian, for example, always holds a stone in his bosom
-          and cannot treat a Great Russian otherwise than with hostility.
-        summary: Claimed Russians to be kind while Ukrainians being hostile.
-  - name: Antisemitism
+          Тільки великорос великодушно і чесно дивиться на всі національності, без всякої злості та упередження,
+          тоді як малорос, наприклад, вічно тримає камінь за пазухою і не може поставитися до великороса інакше, як з ворожнечею.
+        summary: Стверджував, що Росіяни добрі і неупереджені а Українці - ворожі.
+  - name: Антисемітизм
     quotes:
       - source: Дневник писателя, 1877
         original: >
@@ -56,9 +58,9 @@ categories:
           Капитал есть накопленный труд; еврей любит торговать чужим трудом! Но всё же это пока ничего не изменяет;
           зато верхушка евреев воцаряется над человечеством всё сильнее и тверже и стремится дать миру свой облик и свою суть.
         excerpt: >
-          [...] in the very labor of the Jews [...] there is something wrong, abnormal, something unnatural [...].
-          Jew loves to trade other people's labor! [...]
-        summary: Claimed Jews to be trading other people's labour.
+          [...] у самій праці євреїв [...] полягає щось неправильне, ненормальне, щось неприродне [...].
+          Єврей любить торгувати чужою працею! [...]
+        summary: Стверджував, шо євреї торгують чужою працею.
       - source: Дневник писателя, 1877
         original: >
           Евреи все кричат, что есть же и между ними хорошие люди. О Боже! да разве в этом дело?
@@ -66,11 +68,11 @@ categories:
           Разве покойный парижский Джемс Ротшильд был дурной человек? Мы говорим о целом и об идее его,
           мы говорим о жидовстве и об идее жидовской, охватывающей весь мир, вместо "неудавшегося" христианства...
         excerpt: >
-          The Jews keep shouting that there are good people among them. Oh, God! Is that really the point? [...]
-          We are talking about [slur for Judaism] and the [slur for Jewish] idea,
-          which embraces the whole world, instead of the "failed" Christianity...
-        summary: Used antisemitic slurs. Despised Jews for not being Christians.
-  - name: Polonophobia
+          Євреї все кричать, що є й між ними добрі люди. О Боже! та хіба в цьому справа? [...]
+          Ми говоримо про жидівство і про ідею жидівську,
+          що охоплює весь світ, замість "невдалого" християнства...
+        summary: Використовував антисемітські образи. Зневажав євреїв за те, що вони не були Християнами
+  - name: Полонофобія
     quotes:
       - source: Воспоминания и исследования о творчестве Ф. М. Достоевского, 1876
         original: >
@@ -80,10 +82,11 @@ categories:
           <br>
           Я видела, что Достоевский дошел до такого раздражения, что спорить с ним больше невозможно, и замолчала.
         excerpt: >
-          — [...] Recently Pashkov, that famous preacher, took into his home [...] two Poles released from the fortress.
-          [...] there are many Russians [...], and he [took] Poles!
-          I saw Dostoevsky had reached such an irritation that it was impossible to argue with him [...]
-        summary: Was angry at the preacher for providing shelter to Polish refugee girls instead of Russians.
+          — [...] Нещодавно Пашков, цей відомий проповідник, прийняв до себе в будинок [...] двох польок, випущених із фортеці.
+          Чорт знає, що таке — чи мало росіян вішається з голоду, а він [прийняв] польок!
+          <br>
+          Я бачила, що Достоєвський дійшов такого роздратування, що сперечатися з ним більше неможливо [...].
+        summary: Злився на проповідника за те, що він надав притулок польським дівчатам-біженкам замість росіян.
       - source: Дневник писателя, 1877
         original: >
           Рассуждениями ясными и точными доказывает г-н Костомаров, что всё это лишь нам западня,
@@ -94,10 +97,10 @@ categories:
           тут же, стал бы явным или тайным врагом своего русского друга, на всю жизнь, до конца, непримиримым и безграничным.
           Об этом забыл прибавить г-н Костомаров.
         excerpt: >
-          [...] the Pole of Old Poland instinctively, blindly hates Russia and the Russians. [...]
-          As soon as Russian, even after twenty years of friendship, suddenly expressed to this excellent Pole his political
-          convictions about Poland in the Russian spirit, then this Pole would [become an] enemy of his Russian friend, for life [...]
-        summary: Claimed Poles to be hostile and ultra-nationalist.
+          [...] Поляк Старої Польщі інстинктивно, сліпо ненавидить Росію та росіян. [...]
+          Тільки цей росіянин, хоча б навіть після двадцяти років дружби, раптом би висловив цьому прекрасному поляку свої
+          політичні переконання щодо Польщі в російському дусі, то цей поляк негайно [став би] ворогом свого російського друга, на все життя [...].
+        summary: Стверджував, що поляки ворожі та ультранаціоналістичні.
       - source: Дневник писателя, 1877
         original: >
           Теперь о другом: утолив вашу злобу, написав заведомую неправду, вы позволяете еще себе надеяться,
@@ -105,7 +108,10 @@ categories:
           и всякой бесконечной и вечно агитирующей против нас европейской швали, — на сочувствие к вам русских читателей?
           Неужели вы так низко об них думаете?
         excerpt: >
-          [...] after your act of such obvious betrayal of Russian interests to the Old Poles and Austrians,
+          [...] ви дозволяєте ще собі сподіватися, після вашого вчинку настільки явної зради російських інтересів старополякам і австрійцям,
+          і всякій нескінченній і вічно агітуючій проти нас європейській швалі, — на співчуття до вас російських читачів?
+          Невже ви так низько про них думаєте?
+          [...] you allow yourself to hope, after your act of such obvious betrayal of Russian interests to the Old Poles and Austrians,
           and all the endless and eternally agitating European scum against us, for sympathy for you from Russian readers?
           Do you really think so lowly of them?
-        summary: Called Old Poles and Austrians scum. Claimed them to be unworthy of Russian sympathy.
+        summary: Називав поляків і австрійців шваллю. Стверджував, що вони не достойні російського співчуття.
