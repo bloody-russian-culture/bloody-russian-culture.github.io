@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://bloody-russian-culture.github.io/pt/bulgakov/</loc>
+</url>
+<url>
 <loc>https://bloody-russian-culture.github.io/ua/bulgakov/</loc>
 </url>
 <url>
 <loc>https://bloody-russian-culture.github.io/bulgakov/</loc>
+</url>
+<url>
+<loc>https://bloody-russian-culture.github.io/pt/dostoevsky/</loc>
 </url>
 <url>
 <loc>https://bloody-russian-culture.github.io/ua/dostoevsky/</loc>
@@ -13,10 +19,16 @@
 <loc>https://bloody-russian-culture.github.io/dostoevsky/</loc>
 </url>
 <url>
+<loc>https://bloody-russian-culture.github.io/pt/</loc>
+</url>
+<url>
 <loc>https://bloody-russian-culture.github.io/ua/</loc>
 </url>
 <url>
 <loc>https://bloody-russian-culture.github.io/</loc>
+</url>
+<url>
+<loc>https://bloody-russian-culture.github.io/pt/lermontov/</loc>
 </url>
 <url>
 <loc>https://bloody-russian-culture.github.io/ua/lermontov/</loc>
@@ -25,10 +37,16 @@
 <loc>https://bloody-russian-culture.github.io/lermontov/</loc>
 </url>
 <url>
+<loc>https://bloody-russian-culture.github.io/pt/navalny/</loc>
+</url>
+<url>
 <loc>https://bloody-russian-culture.github.io/ua/navalny/</loc>
 </url>
 <url>
 <loc>https://bloody-russian-culture.github.io/navalny/</loc>
+</url>
+<url>
+<loc>https://bloody-russian-culture.github.io/pt/pushkin/</loc>
 </url>
 <url>
 <loc>https://bloody-russian-culture.github.io/ua/pushkin/</loc>
