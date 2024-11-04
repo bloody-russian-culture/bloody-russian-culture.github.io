@@ -10,7 +10,7 @@ Já se perguntou o que o torna tão bom?
 A resposta é __Imperialismo__.
 
 A cultura russa é __imperialista__, __elitista__ e __chauvinista__.
-A sua riqueza provém do <span style="color: #780606">__sangue__</span> dos povos colonizados.
+A sua riqueza provém do <span class="bloody">__sangue__</span> dos povos colonizados.
 
 - O "pai da língua russa moderna", [Púchkin](/pt/puchkin/), aprovou a colonização dos
   [tártaros da Crimeia](/pt/puchkin/#genocídio-aprovado-dos-tártaros-da-crimeia-alegou-que-desarmar-os-circassianos-era-a-única-opção-para-os-pacificar-após-a-conquista-violenta),

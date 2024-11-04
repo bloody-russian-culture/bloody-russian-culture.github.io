@@ -1,5 +1,5 @@
 {
-  "name": "BRC",
+  "name": "Bloody Russian Culture",
   "short_name": "BRC",
   "icons": [
     {
@@ -15,7 +15,7 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#780606",
-  "background_color": "#780606",
+  "theme_color": "#780607",
+  "background_color": "#780607",
   "display": "standalone"
 }
