@@ -1,7 +1,7 @@
 ---
 layout: quotes
-title: Sangrento Dostoiévski
-permalink: /pt/dostoevsky/
+title: Dostoiévski o sanguinário
+permalink: /pt/dostoievski/
 data_source: dostoevsky
 locale: pt
 ---

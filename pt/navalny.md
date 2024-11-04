@@ -1,6 +1,6 @@
 ---
 layout: quotes
-title: Sangrento Navalny
+title: Navalny o sanguinário
 permalink: /pt/navalny/
 data_source: navalny
 locale: pt

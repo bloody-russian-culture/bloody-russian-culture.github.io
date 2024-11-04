@@ -1,7 +1,7 @@
 ---
 layout: quotes
-title: Sangrento Púchkin
-permalink: /pt/pushkin/
+title: Púchkin o sanguinário
+permalink: /pt/puchkin/
 data_source: pushkin
 locale: pt
 ---

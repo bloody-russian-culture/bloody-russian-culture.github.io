@@ -1,6 +1,6 @@
 ---
 layout: quotes
-title: Sangrento Bulgákov
+title: Bulgakov o sanguinário
 permalink: /pt/bulgakov/
 data_source: bulgakov
 locale: pt
