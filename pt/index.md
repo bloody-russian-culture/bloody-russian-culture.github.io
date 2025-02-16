@@ -21,12 +21,12 @@ A sua riqueza provém do <span class="bloody">__sangue__</span> dos povos coloni
   [atrocidades](/pt/lermontov/#os-hussardos-ignoram-as-lágrimas-e-as-orações-e-traumatizam-brutalmente-a-vítima-por-causa-de-uma-excitação)
   que acompanharam estas conquistas.
 
-- O "examinador empático da alma humana", [__Dostoiévski__](/pt/dostoievski/), desprezava abertamente
-  os [ucranianos](/pt/dostoievski/#desprezava-os-ucranianos-por-serem-liberais-e-respeitarem-os-direitos-das-mulheres-alegou-que-o-patriarcado-russo-era-natural),
-  os [judeus](/pt/dostoievski/#calúnias-anti-semitas-utilizadas-desprezavam-os-judeus-por-não-serem-cristãos),
-  os [polacos](/pt/dostoievski/#alegou-que-os-polacos-eram-hostis-e-ultranacionalistas),
-  os [austríacos](/pt/dostoievski/#chamados-de-escumalha-polaca-e-austríaca-alegou-que-eram-indignos-da-simpatia-russa)
-  e os [sérvios](/pt/dostoievski/#alegou-que-os-russos-eram-superiores-e-que-as-nações-colonizadas-eram-inferiores-e-prejudiciais).
+- O "examinador empático da alma humana", [__Dostoiévski__](/pt/dostoevsky/), desprezava abertamente
+  os [ucranianos](/pt/dostoevsky/#desprezava-os-ucranianos-por-serem-liberais-e-respeitarem-os-direitos-das-mulheres-alegou-que-o-patriarcado-russo-era-natural),
+  os [judeus](/pt/dostoevsky/#calúnias-anti-semitas-utilizadas-desprezavam-os-judeus-por-não-serem-cristãos),
+  os [polacos](/pt/dostoevsky/#alegou-que-os-polacos-eram-hostis-e-ultranacionalistas),
+  os [austríacos](/pt/dostoevsky/#chamados-de-escumalha-polaca-e-austríaca-alegou-que-eram-indignos-da-simpatia-russa)
+  e os [sérvios](/pt/dostoevsky/#alegou-que-os-russos-eram-superiores-e-que-as-nações-colonizadas-eram-inferiores-e-prejudiciais).
 
 - O "crítico visionário da sociedade soviética", [__Bulgákov__](/pt/bulgakov/), nasceu e viveu em Kiev, mas troçava dos
   [kyivianos](/pt/bulgakov/#considerava-kiev-inferior-a-moscovo),

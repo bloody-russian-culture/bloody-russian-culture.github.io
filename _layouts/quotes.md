@@ -40,5 +40,7 @@ layout: main
     {% endfor %}
 {% endfor %}
 
-{{ locale_data.quotes.sources }}:
+{% if data.sources %}
+    {{ locale_data.quotes.sources }}:
+{% endif %}
 {{ data.sources | markdownify }}
