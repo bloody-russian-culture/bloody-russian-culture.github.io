@@ -12,10 +12,10 @@ A resposta é __Imperialismo__.
 A cultura russa é __imperialista__, __elitista__ e __chauvinista__.
 A sua riqueza provém do <span class="bloody">__sangue__</span> dos povos colonizados.
 
-- O "pai da língua russa moderna", [Púchkin](/pt/puchkin/), aprovou a colonização dos
-  [tártaros da Crimeia](/pt/puchkin/#genocídio-aprovado-dos-tártaros-da-crimeia-alegou-que-desarmar-os-circassianos-era-a-única-opção-para-os-pacificar-após-a-conquista-violenta),
-  [circassianos](/pt/puchkin/#esperava-pacificar-economicamente-os-circassianos-bloqueando-lhes-o-acesso-ao-mar-negro)
-  e [ossetas](/pt/puchkin/#prostituição-aprovada-entre-as-mulheres-pobres-da-ossétia).
+- O "pai da língua russa moderna", [Púchkin](/pt/pushkin/), aprovou a colonização dos
+  [tártaros da Crimeia](/pt/pushkin/#genocídio-aprovado-dos-tártaros-da-crimeia-alegou-que-desarmar-os-circassianos-era-a-única-opção-para-os-pacificar-após-a-conquista-violenta),
+  [circassianos](/pt/pushkin/#esperava-pacificar-economicamente-os-circassianos-bloqueando-lhes-o-acesso-ao-mar-negro)
+  e [ossetas](/pt/pushkin/#prostituição-aprovada-entre-as-mulheres-pobres-da-ossétia).
 
 - O "Poeta do Cáucaso", ou "Segundo Poeta da Rússia", [__Lermontov__](/pt/lermontov/), era ele próprio um soldado e descreveu as
   [atrocidades](/pt/lermontov/#os-hussardos-ignoram-as-lágrimas-e-as-orações-e-traumatizam-brutalmente-a-vítima-por-causa-de-uma-excitação)
@@ -29,9 +29,9 @@ A sua riqueza provém do <span class="bloody">__sangue__</span> dos povos coloni
   e os [sérvios](/pt/dostoevsky/#alegou-que-os-russos-eram-superiores-e-que-as-nações-colonizadas-eram-inferiores-e-prejudiciais).
 
 - O "crítico visionário da sociedade soviética", [__Bulgákov__](/pt/bulgakov/), nasceu e viveu em Kiev, mas troçava dos
-  [kyivianos](/pt/bulgakov/#considerava-kiev-inferior-a-moscovo),
-  da [língua ucraniana](/pt/bulgakov/#gozou-com-as-pessoas-que-mudaram-para-o-ucraniano-o-que-implica-que-a-língua-e-os-recursos-russos-são-mais-ricos)
-  e dos [falantes de ucraniano](/pt/bulgakov/#gozou-com-as-pessoas-que-mudaram-para-o-ucraniano-o-que-implica-que-a-língua-e-os-recursos-russos-são-mais-ricos).
+  [kyivianos](/pt/bulgakov/#considerou-kyiv-inferior-a-moscovo),
+  da [língua ucraniana](/pt/bulgakov/#gozou-com-a-língua-ucraniana-considerando-a-inferior)
+  e dos [falantes de ucraniano](/pt/bulgakov/#gozou-com-as-pessoas-que-passaram-a-falar-a-língua-ucraniana-afirmando-implicitamente-que-a-língua-e-os-recursos-russos-são-mais-relevantes).
 
 - O “líder da oposição russa”, [__Navalny__](/pt/navalny/), apoiou
   a [anexação da Crimeia](/pt/navalny/#apoiou-a-anexação-da-crimeia-pela-rússia)
