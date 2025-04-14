@@ -41,5 +41,3 @@ It's richness comes from the <span class="bloody">__blood__</span> of the coloni
 
   His widow, the "New face of Russian opposition", __Yulia Navalnaya__ supports
   [Russian colonialism](/navalny/#yulia-navalnaya-wishes-to-punish-the-opponents-of-russian-colonialism).
-
-Also, check [__Sarna__'s take on the situation](/sarna/)
