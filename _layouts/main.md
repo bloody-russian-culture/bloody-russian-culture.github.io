@@ -9,21 +9,22 @@ layout: single
 <div class="slideshow-wrapper">
     {% assign folderNames = "russian-culture,blood" | split: "," %}
     {% for folderName in folderNames %}
+        {% if forloop.first %}
+            {% assign panelName = "left" %}
+        {% else %}
+            {% assign panelName = "right" %}
+        {% endif %}
         <div class="slideshow-container">
             {% for image in site.static_files %}
                 {% assign folderPath = "/assets/images/" | append: folderName | append: "/" %}
                 {% if image.path contains folderPath %}
-                    {% assign slides = '<div class="' | append: folderName | append: '-slides fade"><img src="' | append: image.path | append: '" style="width:100%"></div>' %}
-                    {% if folderName == "blood" %}
-                        {{ slides }}
-                    {% else %}
-                        {% if page.data_source %}
-                            {% if image.path contains page.data_source %}
-                                {{ slides }}
-                            {% endif %}
-                        {% else %}
+                    {% assign slides = '<div class="' | append: panelName | append: '-slides"><img src="' | append: image.path | append: '"></div>' %}
+                    {% if page.data_source and page.no_image != true %}
+                        {% if image.path contains page.data_source %}
                             {{ slides }}
                         {% endif %}
+                    {% else %}
+                        {{ slides }}
                     {% endif %}
                 {% endif %}
             {% endfor %}
