@@ -1,0 +1,216 @@
+lead: >
+  Російська мультиплікація займається плагіатом іноземних робіт, відображаючи імперію, нездатну до справжньої творчості.
+sources: >
+  Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+  - [Animation plagiarisms in USSR](https://youtu.be/nw8Z1hwAP9A)
+cases:
+  - name: Well, Just You Wait!
+    code: well
+    year: 1969
+    wiki: https://en.wikipedia.org/wiki/Well,_Just_You_Wait!
+    origins:
+      - name: Tom and Jerry
+        code: tom
+        year: 1940
+        wiki: https://en.wikipedia.org/wiki/Tom_and_Jerry
+      - name: Modern Inventions
+        code: modern
+        year: 1937
+        wiki: https://en.wikipedia.org/wiki/Modern_Inventions
+  - name: Cheburashka
+    code: che
+    year: 1969
+    wiki: https://en.wikipedia.org/wiki/Cheburashka
+    origins:
+      - name: Momotaro
+        code: momotaro
+        year: 1940
+        wiki: https://en.wikipedia.org/wiki/Momotaro%3A_Sacred_Sailors
+  - name: Leopold the Cat
+    code: leo
+    year: 1975
+    wiki: https://en.wikipedia.org/wiki/Leopold_the_Cat
+    origins:
+      - name: The Aristo-Cat
+        code: aristo
+        year: 1943
+        wiki: https://en.wikipedia.org/wiki/Hubie_and_Bertie
+      - name: The Aristocats
+        code: cats
+        year: 1970
+        wiki: https://en.wikipedia.org/wiki/The_Aristocats
+      - name: Pluto
+        code: pluto
+        year: 1970
+        wiki: https://en.wikipedia.org/wiki/Pluto_(Disney)
+  - name: Brave Sailor
+    code: brave
+    year: 1936
+    wiki: https://www.imdb.com/title/tt4859354/
+    origins:
+      - name: Popeye
+        code: popeye
+        year: 1929
+        wiki: https://en.wikipedia.org/wiki/Popeye
+  - name: Winnie-the-Pooh
+    code: winnie
+    year: 1969
+    wiki: https://en.wikipedia.org/wiki/Winnie-the-Pooh_(1969_film)
+    origins:
+      - name: Winnie-the-Pooh
+        code: pooh
+        year: 1924
+        wiki: https://en.wikipedia.org/wiki/Winnie-the-Pooh
+  - name: Junior and Karlson
+    code: junior
+    year: 1968
+    wiki: https://www.imdb.com/title/tt0756316/
+    origins:
+      - name: Karlsson-on-the-Roof
+        code: karlsson
+        year: 1955
+        wiki: https://en.wikipedia.org/wiki/Karlsson-on-the-Roof
+  - name: The Bremen Town Musicians
+    code: bremen
+    year: 1969
+    wiki: https://en.wikipedia.org/wiki/The_Bremen_Town_Musicians_(1969_film)
+    origins:
+      - name: Town Musicians of Bremen
+        code: town
+        year: 1819
+        wiki: https://en.wikipedia.org/wiki/Town_Musicians_of_Bremen
+  - name: The Nutcracker
+    code: nut
+    year: 1973
+    wiki: https://en.wikipedia.org/wiki/The_Nutcracker_(1973_film)
+    origins:
+      - name: The Nutcracker and the Mouse King
+        code: cracker
+        year: 1816
+        wiki: https://en.wikipedia.org/wiki/The_Nutcracker_and_the_Mouse_King
+  - name: Thumbelina
+    code: thumb
+    year: 1964
+    wiki: https://www.imdb.com/title/tt0188580/
+    origins:
+      - name: Thumbelina
+        code: elina
+        year: 1835
+        wiki: https://en.wikipedia.org/wiki/Thumbelina
+  - name: The Ugly Duckling
+    code: ugly
+    year: 1956
+    wiki: https://www.imdb.com/title/tt1074964/
+    origins:
+      - name: The Ugly Duckling
+        code: duckling
+        year: 1843
+        wiki: https://en.wikipedia.org/wiki/The_Ugly_Duckling
+  - name: The Snow Queen
+    code: snow
+    year: 1957
+    wiki: https://en.wikipedia.org/wiki/The_Snow_Queen_(1957_film)
+    origins:
+      - name: The Snow Queen
+        code: queen
+        year: 1844
+        wiki: https://en.wikipedia.org/wiki/The_Snow_Queen
+  - name: The Steadfast Tin Soldier
+    code: tin
+    year: 1976
+    wiki: https://en.wikipedia.org/wiki/The_Steadfast_Tin_Soldier_(1976_film)
+    origins:
+      - name: The Steadfast Tin Soldier
+        code: soldier
+        year: 1838
+        wiki: https://en.wikipedia.org/wiki/The_Steadfast_Tin_Soldier
+  - name: The Princess and the Pea
+    code: princess
+    year: 1978
+    wiki: https://en.wikipedia.org/wiki/The_Princess_and_the_Pea
+    origins:
+      - name: The Princess and the Pea
+        code: pea
+        year: 1835
+        wiki: https://en.wikipedia.org/wiki/The_Princess_and_the_Pea
+  - name: Alice in Wonderland
+    code: alice
+    year: 1981
+    wiki: https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1981_film)
+    origins:
+      - name: Alice's Adventures in Wonderland
+        code: adventures
+        year: 1865
+        wiki: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+  - name: Treasure Island
+    code: treasure
+    year: 1988
+    wiki: https://en.wikipedia.org/wiki/Treasure_Island_(1988_film)
+    origins:
+      - name: Treasure Island
+        code: island
+        year: 1883
+        wiki: https://en.wikipedia.org/wiki/Treasure_Island
+  - name: Adventures of Mowgli
+    code: adventures
+    year: 1967
+    wiki: https://en.wikipedia.org/wiki/Adventures_of_Mowgli
+    origins:
+      - name: The Jungle Book
+        code: jungle
+        year: 1894
+        wiki: https://en.wikipedia.org/wiki/The_Jungle_Book
+  - name: Cinderella
+    code: cinder
+    year: 1979
+    wiki: https://en.wikipedia.org/wiki/Cinderella_(1979_film)
+    origins:
+      - name: Cinderella
+        code: ella
+        year: 1634
+        wiki: https://en.wikipedia.org/wiki/Cinderella
+  - name: Petia and Little Red Riding Hood
+    code: petia
+    year: 1958
+    wiki: https://www.imdb.com/title/tt0219248/
+    origins:
+      - name: Little Red Riding Hood
+        code: little
+        year: 1697
+        wiki: https://en.wikipedia.org/wiki/Little_Red_Riding_Hood
+  - name: Cipollino, the Onion Boy
+    code: cipo
+    year: 1961
+    wiki: https://www.imdb.com/title/tt2474800/
+    origins:
+      - name: Cipollino
+        code: llino
+        year: 1951
+        wiki: https://en.wikipedia.org/wiki/Cipollino
+  - name: The Enchanted Boy
+    code: enchanted
+    year: 1955
+    wiki: https://en.wikipedia.org/wiki/The_Enchanted_Boy
+    origins:
+      - name: The Wonderful Adventures of Nils
+        code: wonderful
+        year: 1907
+        wiki: https://en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils
+  - name: Adventures of Munchausen
+    code: munchausen
+    year: 1982
+    wiki: https://www.imdb.com/title/tt0381507/
+    origins:
+      - name: Baron Munchausen's Narrative of His Marvellous Travels and Campaigns in Russia
+        code: baron
+        year: 1785
+        wiki: https://en.wikipedia.org/wiki/Baron_Munchausen%27s_Narrative_of_His_Marvellous_Travels_and_Campaigns_in_Russia
+  - name: Dog in Boots
+    code: dog
+    year: 1981
+    wiki: https://en.wikipedia.org/wiki/Dog_in_Boots
+    origins:
+      - name: The Three Musketeers
+        code: three
+        year: 1844
+        wiki: https://en.wikipedia.org/wiki/The_Three_Musketeers
