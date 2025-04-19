@@ -17,12 +17,12 @@ layout: main
 
 <ul>
     {% for case in data.cases %}
-        {% assign slug = case.name | append: "-" | append: case.year | downcase | replace: ' ', '-' | replace: '.', '' | replace: ',', '' | replace: "'", '' %}
+        {% assign slug = case.name | append: "-" | append: case.year | downcase | replace: ' ', '-' | replace: '.', '' | replace: ',', '' | replace: "'", '' | replace: '!', '' %}
         <li><a href="#{{ slug }}">{{ case.name }} ({{  case.year }})</a></li>
     {% endfor %}
 </ul>
 
-Imperialism suppresses originality, as it disrespects the cultures and people it exploits, leaving imitation as its only legacy.
+{{ locale_data.plagiarisms.no_originality }}
 
 {% for case in data.cases %}
     {% assign case_name_year = case.name | append: " (" | append: case.year | append: ")" %}
@@ -37,11 +37,15 @@ Imperialism suppresses originality, as it disrespects the cultures and people it
             <div>
                 {% for image in site.static_files %}
                     {% assign imagePath = folderPath | append: "case" %}
+                    {% assign adapted = "" %}
+                    {% if case.adapted %}
+                        {% assign adapted = ", adaptation " | append: case.adapted %}
+                    {% endif %}
                     {% if image.path contains imagePath %}
                         <figure>
                             {% assign slides = '<img src="' | append: image.path | append: '">' %}
                             {{ slides }}
-                            <figcaption>{{ case_name_year }}</figcaption>
+                            <figcaption>{{ case_name_year | append: adapted }}</figcaption>
                         </figure>
                     {% endif %}
                 {% endfor %}
@@ -49,11 +53,15 @@ Imperialism suppresses originality, as it disrespects the cultures and people it
             <div>
                 {% for image in site.static_files %}
                     {% assign imagePath = folderPath | append: "origin" %}
+                    {% assign adapted = "" %}
+                    {% if origin.adapted %}
+                        {% assign adapted = ", adaptation " | append: origin.adapted %}
+                    {% endif %}
                     {% if image.path contains imagePath %}
                         <figure>
                             {% assign slides = '<img src="' | append: image.path | append: '">' %}
                             {{ slides }}
-                            <figcaption>{{ origin_name_year }}</figcaption>
+                            <figcaption>{{ origin_name_year  | append: adapted }}</figcaption>
                         </figure>
                     {% endif %}
                 {% endfor %}

@@ -1,0 +1,90 @@
+lead: >
+  A literatura russa plagia obras estrangeiras, refletindo um império incapaz de verdadeira criatividade.
+sources: >
+  Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+  - [Literature plagiarisms in USSR](https://youtu.be/997jUsR90KY)
+cases:
+  - name: The Golden Key, or The Adventures of Buratino
+    code: golden
+    year: 1936
+    wiki: https://en.wikipedia.org/wiki/The_Golden_Key,_or_The_Adventures_of_Buratino
+    adapted: 1959
+    origins:
+      - name: The Adventures of Pinocchio
+        code: adventures
+        year: 1883
+        wiki: https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio
+        adapted: 1940
+  - name: The Wizard of the Emerald_City
+    code: wizard
+    year: 1939
+    wiki: https://en.wikipedia.org/wiki/The_Wizard_of_the_Emerald_City
+    adapted: 1994
+    origins:
+      - name: The Wonderful Wizard of Oz
+        code: wonderful
+        year: 1900
+        wiki: https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz
+        adapted: 1939
+  - name: Doctor Aybolit
+    code: doctor
+    year: 1925
+    wiki: https://en.wikipedia.org/wiki/Doctor_Aybolit
+    adapted: 1985
+    origins:
+      - name: Doctor Dolittle
+        code: dolittle
+        year: 1920
+        wiki: https://en.wikipedia.org/wiki/Doctor_Dolittle
+        adapted: 1970
+  - name: Moydodyr
+    code: moy
+    year: 1923
+    wiki: https://en.wikipedia.org/wiki/Moydodyr
+    origins:
+      - name: Struwwelpeter
+        code: struwwelpeter
+        year: 1845
+        wiki: https://en.wikipedia.org/wiki/Struwwelpeter
+  - name: Dunno
+    code: dunno
+    year: 1954
+    wiki: https://en.wikipedia.org/wiki/Dunno
+    origins:
+      - name: Brownies
+        code: brownies
+        year: 1879
+        wiki: https://en.wikipedia.org/wiki/The_Brownies
+  - name: Old Genie Hottabych
+    code: old
+    year: 1938
+    wiki: https://www.goodreads.com/book/show/1243984.The_Old_Genie_Hottabych
+    adapted: 1956
+    origins:
+      - name: The Brass Bottle
+        code: brass
+        year: 1900
+        wiki: https://en.wikipedia.org/wiki/The_Brass_Bottle_(novel)
+        adapted: 1964
+  - name: The Tale of the Dead Princess and the Seven Knights
+    code: tale
+    year: 1833
+    wiki: https://en.wikipedia.org/wiki/The_Tale_of_the_Dead_Princess_and_the_Seven_Knights
+    adapted: 1951
+    origins:
+      - name: Snow White
+        code: snow
+        year: 1812
+        wiki: https://en.wikipedia.org/wiki/Snow_White
+        adapted: 2019
+  - name: The Scarlet Flower
+    code: scarlet
+    year: 1858
+    wiki: https://en.wikipedia.org/wiki/The_Scarlet_Flower
+    adapted: 1952
+    origins:
+      - name: Beauty and the Beast
+        code: beauty
+        year: 1740
+        wiki: https://en.wikipedia.org/wiki/Beauty_and_the_Beast
+        adapted: 2018

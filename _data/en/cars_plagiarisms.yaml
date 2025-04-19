@@ -1,0 +1,105 @@
+lead: >
+  Russian cars plagiarize foreign inventions, reflecting an empire incapable of true creativity.
+sources: >
+  Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+  - [Cars plagiarisms in USSR](https://youtu.be/gjjCI6TYtsg)
+cases:
+  - name: GAZ-A
+    code: gaz-a
+    year: 1932
+    wiki: https://en.wikipedia.org/wiki/GAZ-A
+    origins:
+      - name: Ford Model A
+        code: ford
+        year: 1927
+        wiki: https://en.wikipedia.org/wiki/Ford_Model_A_(1927%E2%80%931931)
+  - name: AMO-F-15
+    code: amo-f-15
+    year: 1924
+    wiki: https://en.wikipedia.org/wiki/AMO-F-15
+    origins:
+      - name: Fiat 15
+        code: fiat
+        year: 1911
+        wiki: https://en.wikipedia.org/wiki/Fiat_15
+  - name: GAZ-AA
+    code: gaz-aa
+    year: 1932
+    wiki: https://en.wikipedia.org/wiki/GAZ-AA
+    origins:
+      - name: Ford Model AA
+        code: ford
+        year: 1927
+        wiki: https://en.wikipedia.org/wiki/Ford_Model_AA
+  - name: Leningrad-1
+    code: grad-1
+    year: 1933
+    wiki: https://en.wikipedia.org/wiki/Kirov_Plant
+    origins:
+      - name: Buick 32-90
+        code: buick
+        year: 1931
+        wiki: https://en.wikipedia.org/wiki/Buick_Limited
+  - name: GAZ-M1
+    code: gaz-m1
+    year: 1936
+    wiki: https://en.wikipedia.org/wiki/GAZ-M1
+    origins:
+      - name: Ford Model B
+        code: ford
+        year: 1932
+        wiki: https://pt.wikipedia.org/wiki/Ford_Model_B_(1932)
+  - name: KIM-10
+    code: kim-10
+    year: 1940
+    wiki: https://en.wikipedia.org/wiki/KIM-10
+    origins:
+      - name: Ford Perfect
+        code: ford
+        year: 1938
+        wiki: https://en.wikipedia.org/wiki/Ford_Prefect
+  - name: Moskvitch 400-420
+    code: vitch-400
+    year: 1947
+    wiki: https://en.wikipedia.org/wiki/Moskvitch_400-420
+    origins:
+      - name: Opel Kadett K38
+        code: opel
+        year: 1936
+        wiki: https://en.wikipedia.org/wiki/Opel_Kadett
+  - name: ZIS-110
+    code: zis-110
+    year: 1946
+    wiki: https://en.wikipedia.org/wiki/ZIS-110
+    origins:
+      - name: Packard 108
+        code: packard
+        year: 1940
+        wiki: https://en.wikipedia.org/wiki/Packard_Custom_Super_Eight
+  - name: ZAZ-965
+    code: zaz-965
+    year: 1960
+    wiki: https://en.wikipedia.org/wiki/ZAZ_Zaporozhets
+    origins:
+      - name: Fiat 600
+        code: fiat
+        year: 1957
+        wiki: https://en.wikipedia.org/wiki/Fiat_600
+  - name: ZAZ-966
+    code: zaz-966
+    year: 1960
+    wiki: https://en.wikipedia.org/wiki/ZAZ_Zaporozhets
+    origins:
+      - name: NSU Prinz IV
+        code: nsu
+        year: 1958
+        wiki: https://en.wikipedia.org/wiki/NSU_Prinz
+  - name: ZAZ-966
+    code: zaz-966
+    year: 1960
+    wiki: https://en.wikipedia.org/wiki/ZAZ_Zaporozhets
+    origins:
+      - name: NSU Prinz IV
+        code: nsu
+        year: 1958
+        wiki: https://en.wikipedia.org/wiki/NSU_Prinz
