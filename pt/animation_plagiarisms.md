@@ -6,5 +6,3 @@ data_source: animation_plagiarisms
 locale: pt
 no_image: true
 ---
-
-### 🚧 EM CONSTRUÇÃO 🚧

@@ -17,11 +17,11 @@ cases:
       - name: A Canção do Malandro
         code: rogue
         year: 1930
-        wiki: https://en.wikipedia.org/wiki/The_Rogue_Song
+        wiki: https://pt.wikipedia.org/wiki/The_Rogue_Song
       - name: Os Três Patetas
         code: stooges
         year: 1922
-        wiki: https://en.wikipedia.org/wiki/The_Three_Stooges
+        wiki: https://pt.wikipedia.org/wiki/The_Three_Stooges
   - name: O Braço de Diamante
     code: diamond
     year: 1969
@@ -48,7 +48,7 @@ cases:
       - name: João Limão
         code: lemonade
         year: 1964
-        wiki: https://en.wikipedia.org/wiki/Lemonade_Joe
+        wiki: https://pt.wikipedia.org/wiki/Limonádový_Joe_aneb_Koňská_opera
   - name: As Garotas
     code: girls
     year: 1961
@@ -70,16 +70,16 @@ cases:
   - name: A Ironia do Destino
     code: irony
     year: 1975
-    wiki: https://en.wikipedia.org/wiki/The_Irony_of_Fate
+    wiki: https://pt.wikipedia.org/wiki/Ironia_sudby,_ili_S_liegkim_parom!
     origins:
       - name: Se Meu Apartamento Falasse
         code: apartment
         year: 1960
-        wiki: https://en.wikipedia.org/wiki/The_Apartment
+        wiki: https://pt.wikipedia.org/wiki/The_Apartment
   - name: Romance de Escritório
     code: office
     year: 1977
-    wiki: https://en.wikipedia.org/wiki/Office_Romance
+    wiki: https://pt.wikipedia.org/wiki/Sluzhebnyy_roman
     origins:
       - name: Como se Livrar de Helenka
         code: helenka
@@ -102,4 +102,4 @@ cases:
       - name: Deu a Louca no Mundo
         code: mad
         year: 1963
-        wiki: https://en.wikipedia.org/wiki/It%27s_a_Mad,_Mad,_Mad,_Mad_World
+        wiki: https://pt.wikipedia.org/wiki/It%27s_a_Mad,_Mad,_Mad,_Mad_World
