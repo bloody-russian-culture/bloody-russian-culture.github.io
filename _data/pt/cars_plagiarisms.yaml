@@ -7,12 +7,12 @@ cases:
   - name: GAZ-A
     code: gaz-a
     year: 1932
-    wiki: https://en.wikipedia.org/wiki/GAZ-A
+    wiki: https://pt.wikipedia.org/wiki/GAZ-A
     origins:
       - name: Ford Model A
         code: ford
         year: 1927
-        wiki: https://en.wikipedia.org/wiki/Ford_Model_A_(1927%E2%80%931931)
+        wiki: https://pt.wikipedia.org/wiki/Ford_Model_A_(1927)
   - name: AMO-F-15
     code: amo-f-15
     year: 1924
@@ -43,7 +43,7 @@ cases:
   - name: GAZ-M1
     code: gaz-m1
     year: 1936
-    wiki: https://en.wikipedia.org/wiki/GAZ-M1
+    wiki: https://pt.wikipedia.org/wiki/GAZ-M1
     origins:
       - name: Ford Model B
         code: ford
@@ -57,20 +57,20 @@ cases:
       - name: Ford Perfect
         code: ford
         year: 1938
-        wiki: https://en.wikipedia.org/wiki/Ford_Prefect
+        wiki: https://pt.wikipedia.org/wiki/Ford_Prefect
   - name: Moskvitch 400-420
     code: vitch-400
     year: 1947
-    wiki: https://en.wikipedia.org/wiki/Moskvitch_400-420
+    wiki: https://pt.wikipedia.org/wiki/Moskvitch_400
     origins:
       - name: Opel Kadett K38
         code: opel
         year: 1936
-        wiki: https://en.wikipedia.org/wiki/Opel_Kadett
+        wiki: https://pt.wikipedia.org/wiki/Opel_Kadett
   - name: ZIS-110
     code: zis-110
     year: 1946
-    wiki: https://en.wikipedia.org/wiki/ZIS-110
+    wiki: https://pt.wikipedia.org/wiki/ZIS-110
     origins:
       - name: Packard 108
         code: packard
@@ -79,25 +79,16 @@ cases:
   - name: ZAZ-965
     code: zaz-965
     year: 1960
-    wiki: https://en.wikipedia.org/wiki/ZAZ_Zaporozhets
+    wiki: https://pt.wikipedia.org/wiki/Zaporozec
     origins:
       - name: Fiat 600
         code: fiat
         year: 1957
-        wiki: https://en.wikipedia.org/wiki/Fiat_600
+        wiki: https://pt.wikipedia.org/wiki/Fiat_600
   - name: ZAZ-966
     code: zaz-966
     year: 1960
-    wiki: https://en.wikipedia.org/wiki/ZAZ_Zaporozhets
-    origins:
-      - name: NSU Prinz IV
-        code: nsu
-        year: 1958
-        wiki: https://en.wikipedia.org/wiki/NSU_Prinz
-  - name: ZAZ-966
-    code: zaz-966
-    year: 1960
-    wiki: https://en.wikipedia.org/wiki/ZAZ_Zaporozhets
+    wiki: https://pt.wikipedia.org/wiki/Zaporozec
     origins:
       - name: NSU Prinz IV
         code: nsu
