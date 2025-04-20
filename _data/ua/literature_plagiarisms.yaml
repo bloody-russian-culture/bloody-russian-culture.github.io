@@ -4,87 +4,87 @@ sources: >
   Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
   - [Literature plagiarisms in USSR](https://youtu.be/997jUsR90KY)
 cases:
-  - name: The Golden Key, or The Adventures of Buratino
+  - name: Золотий ключик, або Пригоди Буратіно
     code: golden
     year: 1936
-    wiki: https://en.wikipedia.org/wiki/The_Golden_Key,_or_The_Adventures_of_Buratino
+    wiki: https://uk.wikipedia.org/wiki/Золотий_ключик,_або_Пригоди_Буратіно
     adapted: 1959
     origins:
-      - name: The Adventures of Pinocchio
+      - name: Пригоди Піноккіо
         code: adventures
         year: 1883
-        wiki: https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio
+        wiki: https://uk.wikipedia.org/wiki/Пригоди_Піноккіо
         adapted: 1940
-  - name: The Wizard of the Emerald_City
+  - name: Чарівник Смарагдового міста
     code: wizard
     year: 1939
-    wiki: https://en.wikipedia.org/wiki/The_Wizard_of_the_Emerald_City
+    wiki: https://uk.wikipedia.org/wiki/Чарівник_Смарагдового_міста
     adapted: 1994
     origins:
-      - name: The Wonderful Wizard of Oz
+      - name: Дивовижний чарівник країни Оз
         code: wonderful
         year: 1900
-        wiki: https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz
+        wiki: https://uk.wikipedia.org/wiki/Дивовижний_чарівник_країни_Оз
         adapted: 1939
-  - name: Doctor Aybolit
+  - name: Доктор Айболить
     code: doctor
     year: 1925
-    wiki: https://en.wikipedia.org/wiki/Doctor_Aybolit
+    wiki: https://uk.wikipedia.org/wiki/Лікар_Айболить_(персонаж)
     adapted: 1985
     origins:
-      - name: Doctor Dolittle
+      - name: Доктор Дуліттл
         code: dolittle
         year: 1920
         wiki: https://en.wikipedia.org/wiki/Doctor_Dolittle
         adapted: 1970
-  - name: Moydodyr
+  - name: Мойдодир
     code: moy
     year: 1923
-    wiki: https://en.wikipedia.org/wiki/Moydodyr
+    wiki: https://uk.wikipedia.org/wiki/Мийдодір
     origins:
-      - name: Struwwelpeter
+      - name: Петер Нечесаха
         code: struwwelpeter
         year: 1845
-        wiki: https://en.wikipedia.org/wiki/Struwwelpeter
-  - name: Dunno
+        wiki: https://uk.wikipedia.org/wiki/Петер-Нечесаха
+  - name: Незнайко
     code: dunno
     year: 1954
-    wiki: https://en.wikipedia.org/wiki/Dunno
+    wiki: https://uk.wikipedia.org/wiki/Незнайко
     origins:
-      - name: Brownies
+      - name: Брауні
         code: brownies
         year: 1879
-        wiki: https://en.wikipedia.org/wiki/The_Brownies
-  - name: Old Genie Hottabych
+        wiki: https://uk.wikipedia.org/wiki/Брауні
+  - name: Старий Хоттабич
     code: old
     year: 1938
-    wiki: https://www.goodreads.com/book/show/1243984.The_Old_Genie_Hottabych
+    wiki: https://uk.wikipedia.org/wiki/Старий_Хоттабич
     adapted: 1956
     origins:
-      - name: The Brass Bottle
+      - name: Латунна пляшка
         code: brass
         year: 1900
-        wiki: https://en.wikipedia.org/wiki/The_Brass_Bottle_(novel)
+        wiki: https://uk.wikipedia.org/wiki/Латунна_пляшка
         adapted: 1964
-  - name: The Tale of the Dead Princess and the Seven Knights
+  - name: Казка про мертву царівну та сімох богатирів
     code: tale
     year: 1833
-    wiki: https://en.wikipedia.org/wiki/The_Tale_of_the_Dead_Princess_and_the_Seven_Knights
+    wiki: https://uk.wikipedia.org/wiki/Казка_про_мертву_царівну_та_сімох_богатирів
     adapted: 1951
     origins:
-      - name: Snow White
+      - name: Білосніжка
         code: snow
         year: 1812
-        wiki: https://en.wikipedia.org/wiki/Snow_White
+        wiki: https://uk.wikipedia.org/wiki/Білосніжка
         adapted: 2019
-  - name: The Scarlet Flower
+  - name: Аленький цветочек
     code: scarlet
     year: 1858
-    wiki: https://en.wikipedia.org/wiki/The_Scarlet_Flower
+    wiki: https://uk.wikipedia.org/wiki/Аленька_квіточка
     adapted: 1952
     origins:
-      - name: Beauty and the Beast
+      - name: Красуня і Чудовисько
         code: beauty
         year: 1740
-        wiki: https://en.wikipedia.org/wiki/Beauty_and_the_Beast
+        wiki: https://uk.wikipedia.org/wiki/Красуня_і_Чудовисько
         adapted: 2018

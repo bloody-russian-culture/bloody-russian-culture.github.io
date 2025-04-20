@@ -6,5 +6,3 @@ data_source: literature_plagiarisms
 locale: pt
 no_image: true
 ---
-
-### 🚧 EM CONSTRUÇÃO 🚧
