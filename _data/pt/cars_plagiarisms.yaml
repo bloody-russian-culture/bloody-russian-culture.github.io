@@ -94,3 +94,30 @@ cases:
         code: nsu
         year: 1958
         wiki: https://en.wikipedia.org/wiki/NSU_Prinz
+  - name: GAZ-13 «Chaika»
+    code: gaz-13
+    year: 1959
+    wiki: https://pt.wikipedia.org/wiki/GAZ-13
+    origins:
+      - name: Packard 400
+        code: packard
+        year: 1955
+        wiki: https://en.wikipedia.org/wiki/Packard_Four_Hundred
+  - name: GAZ-21
+    code: gaz-21
+    year: 1956
+    wiki: https://pt.wikipedia.org/wiki/GAZ-21
+    origins:
+      - name: Ford Mainline
+        code: ford
+        year: 1952
+        wiki: https://en.wikipedia.org/wiki/Ford_Mainline
+  - name: GAZ-24 «Volga»
+    code: gaz-24
+    year: 1970
+    wiki: https://en.wikipedia.org/wiki/GAZ-24
+    origins:
+      - name: Ford Falcon
+        code: ford
+        year: 1952
+        wiki: https://pt.wikipedia.org/wiki/Ford_Falcon_(Am%C3%A9rica_do_Norte)
