@@ -5,101 +5,101 @@ sources: >
   - [Movie plagiarisms in USSR (Part 1)](https://youtu.be/GEKhGb2i664)
   - [Movie plagiarisms in USSR (Part 2)](https://youtu.be/07xvphHFnpc)
 cases:
-  - name: Kidnapping, Caucasian Style
+  - name: Sequestro no Cáucaso
     code: kidnapping
     year: 1967
     wiki: https://en.wikipedia.org/wiki/Kidnapping,_Caucasian_Style
     origins:
-      - name: The Tricyclist
+      - name: O Triciclista
         code: tricyclist
         year: 1957
         wiki: https://en.wikipedia.org/wiki/The_Tricyclist
-      - name: The Rogue Song
+      - name: A Canção do Malandro
         code: rogue
         year: 1930
         wiki: https://en.wikipedia.org/wiki/The_Rogue_Song
-      - name: The Three Stooges
+      - name: Os Três Patetas
         code: stooges
         year: 1922
         wiki: https://en.wikipedia.org/wiki/The_Three_Stooges
-  - name: The Diamond Arm
+  - name: O Braço de Diamante
     code: diamond
     year: 1969
     wiki: https://en.wikipedia.org/wiki/The_Diamond_Arm
     origins:
-      - name: Strike First Freddy
+      - name: Freddy Ataca Primeiro
         code: strike
         year: 1965
         wiki: https://en.wikipedia.org/wiki/Strike_First_Freddy
-  - name: Heart of a Dog
+  - name: Coração de Cachorro
     code: heart
     year: 1988
     wiki: https://en.wikipedia.org/wiki/Heart_of_a_Dog_(1988_film)
     origins:
-      - name: Dog's Heart
+      - name: Coração de Cão
         code: dogs
         year: 1976
         wiki: https://en.wikipedia.org/wiki/Dog%27s_Heart
-  - name: A Man from the Boulevard des Capucines
+  - name: Um Homem do Boulevard des Capucines
     code: man
     year: 1987
     wiki: https://en.wikipedia.org/wiki/A_Man_from_the_Boulevard_des_Capucines
     origins:
-      - name: Lemonade Joe
+      - name: João Limão
         code: lemonade
         year: 1964
         wiki: https://en.wikipedia.org/wiki/Lemonade_Joe
-  - name: The Girls
+  - name: As Garotas
     code: girls
     year: 1961
     wiki: https://en.wikipedia.org/wiki/The_Girls_(1961_film)
     origins:
-      - name: Our Kid
+      - name: Nosso Garoto
         code: kid
         year: 1959
         wiki: https://letterboxd.com/film/our-kid/
-  - name: Guest from the Future
+  - name: Visitante do Futuro
     code: guest
     year: 1985
     wiki: https://en.wikipedia.org/wiki/Guest_from_the_Future
     origins:
-      - name: War of the Robots
+      - name: Guerra dos Robôs
         code: war
         year: 1978
         wiki: https://en.wikipedia.org/wiki/War_of_the_Robots_(film)
-  - name: The Irony of Fate
+  - name: A Ironia do Destino
     code: irony
     year: 1975
     wiki: https://en.wikipedia.org/wiki/The_Irony_of_Fate
     origins:
-      - name: The Apartment
+      - name: Se Meu Apartamento Falasse
         code: apartment
         year: 1960
         wiki: https://en.wikipedia.org/wiki/The_Apartment
-  - name: Office Romance
+  - name: Romance de Escritório
     code: office
     year: 1977
     wiki: https://en.wikipedia.org/wiki/Office_Romance
     origins:
-      - name: How to get rid of Helenka
+      - name: Como se Livrar de Helenka
         code: helenka
         year: 1967
         wiki: https://en.wikipedia.org/wiki/Jak_se_zbavit_Helenky
-  - name: The Meeting Place Cannot Be Changed
+  - name: O Lugar de Encontro Não Pode Ser Mudado
     code: meeting
     year: 1979
     wiki: https://en.wikipedia.org/wiki/The_Meeting_Place_Cannot_Be_Changed
     origins:
-      - name: I’ve Become a Cop
+      - name: Tornei-me um Policial
         code: cop
         year: 1972
         wiki: https://letterboxd.com/film/ive-become-a-cop/
-  - name: Unbelievable Adventures of Italians in Russia
+  - name: Incríveis Aventuras de Italianos na Rússia
     code: unbelievable
     year: 1974
     wiki: https://en.wikipedia.org/wiki/Unbelievable_Adventures_of_Italians_in_Russia
     origins:
-      - name: It's a Mad, Mad, Mad, Mad World
+      - name: Deu a Louca no Mundo
         code: mad
         year: 1963
         wiki: https://en.wikipedia.org/wiki/It%27s_a_Mad,_Mad,_Mad,_Mad_World

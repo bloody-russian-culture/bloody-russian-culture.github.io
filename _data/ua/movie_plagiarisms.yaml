@@ -5,101 +5,101 @@ sources: >
   - [Movie plagiarisms in USSR (Part 1)](https://youtu.be/GEKhGb2i664)
   - [Movie plagiarisms in USSR (Part 2)](https://youtu.be/07xvphHFnpc)
 cases:
-  - name: Kidnapping, Caucasian Style
+  - name: Кавказька полонянка, або Нові пригоди Шурика
     code: kidnapping
     year: 1967
-    wiki: https://en.wikipedia.org/wiki/Kidnapping,_Caucasian_Style
+    wiki: https://uk.wikipedia.org/wiki/Кавказька_полонянка,_або_Нові_пригоди_Шурика
     origins:
-      - name: The Tricyclist
+      - name: Триколісний велосипед
         code: tricyclist
         year: 1957
         wiki: https://en.wikipedia.org/wiki/The_Tricyclist
-      - name: The Rogue Song
+      - name: Пісня розбійника
         code: rogue
         year: 1930
-        wiki: https://en.wikipedia.org/wiki/The_Rogue_Song
-      - name: The Three Stooges
+        wiki: https://uk.wikipedia.org/wiki/Пісня_розбійника
+      - name: Три бовдури
         code: stooges
         year: 1922
-        wiki: https://en.wikipedia.org/wiki/The_Three_Stooges
-  - name: The Diamond Arm
+        wiki: https://uk.wikipedia.org/wiki/Три_бовдури
+  - name: Діамантова рука
     code: diamond
     year: 1969
-    wiki: https://en.wikipedia.org/wiki/The_Diamond_Arm
+    wiki: https://uk.wikipedia.org/wiki/Діамантова_рука
     origins:
-      - name: Strike First Freddy
+      - name: Удар першим, Фредді
         code: strike
         year: 1965
         wiki: https://en.wikipedia.org/wiki/Strike_First_Freddy
-  - name: Heart of a Dog
+  - name: Собаче серце
     code: heart
     year: 1988
-    wiki: https://en.wikipedia.org/wiki/Heart_of_a_Dog_(1988_film)
+    wiki: https://uk.wikipedia.org/wiki/Собаче_серце_(фільм,_1988)
     origins:
-      - name: Dog's Heart
+      - name: Серце собаки
         code: dogs
         year: 1976
         wiki: https://en.wikipedia.org/wiki/Dog%27s_Heart
-  - name: A Man from the Boulevard des Capucines
+  - name: Людина з бульвару Капуцинів
     code: man
     year: 1987
-    wiki: https://en.wikipedia.org/wiki/A_Man_from_the_Boulevard_des_Capucines
+    wiki: https://uk.wikipedia.org/wiki/Людина_з_бульвару_Капуцинів
     origins:
-      - name: Lemonade Joe
+      - name: Лимонадний Джо
         code: lemonade
         year: 1964
-        wiki: https://en.wikipedia.org/wiki/Lemonade_Joe
-  - name: The Girls
+        wiki: https://uk.wikipedia.org/wiki/Лимонадний_Джо
+  - name: Дівчата
     code: girls
     year: 1961
-    wiki: https://en.wikipedia.org/wiki/The_Girls_(1961_film)
+    wiki: https://uk.wikipedia.org/wiki/Дівчата_(фільм)
     origins:
-      - name: Our Kid
+      - name: Наш хлопець
         code: kid
         year: 1959
         wiki: https://letterboxd.com/film/our-kid/
-  - name: Guest from the Future
+  - name: Гостя з майбутнього
     code: guest
     year: 1985
-    wiki: https://en.wikipedia.org/wiki/Guest_from_the_Future
+    wiki: https://uk.wikipedia.org/wiki/Гостя_з_майбутнього
     origins:
-      - name: War of the Robots
+      - name: Війна роботів
         code: war
         year: 1978
         wiki: https://en.wikipedia.org/wiki/War_of_the_Robots_(film)
-  - name: The Irony of Fate
+  - name: Іронія долі, або З легкою парою!
     code: irony
     year: 1975
-    wiki: https://en.wikipedia.org/wiki/The_Irony_of_Fate
+    wiki: https://uk.wikipedia.org/wiki/Іронія_долі
     origins:
-      - name: The Apartment
+      - name: Квартира
         code: apartment
         year: 1960
-        wiki: https://en.wikipedia.org/wiki/The_Apartment
-  - name: Office Romance
+        wiki: https://uk.wikipedia.org/wiki/Квартира_(фільм)
+  - name: Службовий роман
     code: office
     year: 1977
-    wiki: https://en.wikipedia.org/wiki/Office_Romance
+    wiki: https://uk.wikipedia.org/wiki/Службовий_роман
     origins:
-      - name: How to get rid of Helenka
+      - name: Як позбутися Геленки
         code: helenka
         year: 1967
         wiki: https://en.wikipedia.org/wiki/Jak_se_zbavit_Helenky
-  - name: The Meeting Place Cannot Be Changed
+  - name: Місце зустрічі змінити не можна
     code: meeting
     year: 1979
-    wiki: https://en.wikipedia.org/wiki/The_Meeting_Place_Cannot_Be_Changed
+    wiki: https://uk.wikipedia.org/wiki/Місце_зустрічі_змінити_не_можна
     origins:
-      - name: I’ve Become a Cop
+      - name: Я став копом
         code: cop
         year: 1972
         wiki: https://letterboxd.com/film/ive-become-a-cop/
-  - name: Unbelievable Adventures of Italians in Russia
+  - name: Неймовірні пригоди італійців у Росії
     code: unbelievable
     year: 1974
-    wiki: https://en.wikipedia.org/wiki/Unbelievable_Adventures_of_Italians_in_Russia
+    wiki: https://uk.wikipedia.org/wiki/Неймовірні_пригоди_італійців_у_Росії
     origins:
-      - name: It's a Mad, Mad, Mad, Mad World
+      - name: Це шалений, шалений, шалений, шалений світ
         code: mad
         year: 1963
-        wiki: https://en.wikipedia.org/wiki/It%27s_a_Mad,_Mad,_Mad,_Mad_World
+        wiki: https://uk.wikipedia.org/wiki/Цей_шалений,_шалений,_шалений,_шалений_світ
