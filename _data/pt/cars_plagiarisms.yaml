@@ -119,5 +119,41 @@ cases:
     origins:
       - name: Ford Falcon
         code: ford
-        year: 1952
+        year: 1959
         wiki: https://pt.wikipedia.org/wiki/Ford_Falcon_(Am%C3%A9rica_do_Norte)
+  - name: Moskvitch 402
+    code: vitch-402
+    year: 1956
+    wiki: https://pt.wikipedia.org/wiki/Moskvitch_402
+    origins:
+      - name: Opel Olympia Rekord
+        code: opel
+        year: 1953
+        wiki: https://en.wikipedia.org/wiki/Opel_Olympia_Rekord
+  - name: Moskvitch 408
+    code: vitch-408
+    year: 1964
+    wiki: https://pt.wikipedia.org/wiki/Moskvitch_408
+    origins:
+      - name: Opel Kadett A
+        code: opel
+        year: 1962
+        wiki: https://en.wikipedia.org/wiki/Opel_Kadett_A
+  - name: Moskvitch 412
+    code: vitch-412
+    year: 1967
+    wiki: https://en.wikipedia.org/wiki/Moskvitch_412
+    origins:
+      - name: Opel Kadett B
+        code: opel
+        year: 1965
+        wiki: https://en.wikipedia.org/wiki/Opel_Kadett_B
+  - name: GAZ-12 «ZIM»
+    code: gaz-12
+    year: 1950
+    wiki: https://pt.wikipedia.org/wiki/GAZ-24
+    origins:
+      - name: Buick Super
+        code: buick
+        year: 1930
+        wiki: https://en.wikipedia.org/wiki/Buick_Super

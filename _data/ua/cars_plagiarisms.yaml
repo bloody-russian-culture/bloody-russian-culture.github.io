@@ -119,5 +119,41 @@ cases:
     origins:
       - name: Ford Falcon
         code: ford
-        year: 1952
+        year: 1959
         wiki: https://en.wikipedia.org/wiki/Ford_Falcon_(North_America)
+  - name: Москвич-402
+    code: vitch-402
+    year: 1956
+    wiki: https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B8%D1%87-402
+    origins:
+      - name: Opel Olympia Rekord
+        code: opel
+        year: 1953
+        wiki: https://en.wikipedia.org/wiki/Opel_Olympia_Rekord
+  - name: Москвич-408
+    code: vitch-408
+    year: 1964
+    wiki: https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B8%D1%87-408
+    origins:
+      - name: Opel Kadett A
+        code: opel
+        year: 1962
+        wiki: https://en.wikipedia.org/wiki/Opel_Kadett_A
+  - name: Москвич-412
+    code: vitch-412
+    year: 1967
+    wiki: https://en.wikipedia.org/wiki/Moskvitch_412
+    origins:
+      - name: Opel Kadett B
+        code: opel
+        year: 1965
+        wiki: https://en.wikipedia.org/wiki/Opel_Kadett_B
+  - name: ГАЗ-12 «ЗіМ»
+    code: gaz-12
+    year: 1950
+    wiki: https://uk.wikipedia.org/wiki/%D0%93%D0%90%D0%97-%D0%9C-12_%D0%97%D1%96%D0%9C
+    origins:
+      - name: Buick Super
+        code: buick
+        year: 1930
+        wiki: https://en.wikipedia.org/wiki/Buick_Super
