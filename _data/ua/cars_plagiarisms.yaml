@@ -157,3 +157,12 @@ cases:
         code: buick
         year: 1930
         wiki: https://en.wikipedia.org/wiki/Buick_Super
+  - name: ГАЗ-М20 «Побєда»
+    code: gaz-m20
+    year: 1946
+    wiki: https://uk.wikipedia.org/wiki/%D0%93%D0%90%D0%97-%D0%9C20_%C2%AB%D0%9F%D0%BE%D0%B1%D1%94%D0%B4%D0%B0%C2%BB
+    origins:
+      - name: Opel Kapitän
+        code: opel
+        year: 1938
+        wiki: https://en.wikipedia.org/wiki/Opel_Kapit%C3%A4n
