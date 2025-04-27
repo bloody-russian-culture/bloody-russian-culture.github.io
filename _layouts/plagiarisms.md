@@ -17,7 +17,7 @@ layout: main
 
 <ul>
     {% for case in data.cases %}
-        {% assign slug = case.name | append: "-" | append: case.year | downcase | replace: ' ', '-' | replace: '.', '' | replace: ',', '' | replace: "'", '' | replace: '!', '' %}
+        {% assign slug = case.name | append: "-" | append: case.year | downcase | replace: ' ', '-' | replace: '.', '' | replace: ',', '' | replace: "'", '' | replace: '!', '' | replace: '«', '' | replace: '»', '' | replace: '/', '' %}
         <li><a href="#{{ slug }}">{{ case.name }} ({{  case.year }})</a></li>
     {% endfor %}
 </ul>

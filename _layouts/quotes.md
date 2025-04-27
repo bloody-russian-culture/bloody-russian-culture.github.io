@@ -16,7 +16,7 @@ layout: main
 <ul>
     {%- for category in data.categories -%}
         {% for quote in category.quotes %}
-            {% assign slug = quote.summary | downcase | replace: ' ', '-' | replace: '.', '' | replace: ',', '' | replace: "'", '' | replace: '!', '' %}
+            {% assign slug = quote.summary | downcase | replace: ' ', '-' | replace: '.', '' | replace: ',', '' | replace: "'", '' | replace: '!', '' | replace: '«', '' | replace: '»', '' | replace: '/', '' %}
             <li><a href="#{{ slug }}">{{ quote.summary }}</a></li>
         {% endfor %}
     {%- endfor -%}

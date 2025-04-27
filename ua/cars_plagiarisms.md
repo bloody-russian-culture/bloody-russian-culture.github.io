@@ -6,5 +6,3 @@ data_source: cars_plagiarisms
 locale: ua
 no_image: true
 ---
-
-### 🚧 ВЕДУТЬСЯ РОБОТИ 🚧
