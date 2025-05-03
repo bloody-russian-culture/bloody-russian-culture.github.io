@@ -2,486 +2,316 @@ lead: >
   Russian cars plagiarize foreign inventions, reflecting an empire incapable of true creativity.
 sources: >
   Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
   - [Cars plagiarisms in USSR](https://youtu.be/gjjCI6TYtsg)
 cases:
   - name: GAZ-A
     code: gaz-a
     year: 1932
-    wiki: https://en.wikipedia.org/wiki/GAZ-A
+    link: https://en.wikipedia.org/wiki/GAZ-A
     origins:
       - name: Ford Model A
         code: ford
         year: 1927
-        wiki: https://en.wikipedia.org/wiki/Ford_Model_A_(1927%E2%80%931931)
+        link: https://en.wikipedia.org/wiki/Ford_Model_A_(1927%E2%80%931931)
   - name: AMO-F-15
     code: amo-f-15
     year: 1924
-    wiki: https://en.wikipedia.org/wiki/AMO-F-15
+    link: https://en.wikipedia.org/wiki/AMO-F-15
     origins:
       - name: Fiat 15
         code: fiat
         year: 1911
-        wiki: https://en.wikipedia.org/wiki/Fiat_15
+        link: https://en.wikipedia.org/wiki/Fiat_15
   - name: GAZ-AA
     code: gaz-aa
     year: 1932
-    wiki: https://en.wikipedia.org/wiki/GAZ-AA
+    link: https://en.wikipedia.org/wiki/GAZ-AA
     origins:
       - name: Ford Model AA
         code: ford
         year: 1927
-        wiki: https://en.wikipedia.org/wiki/Ford_Model_AA
+        link: https://en.wikipedia.org/wiki/Ford_Model_AA
   - name: Leningrad-1
     code: grad-1
     year: 1933
-    wiki: https://en.wikipedia.org/wiki/Kirov_Plant
+    link: https://en.wikipedia.org/wiki/Kirov_Plant
     origins:
       - name: Buick 32-90
         code: buick
         year: 1931
-        wiki: https://en.wikipedia.org/wiki/Buick_Limited
+        link: https://en.wikipedia.org/wiki/Buick_Limited
   - name: GAZ-M1
     code: gaz-m1
     year: 1936
-    wiki: https://en.wikipedia.org/wiki/GAZ-M1
+    link: https://en.wikipedia.org/wiki/GAZ-M1
     origins:
       - name: Ford Model B
         code: ford
         year: 1932
-        wiki: https://pt.wikipedia.org/wiki/Ford_Model_B_(1932)
+        link: https://pt.wikipedia.org/wiki/Ford_Model_B_(1932)
   - name: KIM-10
     code: kim-10
     year: 1940
-    wiki: https://en.wikipedia.org/wiki/KIM-10
+    link: https://en.wikipedia.org/wiki/KIM-10
     origins:
       - name: Ford Perfect
         code: ford
         year: 1938
-        wiki: https://en.wikipedia.org/wiki/Ford_Prefect
+        link: https://en.wikipedia.org/wiki/Ford_Prefect
   - name: Moskvitch 400-420
     code: vitch-400
     year: 1947
-    wiki: https://en.wikipedia.org/wiki/Moskvitch_400-420
+    link: https://en.wikipedia.org/wiki/Moskvitch_400-420
     origins:
       - name: Opel Kadett K38
         code: opel
         year: 1936
-        wiki: https://en.wikipedia.org/wiki/Opel_Kadett
+        link: https://en.wikipedia.org/wiki/Opel_Kadett
   - name: ZIS-110
     code: zis-110
     year: 1946
-    wiki: https://en.wikipedia.org/wiki/ZIS-110
+    link: https://en.wikipedia.org/wiki/ZIS-110
     origins:
       - name: Packard 108
         code: packard
         year: 1940
-        wiki: https://en.wikipedia.org/wiki/Packard_Custom_Super_Eight
+        link: https://en.wikipedia.org/wiki/Packard_Custom_Super_Eight
   - name: ZAZ-965
     code: zaz-965
     year: 1960
-    wiki: https://en.wikipedia.org/wiki/ZAZ_Zaporozhets
+    link: https://en.wikipedia.org/wiki/ZAZ_Zaporozhets
     origins:
       - name: Fiat 600
         code: fiat
         year: 1957
-        wiki: https://en.wikipedia.org/wiki/Fiat_600
+        link: https://en.wikipedia.org/wiki/Fiat_600
   - name: ZAZ-966
     code: zaz-966
     year: 1960
-    wiki: https://en.wikipedia.org/wiki/ZAZ_Zaporozhets
+    link: https://en.wikipedia.org/wiki/ZAZ_Zaporozhets
     origins:
       - name: NSU Prinz IV
         code: nsu
         year: 1958
-        wiki: https://en.wikipedia.org/wiki/NSU_Prinz
+        link: https://en.wikipedia.org/wiki/NSU_Prinz
   - name: GAZ-13 «Chaika»
     code: gaz-13
     year: 1959
-    wiki: https://en.wikipedia.org/wiki/GAZ-13
+    link: https://en.wikipedia.org/wiki/GAZ-13
     origins:
       - name: Packard 400
         code: packard
         year: 1955
-        wiki: https://en.wikipedia.org/wiki/Packard_Four_Hundred
+        link: https://en.wikipedia.org/wiki/Packard_Four_Hundred
   - name: GAZ-21
     code: gaz-21
     year: 1956
-    wiki: https://en.wikipedia.org/wiki/GAZ-21
+    link: https://en.wikipedia.org/wiki/GAZ-21
     origins:
       - name: Ford Mainline
         code: ford
         year: 1952
-        wiki: https://en.wikipedia.org/wiki/Ford_Mainline
+        link: https://en.wikipedia.org/wiki/Ford_Mainline
   - name: GAZ-24 «Volga»
     code: gaz-24
     year: 1970
-    wiki: https://en.wikipedia.org/wiki/GAZ-24
+    link: https://en.wikipedia.org/wiki/GAZ-24
     origins:
       - name: Ford Falcon
         code: ford
         year: 1959
-        wiki: https://en.wikipedia.org/wiki/Ford_Falcon_(North_America)
+        link: https://en.wikipedia.org/wiki/Ford_Falcon_(North_America)
   - name: Moskvitch 402
     code: vitch-402
     year: 1956
-    wiki: https://en.wikipedia.org/wiki/Moskvitch_402
+    link: https://en.wikipedia.org/wiki/Moskvitch_402
     origins:
       - name: Opel Olympia Rekord
         code: opel
         year: 1953
-        wiki: https://en.wikipedia.org/wiki/Opel_Olympia_Rekord
+        link: https://en.wikipedia.org/wiki/Opel_Olympia_Rekord
   - name: Moskvitch 408
     code: vitch-408
     year: 1964
-    wiki: https://en.wikipedia.org/wiki/Moskvitch_408
+    link: https://en.wikipedia.org/wiki/Moskvitch_408
     origins:
       - name: Opel Kadett A
         code: opel
         year: 1962
-        wiki: https://en.wikipedia.org/wiki/Opel_Kadett_A
+        link: https://en.wikipedia.org/wiki/Opel_Kadett_A
   - name: Moskvitch 412
     code: vitch-412
     year: 1967
-    wiki: https://en.wikipedia.org/wiki/Moskvitch_412
+    link: https://en.wikipedia.org/wiki/Moskvitch_412
     origins:
       - name: Opel Kadett B
         code: opel
         year: 1965
-        wiki: https://en.wikipedia.org/wiki/Opel_Kadett_B
+        link: https://en.wikipedia.org/wiki/Opel_Kadett_B
   - name: GAZ-12 «ZIM»
     code: gaz-12
     year: 1950
-    wiki: https://en.wikipedia.org/wiki/GAZ-12_ZIM
+    link: https://en.wikipedia.org/wiki/GAZ-12_ZIM
     origins:
       - name: Buick Super
         code: buick
         year: 1930
-        wiki: https://en.wikipedia.org/wiki/Buick_Super
+        link: https://en.wikipedia.org/wiki/Buick_Super
   - name: GAZ-M20 «Pobeda»
     code: gaz-m20
     year: 1946
-    wiki: https://en.wikipedia.org/wiki/GAZ-M20_Pobeda
+    link: https://en.wikipedia.org/wiki/GAZ-M20_Pobeda
     origins:
       - name: Opel Kapitän
         code: opel
         year: 1938
-        wiki: https://en.wikipedia.org/wiki/Opel_Kapit%C3%A4n
+        link: https://en.wikipedia.org/wiki/Opel_Kapit%C3%A4n
   - name: Moskvitch «Buratino»
     code: vitch-bur
     year: 1946
-    wiki: https://en.wikipedia.org/wiki/Moskvitch_400-420
+    link: https://en.wikipedia.org/wiki/Moskvitch_400-420
     origins:
       - name: Ford Super De Luxe Station Wagon
         code: ford
         year: 1941
-        wiki: https://en.wikipedia.org/wiki/De_Luxe_Ford
+        link: https://en.wikipedia.org/wiki/De_Luxe_Ford
   - name: Moskvitch-2141 «Aleko»
     code: vitch-ale
     year: 1986
-    wiki: https://en.wikipedia.org/wiki/Aleko
+    link: https://en.wikipedia.org/wiki/Aleko
     origins:
       - name: Simca 1308
         code: simca
         year: 1975
-        wiki: https://en.wikipedia.org/wiki/Simca_1308
+        link: https://en.wikipedia.org/wiki/Simca_1308
   - name: ZIL-114
     code: zil-114
     year: 1967
-    wiki: https://en.wikipedia.org/wiki/ZIL-114
+    link: https://en.wikipedia.org/wiki/ZIL-114
     origins:
       - name: Lincoln Continental
         code: lincoln
         year: 1956
-        wiki: https://en.wikipedia.org/wiki/Lincoln_Continental
+        link: https://en.wikipedia.org/wiki/Lincoln_Continental
   - name: ZIL-115
     code: zil-115
     year: 1978
-    wiki: https://en.wikipedia.org/wiki/ZIL-4104
+    link: https://en.wikipedia.org/wiki/ZIL-4104
     origins:
       - name: Cadillac Fleetwood 75
         code: cadillac
         year: 1977
-        wiki: https://en.wikipedia.org/wiki/Cadillac_Series_70
+        link: https://en.wikipedia.org/wiki/Cadillac_Series_70
   - name: VAZ-2101 «Kopeyka»
     code: vaz-2101
     year: 1970
-    wiki: https://en.wikipedia.org/wiki/VAZ-2101
+    link: https://en.wikipedia.org/wiki/VAZ-2101
     origins:
       - name: Fiat 124
         code: fiat
         year: 1966
-        wiki: https://en.wikipedia.org/wiki/Fiat_124
+        link: https://en.wikipedia.org/wiki/Fiat_124
   - name: VAZ-2103 «Zhiguli»
     code: vaz-2103
     year: 1972
-    wiki: https://en.wikipedia.org/wiki/VAZ-2103
+    link: https://en.wikipedia.org/wiki/VAZ-2103
     origins:
       - name: Fiat 125
         code: fiat
         year: 1967
-        wiki: https://en.wikipedia.org/wiki/Fiat_125
+        link: https://en.wikipedia.org/wiki/Fiat_125
   - name: VAZ-2105
     code: vaz-2105
     year: 1980
-    wiki: https://en.wikipedia.org/wiki/VAZ-2105
+    link: https://en.wikipedia.org/wiki/VAZ-2105
     origins:
       - name: Fiat 125 Mirafiori
         code: fiat
         year: 1967
-        wiki: https://en.wikipedia.org/wiki/Fiat_125
+        link: https://en.wikipedia.org/wiki/Fiat_125
   - name: VAZ-2108 «Lada Samara»
     code: vaz-2108
     year: 1984
-    wiki: https://en.wikipedia.org/wiki/Lada_Samara
+    link: https://en.wikipedia.org/wiki/Lada_Samara
     origins:
       - name: Nissan Sunny
         code: nissan
         year: 1981
-        wiki: https://en.wikipedia.org/wiki/Nissan_Sunny
+        link: https://en.wikipedia.org/wiki/Nissan_Sunny
       - name: Fiat Regata
         code: fiat
         year: 1982
-        wiki: https://en.wikipedia.org/wiki/Fiat_Regata
+        link: https://en.wikipedia.org/wiki/Fiat_Regata
   - name: ZIL-112 Sports
     code: zil-112
     year: 1961
-    wiki: https://en.wikipedia.org/wiki/ZIL-112_Sports
+    link: https://en.wikipedia.org/wiki/ZIL-112_Sports
     origins:
       - name: Studebaker Champion
         code: studebaker
         year: 1953
-        wiki: https://en.wikipedia.org/wiki/Studebaker_Champion
+        link: https://en.wikipedia.org/wiki/Studebaker_Champion
   - name: NAMI-0342 «Kuzya»
     code: nami-0342
     year: 1988
-    wiki: https://en.wikipedia.org/wiki/NAMI_(automotive_institute)
+    link: https://en.wikipedia.org/wiki/NAMI_(automotive_institute)
     origins:
       - name: Multicar 25
         code: multicar
         year: 1978
-        wiki: https://en.wikipedia.org/wiki/Multicar
+        link: https://en.wikipedia.org/wiki/Multicar
   - name: ZIS-150
     code: zis-150
     year: 1947
-    wiki: https://en.wikipedia.org/wiki/ZIS-150
+    link: https://en.wikipedia.org/wiki/ZIS-150
     origins:
       - name: International KR-11
         code: international
         year: 1941
-        wiki: https://www.o5m6.de/redarmy/ihc_kr11.php
+        link: https://www.o5m6.de/redarmy/ihc_kr11.php
   - name: GAZ-63
     code: gaz-63
     year: 1948
-    wiki: https://en.wikipedia.org/wiki/GAZ-63
+    link: https://en.wikipedia.org/wiki/GAZ-63
     origins:
       - name: Studebaker US6
         code: studebaker
         year: 1941
-        wiki: https://en.wikipedia.org/wiki/Studebaker_US6_2%C2%BD-ton_6%C3%976_truck
+        link: https://en.wikipedia.org/wiki/Studebaker_US6_2%C2%BD-ton_6%C3%976_truck
   - name: KrAZ-258
     code: kraz-258
     year: 1966
-    wiki: https://en.wikipedia.org/wiki/KrAZ
+    link: https://en.wikipedia.org/wiki/KrAZ
     origins:
       - name: M20 Diamond T
         code: diamond
         year: 1941
-        wiki: https://en.wikipedia.org/wiki/M19_tank_transporter
+        link: https://en.wikipedia.org/wiki/M19_tank_transporter
   - name: ZIL-130
     code: zil-130
     year: 1962
-    wiki: https://en.wikipedia.org/wiki/ZIL-130
+    link: https://en.wikipedia.org/wiki/ZIL-130
     origins:
       - name: Studebaker Transtar
         code: studebaker
         year: 1957
-        wiki: https://en.wikipedia.org/wiki/Studebaker_Transtar
-  - name: Dnepr M-72
-    code: dnepr-m-72
-    year: 1942
-    wiki: https://en.wikipedia.org/wiki/Dnepr_M-72
-    origins:
-      - name: BMW R71
-        code: bmw
-        year: 1938
-        wiki: https://en.wikipedia.org/wiki/BMW_Motorrad
-  - name: TMZ-53
-    code: tmz-53
-    year: 1943
-    wiki: https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BB%D0%B0_(%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB)
-    origins:
-      - name: BMW R75 Sahara
-        code: bmw
-        year: 1941
-        wiki: https://en.wikipedia.org/wiki/BMW_R75
-  - name: K-125
-    code: k-125
-    year: 1946
-    wiki: https://uk.wikipedia.org/wiki/%D0%9A-125
-    origins:
-      - name: DKW RT 125
-        code: dkw
-        year: 1939
-        wiki: https://en.wikipedia.org/wiki/DKW_RT_125
-  - name: TIZ AM-600
-    code: tiz-am-600
-    year: 1935
-    wiki: https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB_%D0%A2%D0%86%D0%97
-    origins:
-      - name: BSA H32-9 600cc Slopper
-        code: bsa
-        year: 1927
-        wiki: https://en.wikipedia.org/wiki/BSA_Sloper
-  - name: IZH-49
-    code: izh-49
-    year: 1951
-    wiki: https://uk.wikipedia.org/wiki/%D0%86%D0%B6-49
-    origins:
-      - name: DKW NZ 350
-        code: dkw
-        year: 1938
-        wiki: https://uk.wikipedia.org/wiki/DKW_NZ_350
-  - name: L-300
-    code: l-300
-    year: 1930
-    wiki: https://en.wikipedia.org/wiki/Krasny_Oktyabr_(engine_plant)
-    origins:
-      - name: DKW Luxus 300
-        code: dkw
-        year: 1929
-        wiki: https://de.wikipedia.org/wiki/DKW_Luxus_300
-  - name: K-1B
-    code: k1-b
-    year: 1946
-    wiki: https://uk.wikipedia.org/wiki/%D0%9A1-%D0%91_(%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB)
-    origins:
-      - name: Wanderer 1Sp
-        code: wanderer
-        year: 1938
-        wiki: https://uk.wikipedia.org/wiki/Wanderer_1Sp
-  - name: Vyatka VP-150
-    code: vyatka-vp-150
-    year: 1956
-    wiki: https://en.wikipedia.org/wiki/Vyatka_(motor_scooter)#VP-150
-    origins:
-      - name: Vespa GS 150
-        code: vespa
-        year: 1955
-        wiki: https://de.wikipedia.org/wiki/Vespa_150_GS
+        link: https://en.wikipedia.org/wiki/Studebaker_Transtar
   - name: ZIS-154
     code: zis-154
     year: 1946
-    wiki: https://uk.wikipedia.org/wiki/%D0%97%D0%86%D0%A1-154
+    link: https://uk.wikipedia.org/wiki/%D0%97%D0%86%D0%A1-154
     origins:
       - name: GM TDH-3610
         code: gm
         year: 1940
-        wiki: https://en.wikipedia.org/wiki/GM_%22old-look%22_transit_bus
-  - name: IS20-16
-    code: is20-16
-    year: 1932
-    wiki: https://en.wikipedia.org/wiki/Soviet_locomotive_class_IS
-    origins:
-      - name: New York Central Hudson Commodore Vanderbilt J-1e
-        code: commodore
-        year: 1931
-        wiki: https://en.wikipedia.org/wiki/New_York_Central_Hudson
-  - name: USSR 2-3-2
-    code: ussr-2-3-2
-    year: 1938
-    wiki: https://de.wikipedia.org/wiki/S%C5%BDD-Baureihe_2-3-2%D0%92
-    origins:
-      - name: New York Central Hudson J-3a
-        code: new
-        year: 1937
-        wiki: https://en.wikipedia.org/wiki/New_York_Central_Hudson
-  - name: S-60 «Stalinets»
-    code: s-60
-    year: 1933
-    wiki: https://en.wikipedia.org/wiki/S-60_(tractor)
-    origins:
-      - name: Caterpillar Sixty
-        code: cat
-        year: 1925
-        wiki: https://en.wikipedia.org/wiki/Caterpillar_Sixty
-  - name: BT-2
-    code: bt-2
-    year: 1932
-    wiki: https://uk.wikipedia.org/wiki/%D0%91%D0%A2-2
-    origins:
-      - name: Christie M1931
-        code: christie
-        year: 1931
-        wiki: https://en.wikipedia.org/wiki/Christie_M1931
-  - name: T-26
-    code: t-26
-    year: 1931
-    wiki: https://en.wikipedia.org/wiki/T-26
-    origins:
-      - name: Vickers Mark E «Six-tonner»
-        code: vickers
-        year: 1928
-        wiki: https://en.wikipedia.org/wiki/Vickers_6-ton
-  - name: ZIS-485 BAV
-    code: zis-485
-    year: 1952
-    wiki: https://en.wikipedia.org/wiki/BAV_485
-    origins:
-      - name: DUKW 353
-        code: dukw
-        year: 1942
-        wiki: https://en.wikipedia.org/wiki/DUKW
+        link: https://en.wikipedia.org/wiki/GM_%22old-look%22_transit_bus
   - name: UAZ-452
     code: uaz-452
     year: 1958
-    wiki: https://en.wikipedia.org/wiki/UAZ-452
+    link: https://en.wikipedia.org/wiki/UAZ-452
     origins:
       - name: Jeep DC Double
         code: jeep
         year: 1956
-        wiki: https://en.wikipedia.org/wiki/Jeep_Forward_Control
-  - name: Yak-24
-    code: yak-24
-    year: 1955
-    wiki: https://en.wikipedia.org/wiki/Yakovlev_Yak-24
-    origins:
-      - name: Piasecki HRP Rescuer
-        code: piasecki
-        year: 1945
-        wiki: https://en.wikipedia.org/wiki/Piasecki_HRP_Rescuer
-  - name: Li-2
-    code: li-2
-    year: 1939
-    wiki: https://en.wikipedia.org/wiki/Lisunov_Li-2
-    origins:
-      - name: Douglas DC 3
-        code: douglas
-        year: 1936
-        wiki: https://en.wikipedia.org/wiki/Douglas_DC-3
-  - name: Tu-4
-    code: tu-4
-    year: 1946
-    wiki: https://en.wikipedia.org/wiki/Tupolev_Tu-4
-    origins:
-      - name: Boeing B-29 Superfortress
-        code: boeing
-        year: 1943
-        wiki: https://en.wikipedia.org/wiki/Boeing_B-29_Superfortress
-  - name: Tu-144 «Concordski»
-    code: tu-144
-    year: 1968
-    wiki: https://en.wikipedia.org/wiki/Tupolev_Tu-4
-    origins:
-      - name: Concorde
-        code: concorde
-        year: 1968
-        wiki: https://en.wikipedia.org/wiki/Concorde
-  - name: Buran
-    code: buran
-    year: 1984
-    wiki: https://en.wikipedia.org/wiki/Buran_(spacecraft)
-    origins:
-      - name: Columbia
-        code: columbia
-        year: 1981
-        wiki: https://en.wikipedia.org/wiki/Space_Shuttle_Columbia
+        link: https://en.wikipedia.org/wiki/Jeep_Forward_Control

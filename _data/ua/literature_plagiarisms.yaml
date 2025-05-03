@@ -1,90 +1,91 @@
 lead: >
-  Російська література займається плагіатом іноземних творів, відображаючи імперію, нездатну до справжньої творчості.
+  Російська література плагіаризує іноземні твори, відображаючи імперію, нездатну до справжньої творчості.
 sources: >
   Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
   - [Literature plagiarisms in USSR](https://youtu.be/997jUsR90KY)
 cases:
   - name: Золотий ключик, або Пригоди Буратіно
     code: golden
     year: 1936
-    wiki: https://uk.wikipedia.org/wiki/Золотий_ключик,_або_Пригоди_Буратіно
+    link: https://uk.wikipedia.org/wiki/Золотий_ключик,_або_Пригоди_Буратіно
     adapted: 1959
     origins:
       - name: Пригоди Піноккіо
         code: adventures
         year: 1883
-        wiki: https://uk.wikipedia.org/wiki/Пригоди_Піноккіо
+        link: https://uk.wikipedia.org/wiki/Пригоди_Піноккіо
         adapted: 1940
   - name: Чарівник Смарагдового міста
     code: wizard
     year: 1939
-    wiki: https://uk.wikipedia.org/wiki/Чарівник_Смарагдового_міста
+    link: https://uk.wikipedia.org/wiki/Чарівник_Смарагдового_міста
     adapted: 1994
     origins:
       - name: Дивовижний чарівник країни Оз
         code: wonderful
         year: 1900
-        wiki: https://uk.wikipedia.org/wiki/Дивовижний_чарівник_країни_Оз
+        link: https://uk.wikipedia.org/wiki/Дивовижний_чарівник_країни_Оз
         adapted: 1939
   - name: Доктор Айболить
     code: doctor
     year: 1925
-    wiki: https://uk.wikipedia.org/wiki/Лікар_Айболить_(персонаж)
+    link: https://uk.wikipedia.org/wiki/Лікар_Айболить_(персонаж)
     adapted: 1985
     origins:
       - name: Доктор Дуліттл
         code: dolittle
         year: 1920
-        wiki: https://en.wikipedia.org/wiki/Doctor_Dolittle
+        link: https://en.wikipedia.org/wiki/Doctor_Dolittle
         adapted: 1970
   - name: Мойдодир
     code: moy
     year: 1923
-    wiki: https://uk.wikipedia.org/wiki/Мийдодір
+    link: https://uk.wikipedia.org/wiki/Мийдодір
     origins:
       - name: Петер Нечесаха
         code: struwwelpeter
         year: 1845
-        wiki: https://uk.wikipedia.org/wiki/Петер-Нечесаха
+        link: https://uk.wikipedia.org/wiki/Петер-Нечесаха
   - name: Незнайко
     code: dunno
     year: 1954
-    wiki: https://uk.wikipedia.org/wiki/Незнайко
+    link: https://uk.wikipedia.org/wiki/Незнайко
     origins:
       - name: Брауні
         code: brownies
         year: 1879
-        wiki: https://uk.wikipedia.org/wiki/Брауні
+        link: https://uk.wikipedia.org/wiki/Брауні
   - name: Старий Хоттабич
     code: old
     year: 1938
-    wiki: https://uk.wikipedia.org/wiki/Старий_Хоттабич
+    link: https://uk.wikipedia.org/wiki/Старий_Хоттабич
     adapted: 1956
     origins:
       - name: Латунна пляшка
         code: brass
         year: 1900
-        wiki: https://uk.wikipedia.org/wiki/Латунна_пляшка
+        link: https://uk.wikipedia.org/wiki/Латунна_пляшка
         adapted: 1964
   - name: Казка про мертву царівну та сімох богатирів
     code: tale
     year: 1833
-    wiki: https://uk.wikipedia.org/wiki/Казка_про_мертву_царівну_та_сімох_богатирів
+    link: https://uk.wikipedia.org/wiki/Казка_про_мертву_царівну_та_сімох_богатирів
     adapted: 1951
     origins:
       - name: Білосніжка
         code: snow
         year: 1812
-        wiki: https://uk.wikipedia.org/wiki/Білосніжка
+        link: https://uk.wikipedia.org/wiki/Білосніжка
         adapted: 2019
   - name: Аленький цветочек
     code: scarlet
     year: 1858
-    wiki: https://uk.wikipedia.org/wiki/Аленька_квіточка
+    link: https://uk.wikipedia.org/wiki/Аленька_квіточка
     adapted: 1952
     origins:
       - name: Красуня і Чудовисько
         code: beauty
         year: 1740
-        wiki: https://uk.wikipedia.org/wiki/Красуня_і_Чудовисько
+        link: https://uk.wikipedia.org/wiki/Красуня_і_Чудовисько
         adapted: 2018

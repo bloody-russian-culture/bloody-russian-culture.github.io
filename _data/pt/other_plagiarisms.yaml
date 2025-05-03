@@ -1,0 +1,28 @@
+lead: >
+  Outras coisas russas plagiam obras estrangeiras, reflectindo um império incapaz de verdadeira criatividade.
+sources: >
+  Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
+  - [Electronics and household appliances plagiarisms in USSR](https://youtu.be/ksKtm9i81Ns)
+
+  - [Toys plagiarisms in USSR](https://youtu.be/L8cH2gI67uk)
+
+  - [Posters plagiarisms in USSR](https://youtu.be/mMRv_cmyrFY)
+cases:
+  - name: Cartazes de guerra da URSS
+    code: posters
+    origins:
+      - name: Cartazes de guerra nazis
+        code: nazi
+      - name: Cartazes de guerra de outros países
+        code: posters
+  - name: Eletrónica e eletrodomésticos da URSS
+    code: tech
+    origins:
+      - name: Eletrónica e eletrodomésticos de outros países
+        code: tech
+  - name: Brinquedos da URSS
+    code: toys
+    origins:
+      - name: Brinquedos de outros países
+        code: toys

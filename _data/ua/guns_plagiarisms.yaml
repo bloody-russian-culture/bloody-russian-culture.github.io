@@ -1,150 +1,151 @@
 lead: >
-  Російська зброя є плагіатом іноземних винаходів, що відображає імперію, нездатну до справжньої творчості.
+  Російська зброя плагіаризує іноземні винаходи, що відображає імперію, нездатну до справжньої творчості.
 sources: >
   Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
   - [Guns plagiarisms in USSR](https://youtu.be/yhckBMgKt8w)
 cases:
   - name: ППД-34
     code: ppd-34
     year: 1934
-    wiki: https://uk.wikipedia.org/wiki/%D0%9F%D0%9F%D0%94-34/40
+    link: https://uk.wikipedia.org/wiki/%D0%9F%D0%9F%D0%94-34/40
     origins:
       - name: Suomi_KP/-31
         code: suomi
         year: 1931
-        wiki: https://uk.wikipedia.org/wiki/Suomi_(%D0%BF%D1%96%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82-%D0%BA%D1%83%D0%BB%D0%B5%D0%BC%D0%B5%D1%82)
+        link: https://uk.wikipedia.org/wiki/Suomi_(%D0%BF%D1%96%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82-%D0%BA%D1%83%D0%BB%D0%B5%D0%BC%D0%B5%D1%82)
   - name: Ф-1
     code: f-1
     year: 1939
-    wiki: https://uk.wikipedia.org/wiki/%D0%A4-1
+    link: https://uk.wikipedia.org/wiki/%D0%A4-1
     origins:
       - name: F1, Франція
         code: f1
         year: 1915
-        wiki: https://uk.wikipedia.org/wiki/F-1_(%D0%B3%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D0%B0)
+        link: https://uk.wikipedia.org/wiki/F-1_(%D0%B3%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D0%B0)
   - name: OZM-3
     code: ozm-3
     year: 1957
-    wiki: https://en.wikipedia.org/wiki/OZM#OZM-3
+    link: https://en.wikipedia.org/wiki/OZM#OZM-3
     origins:
       - name: SMI 44
         code: smi
         year: 1944
-        wiki: https://uk.wikipedia.org/wiki/S-%D0%9C%D1%96%D0%BD%D0%B0
+        link: https://uk.wikipedia.org/wiki/S-%D0%9C%D1%96%D0%BD%D0%B0
   - name: ПМ
     code: pm
     year: 1951
-    wiki: https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82_%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%B2%D0%B0
+    link: https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82_%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%B2%D0%B0
     origins:
       - name: Walther PPK
         code: walther
         year: 1931
-        wiki: https://uk.wikipedia.org/wiki/Walther_PP
+        link: https://uk.wikipedia.org/wiki/Walther_PP
   - name: ТТ
     code: tt
     year: 1930
-    wiki: https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82_%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D1%94%D0%B2%D0%B0
+    link: https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82_%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D1%94%D0%B2%D0%B0
     origins:
       - name: FN Model 1903
         code: fn
         year: 1903
-        wiki: https://uk.wikipedia.org/wiki/FN_Model_1903
+        link: https://uk.wikipedia.org/wiki/FN_Model_1903
   - name: МСП
     code: msp
     year: 1972
-    wiki: https://uk.wikipedia.org/wiki/%D0%9C%D0%A1%D0%9F_(%D0%BF%D1%96%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82)
+    link: https://uk.wikipedia.org/wiki/%D0%9C%D0%A1%D0%9F_(%D0%BF%D1%96%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82)
     origins:
       - name: EM-GE Mod. 5
         code: em-ge
         year: 1939
-        wiki: https://swisswaffen.com/em-ge-mod-5/emgem5/w9sbvuj7xqxz
+        link: https://swisswaffen.com/em-ge-mod-5/emgem5/w9sbvuj7xqxz
   - name: РПГ-2
     code: rpg-2
     year: 1947
-    wiki: https://uk.wikipedia.org/wiki/%D0%A0%D0%9F%D0%93-2
+    link: https://uk.wikipedia.org/wiki/%D0%A0%D0%9F%D0%93-2
     origins:
       - name: Faustpatrone
         code: faust
         year: 1943
-        wiki: https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%83%D1%81%D1%82%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD
+        link: https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%83%D1%81%D1%82%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD
   - name: РПГ-40
     code: rpg-40
     year: 1940
-    wiki: https://uk.wikipedia.org/wiki/%D0%A0%D0%9F%D0%93-40
+    link: https://uk.wikipedia.org/wiki/%D0%A0%D0%9F%D0%93-40
     origins:
       - name: Kasapanos
         code: kasapanos
         year: 1936
-        wiki: https://en.wikipedia.org/wiki/Satchel_charge
+        link: https://en.wikipedia.org/wiki/Satchel_charge
   - name: AK-47
     code: ak-47
     year: 1947
-    wiki: https://uk.wikipedia.org/wiki/%D0%90%D0%9A-47
+    link: https://uk.wikipedia.org/wiki/%D0%90%D0%9A-47
     origins:
       - name: Sturmgewehr 44
         code: sturmgewehr
         year: 1944
-        wiki: https://uk.wikipedia.org/wiki/StG-44
+        link: https://uk.wikipedia.org/wiki/StG-44
   - name: РПГ-18 «Муха»
     code: rpg-18
     year: 1972
-    wiki: https://uk.wikipedia.org/wiki/%D0%A0%D0%9F%D0%93-18
+    link: https://uk.wikipedia.org/wiki/%D0%A0%D0%9F%D0%93-18
     origins:
       - name: M72 LAW
         code: law
         year: 1963
-        wiki: https://uk.wikipedia.org/wiki/M72_LAW
+        link: https://uk.wikipedia.org/wiki/M72_LAW
   - name: М1931
     code: m1931
     year: 1931
-    wiki: https://en.wikipedia.org/wiki/76_mm_air_defense_gun_M1931
+    link: https://en.wikipedia.org/wiki/76_mm_air_defense_gun_M1931
     origins:
       - name: Rheinmetall
         code: rheinmetall
         year: 1920
-        wiki: https://en.wikipedia.org/wiki/Rheinmetall#World_War_I_and_the_interwar_period
+        link: https://en.wikipedia.org/wiki/Rheinmetall#World_War_I_and_the_interwar_period
   - name: Р-1
     code: r-1
     year: 1950
-    wiki: https://uk.wikipedia.org/wiki/%D0%A0-1
+    link: https://uk.wikipedia.org/wiki/%D0%A0-1
     origins:
       - name: V-2
         code: v-2
         year: 1944
-        wiki: https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%83-2
+        link: https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%83-2
   - name: РДС-1
     code: rds-1
     year: 1949
-    wiki: https://uk.wikipedia.org/wiki/%D0%A0%D0%94%D0%A1-1
+    link: https://uk.wikipedia.org/wiki/%D0%A0%D0%94%D0%A1-1
     origins:
       - name: Товстун
         code: fat-man
         year: 1945
-        wiki: https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B2%D1%81%D1%82%D1%83%D0%BD_(%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0)
+        link: https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B2%D1%81%D1%82%D1%83%D0%BD_(%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0)
   - name: БТР-40
     code: btr-40
     year: 1950
-    wiki: https://uk.wikipedia.org/wiki/%D0%91%D0%A2%D0%A0-40
+    link: https://uk.wikipedia.org/wiki/%D0%91%D0%A2%D0%A0-40
     origins:
       - name: M3 Scout Car
         code: m3
         year: 1939
-        wiki: https://uk.wikipedia.org/wiki/M3_Scout_Car
+        link: https://uk.wikipedia.org/wiki/M3_Scout_Car
   - name: У-1
     code: u-1
     year: 1921
-    wiki: https://de.wikipedia.org/wiki/Duks_U-1
+    link: https://de.wikipedia.org/wiki/Duks_U-1
     origins:
       - name: Avro 504
         code: avro
         year: 1913
-        wiki: https://uk.wikipedia.org/wiki/Avro_504
+        link: https://uk.wikipedia.org/wiki/Avro_504
   - name: R-1
     code: pol-r-1
     year: 1923
-    wiki: https://de.wikipedia.org/wiki/Polikarpow_R-1
+    link: https://de.wikipedia.org/wiki/Polikarpow_R-1
     origins:
       - name: Airco DH.9
         code: airco
         year: 1917
-        wiki: https://en.wikipedia.org/wiki/Airco_DH.9
+        link: https://en.wikipedia.org/wiki/Airco_DH.9

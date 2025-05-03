@@ -2,104 +2,106 @@ lead: >
   Os filmes russos plagiam obras estrangeiras, refletindo um império incapaz de verdadeira criatividade.
 sources: >
   Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
   - [Movie plagiarisms in USSR (Part 1)](https://youtu.be/GEKhGb2i664)
+
   - [Movie plagiarisms in USSR (Part 2)](https://youtu.be/07xvphHFnpc)
 cases:
   - name: Sequestro no Cáucaso
     code: kidnapping
     year: 1967
-    wiki: https://en.wikipedia.org/wiki/Kidnapping,_Caucasian_Style
+    link: https://en.wikipedia.org/wiki/Kidnapping,_Caucasian_Style
     origins:
       - name: O Triciclista
         code: tricyclist
         year: 1957
-        wiki: https://en.wikipedia.org/wiki/The_Tricyclist
+        link: https://en.wikipedia.org/wiki/The_Tricyclist
       - name: A Canção do Malandro
         code: rogue
         year: 1930
-        wiki: https://pt.wikipedia.org/wiki/The_Rogue_Song
+        link: https://pt.wikipedia.org/wiki/The_Rogue_Song
       - name: Os Três Patetas
         code: stooges
         year: 1922
-        wiki: https://pt.wikipedia.org/wiki/The_Three_Stooges
+        link: https://pt.wikipedia.org/wiki/The_Three_Stooges
   - name: O Braço de Diamante
     code: diamond
     year: 1969
-    wiki: https://en.wikipedia.org/wiki/The_Diamond_Arm
+    link: https://en.wikipedia.org/wiki/The_Diamond_Arm
     origins:
       - name: Freddy Ataca Primeiro
         code: strike
         year: 1965
-        wiki: https://en.wikipedia.org/wiki/Strike_First_Freddy
+        link: https://en.wikipedia.org/wiki/Strike_First_Freddy
   - name: Coração de Cachorro
     code: heart
     year: 1988
-    wiki: https://en.wikipedia.org/wiki/Heart_of_a_Dog_(1988_film)
+    link: https://en.wikipedia.org/wiki/Heart_of_a_Dog_(1988_film)
     origins:
       - name: Coração de Cão
         code: dogs
         year: 1976
-        wiki: https://en.wikipedia.org/wiki/Dog%27s_Heart
+        link: https://en.wikipedia.org/wiki/Dog%27s_Heart
   - name: Um Homem do Boulevard des Capucines
     code: man
     year: 1987
-    wiki: https://en.wikipedia.org/wiki/A_Man_from_the_Boulevard_des_Capucines
+    link: https://en.wikipedia.org/wiki/A_Man_from_the_Boulevard_des_Capucines
     origins:
       - name: João Limão
         code: lemonade
         year: 1964
-        wiki: https://pt.wikipedia.org/wiki/Limonádový_Joe_aneb_Koňská_opera
+        link: https://pt.wikipedia.org/wiki/Limonádový_Joe_aneb_Koňská_opera
   - name: As Garotas
     code: girls
     year: 1961
-    wiki: https://en.wikipedia.org/wiki/The_Girls_(1961_film)
+    link: https://en.wikipedia.org/wiki/The_Girls_(1961_film)
     origins:
       - name: Nosso Garoto
         code: kid
         year: 1959
-        wiki: https://letterboxd.com/film/our-kid/
+        link: https://letterboxd.com/film/our-kid/
   - name: Visitante do Futuro
     code: guest
     year: 1985
-    wiki: https://en.wikipedia.org/wiki/Guest_from_the_Future
+    link: https://en.wikipedia.org/wiki/Guest_from_the_Future
     origins:
       - name: Guerra dos Robôs
         code: war
         year: 1978
-        wiki: https://en.wikipedia.org/wiki/War_of_the_Robots_(film)
+        link: https://en.wikipedia.org/wiki/War_of_the_Robots_(film)
   - name: A Ironia do Destino
     code: irony
     year: 1975
-    wiki: https://pt.wikipedia.org/wiki/Ironia_sudby,_ili_S_liegkim_parom!
+    link: https://pt.wikipedia.org/wiki/Ironia_sudby,_ili_S_liegkim_parom!
     origins:
       - name: Se Meu Apartamento Falasse
         code: apartment
         year: 1960
-        wiki: https://pt.wikipedia.org/wiki/The_Apartment
+        link: https://pt.wikipedia.org/wiki/The_Apartment
   - name: Romance de Escritório
     code: office
     year: 1977
-    wiki: https://pt.wikipedia.org/wiki/Sluzhebnyy_roman
+    link: https://pt.wikipedia.org/wiki/Sluzhebnyy_roman
     origins:
       - name: Como se Livrar de Helenka
         code: helenka
         year: 1967
-        wiki: https://en.wikipedia.org/wiki/Jak_se_zbavit_Helenky
+        link: https://en.wikipedia.org/wiki/Jak_se_zbavit_Helenky
   - name: O Lugar de Encontro Não Pode Ser Mudado
     code: meeting
     year: 1979
-    wiki: https://en.wikipedia.org/wiki/The_Meeting_Place_Cannot_Be_Changed
+    link: https://en.wikipedia.org/wiki/The_Meeting_Place_Cannot_Be_Changed
     origins:
       - name: Tornei-me um Policial
         code: cop
         year: 1972
-        wiki: https://letterboxd.com/film/ive-become-a-cop/
+        link: https://letterboxd.com/film/ive-become-a-cop/
   - name: Incríveis Aventuras de Italianos na Rússia
     code: unbelievable
     year: 1974
-    wiki: https://en.wikipedia.org/wiki/Unbelievable_Adventures_of_Italians_in_Russia
+    link: https://en.wikipedia.org/wiki/Unbelievable_Adventures_of_Italians_in_Russia
     origins:
       - name: Deu a Louca no Mundo
         code: mad
         year: 1963
-        wiki: https://pt.wikipedia.org/wiki/It%27s_a_Mad,_Mad,_Mad,_Mad_World
+        link: https://pt.wikipedia.org/wiki/It%27s_a_Mad,_Mad,_Mad,_Mad_World

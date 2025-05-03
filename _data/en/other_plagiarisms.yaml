@@ -1,0 +1,28 @@
+lead: >
+  Other Russian things plagiarize foreign works, reflecting an empire incapable of true creativity.
+sources: >
+  Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
+  - [Electronics and household appliances plagiarisms in USSR](https://youtu.be/ksKtm9i81Ns)
+
+  - [Toys plagiarisms in USSR](https://youtu.be/L8cH2gI67uk)
+
+  - [Posters plagiarisms in USSR](https://youtu.be/mMRv_cmyrFY)
+cases:
+  - name: USSR war posters
+    code: posters
+    origins:
+      - name: Nazi war posters
+        code: nazi
+      - name: Other countries' war posters
+        code: posters
+  - name: USSR electronics and household appliances
+    code: tech
+    origins:
+      - name: Other countries' electronics and household appliances
+        code: tech
+  - name: USSR toys
+    code: toys
+    origins:
+      - name: Other countries' toys
+        code: toys

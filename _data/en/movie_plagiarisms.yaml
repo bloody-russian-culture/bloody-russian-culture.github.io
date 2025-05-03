@@ -2,104 +2,106 @@ lead: >
   Russian movies plagiarize foreign works, reflecting an empire incapable of true creativity.
 sources: >
   Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
   - [Movie plagiarisms in USSR (Part 1)](https://youtu.be/GEKhGb2i664)
+
   - [Movie plagiarisms in USSR (Part 2)](https://youtu.be/07xvphHFnpc)
 cases:
-  - name: Kidnapping, Caucasian Style
-    code: kidnapping
-    year: 1967
-    wiki: https://en.wikipedia.org/wiki/Kidnapping,_Caucasian_Style
-    origins:
-      - name: The Tricyclist
-        code: tricyclist
-        year: 1957
-        wiki: https://en.wikipedia.org/wiki/The_Tricyclist
-      - name: The Rogue Song
-        code: rogue
-        year: 1930
-        wiki: https://en.wikipedia.org/wiki/The_Rogue_Song
-      - name: The Three Stooges
-        code: stooges
-        year: 1922
-        wiki: https://en.wikipedia.org/wiki/The_Three_Stooges
   - name: The Diamond Arm
     code: diamond
     year: 1969
-    wiki: https://en.wikipedia.org/wiki/The_Diamond_Arm
+    link: https://en.wikipedia.org/wiki/The_Diamond_Arm
     origins:
-      - name: Strike First Freddy
-        code: strike
-        year: 1965
-        wiki: https://en.wikipedia.org/wiki/Strike_First_Freddy
-  - name: Heart of a Dog
-    code: heart
-    year: 1988
-    wiki: https://en.wikipedia.org/wiki/Heart_of_a_Dog_(1988_film)
-    origins:
-      - name: Dog's Heart
-        code: dogs
-        year: 1976
-        wiki: https://en.wikipedia.org/wiki/Dog%27s_Heart
-  - name: A Man from the Boulevard des Capucines
-    code: man
-    year: 1987
-    wiki: https://en.wikipedia.org/wiki/A_Man_from_the_Boulevard_des_Capucines
-    origins:
-      - name: Lemonade Joe
-        code: lemonade
-        year: 1964
-        wiki: https://en.wikipedia.org/wiki/Lemonade_Joe
+    - name: Strike First Freddy
+      code: strike
+      year: 1965
+      link: https://en.wikipedia.org/wiki/Strike_First_Freddy
   - name: The Girls
     code: girls
     year: 1961
-    wiki: https://en.wikipedia.org/wiki/The_Girls_(1961_film)
+    link: https://en.wikipedia.org/wiki/The_Girls_(1961_film)
     origins:
-      - name: Our Kid
-        code: kid
-        year: 1959
-        wiki: https://letterboxd.com/film/our-kid/
+    - name: Our Kid
+      code: kid
+      year: 1959
+      link: https://letterboxd.com/film/our-kid/
   - name: Guest from the Future
     code: guest
     year: 1985
-    wiki: https://en.wikipedia.org/wiki/Guest_from_the_Future
+    link: https://en.wikipedia.org/wiki/Guest_from_the_Future
     origins:
-      - name: War of the Robots
-        code: war
-        year: 1978
-        wiki: https://en.wikipedia.org/wiki/War_of_the_Robots_(film)
+    - name: War of the Robots
+      code: war
+      year: 1978
+      link: https://en.wikipedia.org/wiki/War_of_the_Robots_(film)
+  - name: Heart of a Dog
+    code: heart
+    year: 1988
+    link: https://en.wikipedia.org/wiki/Heart_of_a_Dog_(1988_film)
+    origins:
+    - name: Dog's Heart
+      code: dogs
+      year: 1976
+      link: https://en.wikipedia.org/wiki/Dog%27s_Heart
   - name: The Irony of Fate
     code: irony
     year: 1975
-    wiki: https://en.wikipedia.org/wiki/The_Irony_of_Fate
+    link: https://en.wikipedia.org/wiki/The_Irony_of_Fate
     origins:
-      - name: The Apartment
-        code: apartment
-        year: 1960
-        wiki: https://en.wikipedia.org/wiki/The_Apartment
-  - name: Office Romance
-    code: office
-    year: 1977
-    wiki: https://en.wikipedia.org/wiki/Office_Romance
+    - name: The Apartment
+      code: apartment
+      year: 1960
+      link: https://en.wikipedia.org/wiki/The_Apartment
+  - name: Kidnapping, Caucasian Style
+    code: kidnapping
+    year: 1967
+    link: https://en.wikipedia.org/wiki/Kidnapping,_Caucasian_Style
     origins:
-      - name: How to get rid of Helenka
-        code: helenka
-        year: 1967
-        wiki: https://en.wikipedia.org/wiki/Jak_se_zbavit_Helenky
+    - name: The Tricyclist
+      code: tricyclist
+      year: 1957
+      link: https://en.wikipedia.org/wiki/The_Tricyclist
+    - name: The Rogue Song
+      code: rogue
+      year: 1930
+      link: https://en.wikipedia.org/wiki/The_Rogue_Song
+    - name: The Three Stooges
+      code: stooges
+      year: 1922
+      link: https://en.wikipedia.org/wiki/The_Three_Stooges
+  - name: A Man from the Boulevard des Capucines
+    code: man
+    year: 1987
+    link: https://en.wikipedia.org/wiki/A_Man_from_the_Boulevard_des_Capucines
+    origins:
+    - name: Lemonade Joe
+      code: lemonade
+      year: 1964
+      link: https://en.wikipedia.org/wiki/Lemonade_Joe
   - name: The Meeting Place Cannot Be Changed
     code: meeting
     year: 1979
-    wiki: https://en.wikipedia.org/wiki/The_Meeting_Place_Cannot_Be_Changed
+    link: https://en.wikipedia.org/wiki/The_Meeting_Place_Cannot_Be_Changed
     origins:
-      - name: I’ve Become a Cop
-        code: cop
-        year: 1972
-        wiki: https://letterboxd.com/film/ive-become-a-cop/
+    - name: I’ve Become a Cop
+      code: cop
+      year: 1972
+      link: https://letterboxd.com/film/ive-become-a-cop/
+  - name: Office Romance
+    code: office
+    year: 1977
+    link: https://en.wikipedia.org/wiki/Office_Romance
+    origins:
+    - name: How to get rid of Helenka
+      code: helenka
+      year: 1967
+      link: https://en.wikipedia.org/wiki/Jak_se_zbavit_Helenky
   - name: Unbelievable Adventures of Italians in Russia
     code: unbelievable
     year: 1974
-    wiki: https://en.wikipedia.org/wiki/Unbelievable_Adventures_of_Italians_in_Russia
+    link: https://en.wikipedia.org/wiki/Unbelievable_Adventures_of_Italians_in_Russia
     origins:
-      - name: It's a Mad, Mad, Mad, Mad World
-        code: mad
-        year: 1963
-        wiki: https://en.wikipedia.org/wiki/It%27s_a_Mad,_Mad,_Mad,_Mad_World
+    - name: It's a Mad, Mad, Mad, Mad World
+      code: mad
+      year: 1963
+      link: https://en.wikipedia.org/wiki/It%27s_a_Mad,_Mad,_Mad,_Mad_World

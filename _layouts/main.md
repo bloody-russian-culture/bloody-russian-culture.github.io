@@ -7,7 +7,7 @@ layout: single
 {{ content }}
 
 <div class="slideshow-wrapper">
-    {% assign folderNames = "russian-culture,blood" | split: "," %}
+    {% assign folderNames = "russian_culture,blood" | split: "," %}
     {% for folderName in folderNames %}
         {% if forloop.first %}
             {% assign panelName = "left" %}
@@ -19,7 +19,7 @@ layout: single
                 {% assign folderPath = "/assets/images/" | append: folderName | append: "/" %}
                 {% if image.path contains folderPath %}
                     {% assign slides = '<div class="' | append: panelName | append: '-slides"><img src="' | append: image.path | append: '"></div>' %}
-                    {% if page.data_source and page.no_image != true %}
+                    {% if page.data_source and page.no_footer_image != true %}
                         {% if image.path contains page.data_source %}
                             {{ slides }}
                         {% endif %}

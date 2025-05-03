@@ -1,0 +1,28 @@
+lead: >
+  Інші російські речі плагіаризують іноземні роботи, відображаючи імперію, нездатну до справжньої творчості.
+sources: >
+  Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
+  - [Electronics and household appliances plagiarisms in USSR](https://youtu.be/ksKtm9i81Ns)
+
+  - [Toys plagiarisms in USSR](https://youtu.be/L8cH2gI67uk)
+
+  - [Posters plagiarisms in USSR](https://youtu.be/mMRv_cmyrFY)
+cases:
+  - name: Воєнні плакати СРСР
+    code: posters
+    origins:
+      - name: Нацистські воєнні плакати
+        code: nazi
+      - name: Воєнні плакати інших країн
+        code: posters
+  - name: Електроніка та побутова техніка СРСР
+    code: tech
+    origins:
+      - name: Електроніка та побутова техніка інших країн
+        code: tech
+  - name: Іграшки СРСР
+    code: toys
+    origins:
+      - name: Іграшки інших країн
+        code: toys

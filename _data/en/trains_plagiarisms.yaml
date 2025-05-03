@@ -1,0 +1,25 @@
+lead: >
+  Russian trains plagiarize foreign inventions, reflecting an empire incapable of true creativity.
+sources: >
+  Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
+  - [Cars plagiarisms in USSR](https://youtu.be/gjjCI6TYtsg)
+cases:
+  - name: IS20-16
+    code: is20-16
+    year: 1932
+    link: https://en.wikipedia.org/wiki/Soviet_locomotive_class_IS
+    origins:
+      - name: New York Central Hudson Commodore Vanderbilt J-1e
+        code: commodore
+        year: 1931
+        link: https://en.wikipedia.org/wiki/New_York_Central_Hudson
+  - name: USSR 2-3-2
+    code: ussr-2-3-2
+    year: 1938
+    link: https://de.wikipedia.org/wiki/S%C5%BDD-Baureihe_2-3-2%D0%92
+    origins:
+      - name: New York Central Hudson J-3a
+        code: new
+        year: 1937
+        link: https://en.wikipedia.org/wiki/New_York_Central_Hudson

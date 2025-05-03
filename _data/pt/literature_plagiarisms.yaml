@@ -2,89 +2,90 @@ lead: >
   A literatura russa plagia obras estrangeiras, refletindo um império incapaz de verdadeira criatividade.
 sources: >
   Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
   - [Literature plagiarisms in USSR](https://youtu.be/997jUsR90KY)
 cases:
   - name: A Chave de Ouro, ou As Aventuras de Buratino
     code: golden
     year: 1936
-    wiki: https://pt.wikipedia.org/wiki/As_Aventuras_de_Buratino
+    link: https://pt.wikipedia.org/wiki/As_Aventuras_de_Buratino
     adapted: 1959
     origins:
       - name: As Aventuras de Pinóquio
         code: adventures
         year: 1883
-        wiki: https://pt.wikipedia.org/wiki/As_Aventuras_de_Pin%C3%B3quio
+        link: https://pt.wikipedia.org/wiki/As_Aventuras_de_Pin%C3%B3quio
         adapted: 1940
   - name: O Mágico da Cidade Esmeralda
     code: wizard
     year: 1939
-    wiki: https://en.wikipedia.org/wiki/The_Wizard_of_the_Emerald_City
+    link: https://en.wikipedia.org/wiki/The_Wizard_of_the_Emerald_City
     adapted: 1994
     origins:
       - name: O Maravilhoso Mágico de Oz
         code: wonderful
         year: 1900
-        wiki: https://pt.wikipedia.org/wiki/O_Maravilhoso_M%C3%A1gico_de_Oz
+        link: https://pt.wikipedia.org/wiki/O_Maravilhoso_M%C3%A1gico_de_Oz
         adapted: 1939
   - name: Doutor Aybolit
     code: doctor
     year: 1925
-    wiki: https://en.wikipedia.org/wiki/Doctor_Aybolit
+    link: https://en.wikipedia.org/wiki/Doctor_Aybolit
     adapted: 1985
     origins:
       - name: Doutor Dolittle
         code: dolittle
         year: 1920
-        wiki: https://pt.wikipedia.org/wiki/Doutor_Dolittle
+        link: https://pt.wikipedia.org/wiki/Doutor_Dolittle
         adapted: 1970
   - name: Moydodyr
     code: moy
     year: 1923
-    wiki: https://en.wikipedia.org/wiki/Moydodyr
+    link: https://en.wikipedia.org/wiki/Moydodyr
     origins:
       - name: Der Struwwelpeter
         code: struwwelpeter
         year: 1845
-        wiki: https://pt.wikipedia.org/wiki/Der_Struwwelpeter
+        link: https://pt.wikipedia.org/wiki/Der_Struwwelpeter
   - name: Dunno
     code: dunno
     year: 1954
-    wiki: https://en.wikipedia.org/wiki/Dunno
+    link: https://en.wikipedia.org/wiki/Dunno
     origins:
       - name: Os Brownies
         code: brownies
         year: 1879
-        wiki: https://en.wikipedia.org/wiki/The_Brownies
+        link: https://en.wikipedia.org/wiki/The_Brownies
   - name: O Velho Gênio Hottabych
     code: old
     year: 1938
-    wiki: https://www.goodreads.com/book/show/1243984.The_Old_Genie_Hottabych
+    link: https://www.goodreads.com/book/show/1243984.The_Old_Genie_Hottabych
     adapted: 1956
     origins:
       - name: A Garrafa de Latão
         code: brass
         year: 1900
-        wiki: https://en.wikipedia.org/wiki/The_Brass_Bottle_(novel)
+        link: https://en.wikipedia.org/wiki/The_Brass_Bottle_(novel)
         adapted: 1964
   - name: O Conto da Princesa Morta e os Sete Cavaleiros
     code: tale
     year: 1833
-    wiki: https://en.wikipedia.org/wiki/The_Tale_of_the_Dead_Princess_and_the_Seven_Knights
+    link: https://en.wikipedia.org/wiki/The_Tale_of_the_Dead_Princess_and_the_Seven_Knights
     adapted: 1951
     origins:
       - name: Branca de Neve
         code: snow
         year: 1812
-        wiki: https://pt.wikipedia.org/wiki/Branca_de_Neve
+        link: https://pt.wikipedia.org/wiki/Branca_de_Neve
         adapted: 2019
   - name: A Flor Escarlate
     code: scarlet
     year: 1858
-    wiki: https://en.wikipedia.org/wiki/The_Scarlet_Flower
+    link: https://en.wikipedia.org/wiki/The_Scarlet_Flower
     adapted: 1952
     origins:
       - name: La Belle et la Bête
         code: beauty
         year: 1740
-        wiki: https://pt.wikipedia.org/wiki/La_Belle_et_la_Bête
+        link: https://pt.wikipedia.org/wiki/La_Belle_et_la_Bête
         adapted: 2018

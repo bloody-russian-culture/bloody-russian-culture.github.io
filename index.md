@@ -43,8 +43,16 @@ It's richness comes from the <span class="bloody">__blood__</span> of the coloni
   [Russian colonialism](/navalny/#yulia-navalnaya-wishes-to-punish-the-opponents-of-russian-colonialism).
 
 Russian
-[movies](/movie_plagiarisms/),
-[animation](/animation_plagiarisms/),
-[literature](/literature_plagiarisms/),
-[cars](/cars_plagiarisms/)
+- [movies](/movie_plagiarisms/),
+- [animation](/animation_plagiarisms/),
+- [literature](/literature_plagiarisms/),
+- [cars](/cars_plagiarisms/),
+- [motorcycles](/motorcycles_plagiarisms/),
+- [trains](/trains_plagiarisms/),
+- [planes](/planes_plagiarisms/),
+- [guns and military equipment](/guns_plagiarisms/),
+- [war posters](/other_plagiarisms/#ussr-war-posters),
+- [electronics and household appliances](/other_plagiarisms/#ussr-electronics-and-household-appliances),
+- [toys](/other_plagiarisms/#ussr-toys)
+
 plagiarize foreign works and inventions, reflecting an empire incapable of true creativity.

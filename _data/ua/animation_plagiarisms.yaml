@@ -1,217 +1,218 @@
 lead: >
-  Російська мультиплікація займається плагіатом іноземних робіт, відображаючи імперію, нездатну до справжньої творчості.
+  Російська мультиплікація плагіаризує іноземні роботи, відображаючи імперію, нездатну до справжньої творчості.
 sources: >
   Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
   - [Animation plagiarisms in USSR](https://youtu.be/nw8Z1hwAP9A)
 cases:
   - name: Ну, постривай!
     code: well
     year: 1969
-    wiki: https://uk.wikipedia.org/wiki/Ну,_постривай!
+    link: https://uk.wikipedia.org/wiki/Ну,_постривай!
     origins:
       - name: Том і Джеррі
         code: tom
         year: 1940
-        wiki: https://uk.wikipedia.org/wiki/Том_і_Джеррі
+        link: https://uk.wikipedia.org/wiki/Том_і_Джеррі
       - name: Сучасні винаходи
         code: modern
         year: 1937
-        wiki: https://en.wikipedia.org/wiki/Modern_Inventions
+        link: https://en.wikipedia.org/wiki/Modern_Inventions
   - name: Чебурашка
     code: che
     year: 1969
-    wiki: https://uk.wikipedia.org/wiki/Чебурашка_(персонаж)
+    link: https://uk.wikipedia.org/wiki/Чебурашка_(персонаж)
     origins:
       - name: Момотаро
         code: momotaro
         year: 1940
-        wiki: https://uk.wikipedia.org/wiki/Momotarou:_Umi_no_Shinpei
+        link: https://uk.wikipedia.org/wiki/Momotarou:_Umi_no_Shinpei
   - name: Кіт Леопольд
     code: leo
     year: 1975
-    wiki: https://uk.wikipedia.org/wiki/Кіт_Леопольд
+    link: https://uk.wikipedia.org/wiki/Кіт_Леопольд
     origins:
       - name: Аристо-Кіт
         code: aristo
         year: 1943
-        wiki: https://en.wikipedia.org/wiki/Hubie_and_Bertie
+        link: https://en.wikipedia.org/wiki/Hubie_and_Bertie
       - name: Коти-аристократи
         code: cats
         year: 1970
-        wiki: https://uk.wikipedia.org/wiki/Коти-аристократи
+        link: https://uk.wikipedia.org/wiki/Коти-аристократи
       - name: Плуто
         code: pluto
         year: 1970
-        wiki: https://uk.wikipedia.org/wiki/Плуто
+        link: https://uk.wikipedia.org/wiki/Плуто
   - name: Хоробрий моряк
     code: brave
     year: 1936
-    wiki: https://www.imdb.com/title/tt4859354/
+    link: https://www.imdb.com/title/tt4859354/
     origins:
       - name: Попай
         code: popeye
         year: 1929
-        wiki: https://en.wikipedia.org/wiki/Popeye
+        link: https://en.wikipedia.org/wiki/Popeye
   - name: Вінні-Пух
     code: winnie
     year: 1969
-    wiki: https://en.wikipedia.org/wiki/Winnie-the-Pooh_(1969_film)
+    link: https://en.wikipedia.org/wiki/Winnie-the-Pooh_(1969_film)
     origins:
       - name: Вінні-Пух
         code: pooh
         year: 1924
-        wiki: https://uk.wikipedia.org/wiki/Вінні-Пух_(мультфільм)
+        link: https://uk.wikipedia.org/wiki/Вінні-Пух_(мультфільм)
   - name: Малюк і Карлсон
     code: junior
     year: 1968
-    wiki: https://www.imdb.com/title/tt0756316/
+    link: https://www.imdb.com/title/tt0756316/
     origins:
       - name: Карлсон, який живе на даху
         code: karlsson
         year: 1955
-        wiki: https://uk.wikipedia.org/wiki/Карлсон
+        link: https://uk.wikipedia.org/wiki/Карлсон
   - name: Бременські музиканти
     code: bremen
     year: 1969
-    wiki: https://en.wikipedia.org/wiki/The_Bremen_Town_Musicians_(1969_film)
+    link: https://en.wikipedia.org/wiki/The_Bremen_Town_Musicians_(1969_film)
     origins:
       - name: Бременські музиканти
         code: town
         year: 1819
-        wiki: https://uk.wikipedia.org/wiki/Бременські_музики_(мультфільм)
+        link: https://uk.wikipedia.org/wiki/Бременські_музики_(мультфільм)
   - name: Лускунчик
     code: nut
     year: 1973
-    wiki: https://en.wikipedia.org/wiki/The_Nutcracker_(1973_film)
+    link: https://en.wikipedia.org/wiki/The_Nutcracker_(1973_film)
     origins:
       - name: Лускунчик і Мишачий король
         code: cracker
         year: 1816
-        wiki: https://uk.wikipedia.org/wiki/Лускунчик_і_Мишачий_король
+        link: https://uk.wikipedia.org/wiki/Лускунчик_і_Мишачий_король
   - name: Дюймовочка
     code: thumb
     year: 1964
-    wiki: https://www.imdb.com/title/tt0188580/
+    link: https://www.imdb.com/title/tt0188580/
     origins:
       - name: Дюймовочка
         code: elina
         year: 1835
-        wiki: https://uk.wikipedia.org/wiki/Дюймовочка
+        link: https://uk.wikipedia.org/wiki/Дюймовочка
   - name: Гидке каченя
     code: ugly
     year: 1956
-    wiki: https://www.imdb.com/title/tt1074964/
+    link: https://www.imdb.com/title/tt1074964/
     origins:
       - name: Гидке каченя
         code: duckling
         year: 1843
-        wiki: https://uk.wikipedia.org/wiki/Гидке_каченя
+        link: https://uk.wikipedia.org/wiki/Гидке_каченя
   - name: Снігова королева
     code: snow
     year: 1957
-    wiki: https://en.wikipedia.org/wiki/The_Snow_Queen_(1957_film)
+    link: https://en.wikipedia.org/wiki/The_Snow_Queen_(1957_film)
     origins:
       - name: Снігова королева
         code: queen
         year: 1844
-        wiki: https://uk.wikipedia.org/wiki/Снігова_королева
+        link: https://uk.wikipedia.org/wiki/Снігова_королева
   - name: Стійкий олов’яний солдатик
     code: tin
     year: 1976
-    wiki: https://en.wikipedia.org/wiki/The_Steadfast_Tin_Soldier_(1976_film)
+    link: https://en.wikipedia.org/wiki/The_Steadfast_Tin_Soldier_(1976_film)
     origins:
       - name: Стійкий олов’яний солдатик
         code: soldier
         year: 1838
-        wiki: https://uk.wikipedia.org/wiki/Непохитний_олов%27яний_солдатик
+        link: https://uk.wikipedia.org/wiki/Непохитний_олов%27яний_солдатик
   - name: Принцеса на горошині
     code: princess
     year: 1978
-    wiki: https://uk.wikipedia.org/wiki/Принцеса_на_горошині
+    link: https://uk.wikipedia.org/wiki/Принцеса_на_горошині
     origins:
       - name: Принцеса на горошині
         code: pea
         year: 1835
-        wiki: https://uk.wikipedia.org/wiki/Принцеса_на_горошині
+        link: https://uk.wikipedia.org/wiki/Принцеса_на_горошині
   - name: Аліса в країні чудес
     code: alice
     year: 1981
-    wiki: https://uk.wikipedia.org/wiki/Аліса_у_Дивокраї_(анімаційний_мінісеріал,_1981)
+    link: https://uk.wikipedia.org/wiki/Аліса_у_Дивокраї_(анімаційний_мінісеріал,_1981)
     origins:
       - name: Пригоди Аліси в країні чудес
         code: adventures
         year: 1865
-        wiki: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+        link: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
   - name: Острів скарбів
     code: treasure
     year: 1988
-    wiki: https://uk.wikipedia.org/wiki/Острів_скарбів_(фільм,_1988)
+    link: https://uk.wikipedia.org/wiki/Острів_скарбів_(фільм,_1988)
     origins:
       - name: Острів скарбів
         code: island
         year: 1883
-        wiki: https://en.wikipedia.org/wiki/Treasure_Island
+        link: https://en.wikipedia.org/wiki/Treasure_Island
   - name: Мауглі
     code: adventures
     year: 1967
-    wiki: https://uk.wikipedia.org/wiki/Мауглі_(мультфільм)
+    link: https://uk.wikipedia.org/wiki/Мауглі_(мультфільм)
     origins:
       - name: Книга джунглів
         code: jungle
         year: 1894
-        wiki: https://uk.wikipedia.org/wiki/Книга_джунглів
+        link: https://uk.wikipedia.org/wiki/Книга_джунглів
   - name: Попелюшка
     code: cinder
     year: 1979
-    wiki: https://uk.wikipedia.org/wiki/Попелюшка_(мультфільм,_1979)
+    link: https://uk.wikipedia.org/wiki/Попелюшка_(мультфільм,_1979)
     origins:
       - name: Попелюшка
         code: ella
         year: 1634
-        wiki: https://uk.wikipedia.org/wiki/Попелюшка_(мультфільм,_1979)
+        link: https://uk.wikipedia.org/wiki/Попелюшка_(мультфільм,_1979)
   - name: Петя і Червона Шапочка
     code: petia
     year: 1958
-    wiki: https://www.imdb.com/title/tt0219248/
+    link: https://www.imdb.com/title/tt0219248/
     origins:
       - name: Червона Шапочка
         code: little
         year: 1697
-        wiki: https://uk.wikipedia.org/wiki/Червона_шапочка
+        link: https://uk.wikipedia.org/wiki/Червона_шапочка
   - name: Чиполіно
     code: cipo
     year: 1961
-    wiki: https://www.imdb.com/title/tt2474800/
+    link: https://www.imdb.com/title/tt2474800/
     origins:
       - name: Чиполіно
         code: llino
         year: 1951
-        wiki: https://uk.wikipedia.org/wiki/Червона_шапочка
+        link: https://uk.wikipedia.org/wiki/Червона_шапочка
   - name: Зачарований хлопчик
     code: enchanted
     year: 1955
-    wiki: https://en.wikipedia.org/wiki/The_Enchanted_Boy
+    link: https://en.wikipedia.org/wiki/The_Enchanted_Boy
     origins:
       - name: Чудесна подорож Нільса
         code: wonderful
         year: 1907
-        wiki: https://uk.wikipedia.org/wiki/Чудесна_мандрівка_Нільса_Гольгерсона_з_дикими_гусьми
+        link: https://uk.wikipedia.org/wiki/Чудесна_мандрівка_Нільса_Гольгерсона_з_дикими_гусьми
   - name: Пригоди Мюнхгаузена
     code: munchausen
     year: 1982
-    wiki: https://www.imdb.com/title/tt0381507/
+    link: https://www.imdb.com/title/tt0381507/
     origins:
       - name: Барон Мюнхгаузен
         code: baron
         year: 1785
-        wiki: https://uk.wikipedia.org/wiki/Пригоди_барона_Мюнхгаузена_(роман)
+        link: https://uk.wikipedia.org/wiki/Пригоди_барона_Мюнхгаузена_(роман)
   - name: Пес у чоботях
     code: dog
     year: 1981
-    wiki: https://en.wikipedia.org/wiki/Dog_in_Boots
+    link: https://en.wikipedia.org/wiki/Dog_in_Boots
     origins:
       - name: Три мушкетери
         code: three
         year: 1844
-        wiki: https://uk.wikipedia.org/wiki/Три_мушкетери
+        link: https://uk.wikipedia.org/wiki/Три_мушкетери
 
