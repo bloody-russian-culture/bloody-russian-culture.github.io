@@ -10,8 +10,8 @@ cases:
     year: 1932
     link: https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D0%86%D0%A1
     origins:
-      - name: Commodore Vanderbilt J-1e
-        code: Commodore
+      - name: Central Hudson Commodore Vanderbilt J-1e
+        code: commodore
         year: 1931
         link: https://en.wikipedia.org/wiki/New_York_Central_Hudson
   - name: СРСР 2-3-2
@@ -19,7 +19,7 @@ cases:
     year: 1938
     link: https://de.wikipedia.org/wiki/S%C5%BDD-Baureihe_2-3-2%D0%92
     origins:
-      - name: New York Central Hudson J-3a
+      - name: Central Hudson J-3a
         code: new
         year: 1937
         link: https://en.wikipedia.org/wiki/New_York_Central_Hudson

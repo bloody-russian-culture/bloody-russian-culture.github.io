@@ -10,7 +10,7 @@ cases:
     year: 1932
     link: https://en.wikipedia.org/wiki/Soviet_locomotive_class_IS
     origins:
-      - name: Commodore Vanderbilt J-1e
+      - name: Central Hudson Commodore Vanderbilt J-1e
         code: commodore
         year: 1931
         link: https://en.wikipedia.org/wiki/New_York_Central_Hudson
@@ -19,7 +19,7 @@ cases:
     year: 1938
     link: https://de.wikipedia.org/wiki/S%C5%BDD-Baureihe_2-3-2%D0%92
     origins:
-      - name: New York Central Hudson J-3a
+      - name: Central Hudson J-3a
         code: new
         year: 1937
         link: https://en.wikipedia.org/wiki/New_York_Central_Hudson

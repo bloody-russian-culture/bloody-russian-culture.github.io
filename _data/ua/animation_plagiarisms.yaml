@@ -166,12 +166,12 @@ cases:
       code: elina
       year: 1835
       link: https://uk.wikipedia.org/wiki/Дюймовочка
-  - name: Стійкий олов’яний солдатик
+  - name: Стійкий олов'яний солдатик
     code: tin
     year: 1976
     link: https://en.wikipedia.org/wiki/The_Steadfast_Tin_Soldier_(1976_film)
     origins:
-    - name: Стійкий олов’яний солдатик
+    - name: Стійкий олов'яний солдатик
       code: soldier
       year: 1838
       link: https://uk.wikipedia.org/wiki/Непохитний_олов%27яний_солдатик

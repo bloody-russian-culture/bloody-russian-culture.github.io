@@ -41,10 +41,10 @@ layout: main
     {{ case_title | markdownify }}
     {% for origin in case.origins %}
         {% assign origin_name_year = origin.name %}
-        {% if case.year %}
-            {% assign origin_name_year = origin_name_year | append: " (" | append: case.year | append: ")" %}
+        {% if origin.year %}
+            {% assign origin_name_year = origin_name_year | append: " (" | append: origin.year | append: ")" %}
         {% endif %}
-        {% if case.link %}
+        {% if origin.link %}
             {% capture origin_title %}- ##### [{{ origin_name_year }}]({{ origin.link }}){% endcapture %}
         {% else %}
             {% capture origin_title %}- ##### {{ origin_name_year }}{% endcapture %}
