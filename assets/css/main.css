@@ -1,7 +1,7 @@
 /* ========================================================================== Default skin ========================================================================== */
 /* Copyright comment */
 /*!
- * Minimal Mistakes Jekyll Theme 4.27.0 by Michael Rose
+ * Minimal Mistakes Jekyll Theme 4.27.1 by Michael Rose
  * Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
  * Free for personal and commercial use under the MIT license
  * https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -10,9 +10,17 @@
 /* ========================================================================== Variables ========================================================================== */
 /* Typography ========================================================================== */
 /* paragraph indention */
+/* Modern font stack */
+/* https://github.com/system-fonts/modern-font-stacks */
+/* Sans serif - modern font stack */
+/* sans serif typefaces - defined in Minimal Mistakes */
+/* Serif - modern font stack */
+/* serif typefaces - defined in Minimal Mistakes */
+/* Monospace - modern font stack */
+/* Handwritten - modern font stack */
+/* Defaults used in Minimal mistakes */
+/* Emoji native from modern font stack - add to the end of the font-face for native emojis */
 /* system typefaces */
-/* sans serif typefaces */
-/* serif typefaces */
 /* type scale */
 /* headline scale */
 /* Colors ========================================================================== */
@@ -207,7 +215,7 @@ input[type="search"]::-webkit-search-decoration, input[type="search"]::-webkit-s
 textarea { overflow: auto; /* remove vertical scrollbar in IE6-9*/ vertical-align: top; /* readability and alignment cross-browser*/ }
 
 /* ========================================================================== BASE ELEMENTS ========================================================================== */
-html { /* sticky footer fix */ position: relative; min-height: 100%; }
+html { /* sticky footer fix */ position: relative; min-height: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 body { margin: 0; padding: 0; color: #3d4144; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; line-height: 1.5; }
 body.overflow--hidden { /* when primary navigation is visible, the content in the background won't scroll */ overflow: hidden; }
@@ -448,6 +456,9 @@ tr, td, th { vertical-align: middle; }
 .btn--mastodon { background-color: #2b90d9; color: #fff; }
 .btn--mastodon:visited { background-color: #2b90d9; color: #fff; }
 .btn--mastodon:hover { background-color: #2273ae; color: #fff; }
+.btn--bluesky { background-color: #1083fe; color: #fff; }
+.btn--bluesky:visited { background-color: #1083fe; color: #fff; }
+.btn--bluesky:hover { background-color: #0d69cb; color: #fff; }
 .btn--block { display: block; width: 100%; }
 .btn--block + .btn--block { margin-top: 0.25em; }
 .btn--disabled { pointer-events: none; cursor: not-allowed; filter: alpha(opacity=65); box-shadow: none; opacity: 0.65; }
@@ -876,7 +887,7 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 .social-icons .fa-soundcloud { color: #ff3300; }
 .social-icons .fa-stack-exchange, .social-icons .fa-stack-overflow { color: #fe7a15; }
 .social-icons .fa-tumblr, .social-icons .fa-tumblr-square { color: #32506d; }
-.social-icons .fa-twitter, .social-icons .fa-twitter-square { color: #55acee; }
+.social-icons .fa-twitter, .social-icons .fa-twitter-square, .social-icons .fa-x-twitter { color: #55acee; }
 .social-icons .fa-vimeo, .social-icons .fa-vimeo-square, .social-icons .fa-vimeo-v { color: #1ab7ea; }
 .social-icons .fa-vine { color: #00bf8f; }
 .social-icons .fa-xing, .social-icons .fa-xing-square { color: #006567; }
