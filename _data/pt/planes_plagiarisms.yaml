@@ -4,67 +4,69 @@ sources: >
   Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
 
   - [Cars plagiarisms in USSR](https://youtu.be/gjjCI6TYtsg)
+
+  - [Guns plagiarisms in USSR](https://youtu.be/yhckBMgKt8w)
 cases:
-  - name: Yak-24
-    code: yak-24
-    year: 1955
-    link: https://en.wikipedia.org/wiki/Yakovlev_Yak-24
-    origins:
-      - name: Piasecki HRP Rescuer
-        code: piasecki
-        year: 1945
-        link: https://pt.wikipedia.org/wiki/Piasecki_HRP_Rescuer
-  - name: Li-2
-    code: li-2
-    year: 1939
-    link: https://pt.wikipedia.org/wiki/Lisunov_Li-2
-    origins:
-      - name: Douglas DC 3
-        code: douglas
-        year: 1936
-        link: https://pt.wikipedia.org/wiki/Douglas_DC-3
-  - name: Tu-4
-    code: tu-4
-    year: 1946
-    link: https://en.wikipedia.org/wiki/Tupolev_Tu-4
-    origins:
-      - name: Boeing B-29 Superfortress
-        code: boeing
-        year: 1943
-        link: https://pt.wikipedia.org/wiki/Boeing_B-29_Superfortress
-  - name: Tu-144 «Concordski»
-    code: tu-144
-    year: 1968
-    link: https://pt.wikipedia.org/wiki/Tupolev_Tu-144
-    origins:
-      - name: Concorde
-        code: concorde
-        year: 1968
-        link: https://pt.wikipedia.org/wiki/Concorde
   - name: Buran
     code: buran
     year: 1984
     link: https://pt.wikipedia.org/wiki/Buran
     origins:
-      - name: Columbia
-        code: columbia
-        year: 1981
-        link: https://pt.wikipedia.org/wiki/Columbia_(%C3%B4nibus_espacial)
-  - name: U-1
-    code: u-1
-    year: 1921
-    link: https://de.wikipedia.org/wiki/Duks_U-1
+    - name: Columbia
+      code: columbia
+      year: 1981
+      link: https://pt.wikipedia.org/wiki/Columbia_(%C3%B4nibus_espacial)
+  - name: Li-2
+    code: li-2
+    year: 1939
+    link: https://pt.wikipedia.org/wiki/Lisunov_Li-2
     origins:
-      - name: Avro 504
-        code: avro
-        year: 1913
-        link: https://pt.wikipedia.org/wiki/Avro_504
+    - name: Douglas DC 3
+      code: douglas
+      year: 1936
+      link: https://pt.wikipedia.org/wiki/Douglas_DC-3
   - name: R-1
     code: pol-r-1
     year: 1923
     link: https://pt.wikipedia.org/wiki/Polikarpov_R-1
     origins:
-      - name: Airco DH.9
-        code: airco
-        year: 1917
-        link: https://pt.wikipedia.org/wiki/Airco_DH.9
+    - name: Airco DH.9
+      code: airco
+      year: 1917
+      link: https://pt.wikipedia.org/wiki/Airco_DH.9
+  - name: Tu-144 «Concordski»
+    code: tu-144
+    year: 1968
+    link: https://pt.wikipedia.org/wiki/Tupolev_Tu-144
+    origins:
+    - name: Concorde
+      code: concorde
+      year: 1968
+      link: https://pt.wikipedia.org/wiki/Concorde
+  - name: Tu-4
+    code: tu-4
+    year: 1946
+    link: https://en.wikipedia.org/wiki/Tupolev_Tu-4
+    origins:
+    - name: Boeing B-29 Superfortress
+      code: boeing
+      year: 1943
+      link: https://pt.wikipedia.org/wiki/Boeing_B-29_Superfortress
+  - name: U-1
+    code: u-1
+    year: 1921
+    link: https://de.wikipedia.org/wiki/Duks_U-1
+    origins:
+    - name: Avro 504
+      code: avro
+      year: 1913
+      link: https://pt.wikipedia.org/wiki/Avro_504
+  - name: Yak-24
+    code: yak-24
+    year: 1955
+    link: https://en.wikipedia.org/wiki/Yakovlev_Yak-24
+    origins:
+    - name: Piasecki HRP Rescuer
+      code: piasecki
+      year: 1945
+      link: https://pt.wikipedia.org/wiki/Piasecki_HRP_Rescuer

@@ -5,87 +5,87 @@ sources: >
 
   - [Literature plagiarisms in USSR](https://youtu.be/997jUsR90KY)
 cases:
-  - name: A Chave de Ouro, ou As Aventuras de Buratino
-    code: golden
-    year: 1936
-    link: https://pt.wikipedia.org/wiki/As_Aventuras_de_Buratino
-    adapted: 1959
-    origins:
-      - name: As Aventuras de Pinóquio
-        code: adventures
-        year: 1883
-        link: https://pt.wikipedia.org/wiki/As_Aventuras_de_Pin%C3%B3quio
-        adapted: 1940
-  - name: O Mágico da Cidade Esmeralda
-    code: wizard
-    year: 1939
-    link: https://en.wikipedia.org/wiki/The_Wizard_of_the_Emerald_City
-    adapted: 1994
-    origins:
-      - name: O Maravilhoso Mágico de Oz
-        code: wonderful
-        year: 1900
-        link: https://pt.wikipedia.org/wiki/O_Maravilhoso_M%C3%A1gico_de_Oz
-        adapted: 1939
   - name: Doutor Aybolit
     code: doctor
     year: 1925
     link: https://en.wikipedia.org/wiki/Doctor_Aybolit
     adapted: 1985
     origins:
-      - name: Doutor Dolittle
-        code: dolittle
-        year: 1920
-        link: https://pt.wikipedia.org/wiki/Doutor_Dolittle
-        adapted: 1970
-  - name: Moydodyr
-    code: moy
-    year: 1923
-    link: https://en.wikipedia.org/wiki/Moydodyr
-    origins:
-      - name: Der Struwwelpeter
-        code: struwwelpeter
-        year: 1845
-        link: https://pt.wikipedia.org/wiki/Der_Struwwelpeter
+    - name: Doutor Dolittle
+      code: dolittle
+      year: 1920
+      link: https://pt.wikipedia.org/wiki/Doutor_Dolittle
+      adapted: 1970
   - name: Dunno
     code: dunno
     year: 1954
     link: https://en.wikipedia.org/wiki/Dunno
     origins:
-      - name: Os Brownies
-        code: brownies
-        year: 1879
-        link: https://en.wikipedia.org/wiki/The_Brownies
+    - name: Os Brownies
+      code: brownies
+      year: 1879
+      link: https://en.wikipedia.org/wiki/The_Brownies
+  - name: A Chave de Ouro, ou As Aventuras de Buratino
+    code: golden
+    year: 1936
+    link: https://pt.wikipedia.org/wiki/As_Aventuras_de_Buratino
+    adapted: 1959
+    origins:
+    - name: As Aventuras de Pinóquio
+      code: adventures
+      year: 1883
+      link: https://pt.wikipedia.org/wiki/As_Aventuras_de_Pin%C3%B3quio
+      adapted: 1940
+  - name: Moydodyr
+    code: moy
+    year: 1923
+    link: https://en.wikipedia.org/wiki/Moydodyr
+    origins:
+    - name: Der Struwwelpeter
+      code: struwwelpeter
+      year: 1845
+      link: https://pt.wikipedia.org/wiki/Der_Struwwelpeter
   - name: O Velho Gênio Hottabych
     code: old
     year: 1938
     link: https://www.goodreads.com/book/show/1243984.The_Old_Genie_Hottabych
     adapted: 1956
     origins:
-      - name: A Garrafa de Latão
-        code: brass
-        year: 1900
-        link: https://en.wikipedia.org/wiki/The_Brass_Bottle_(novel)
-        adapted: 1964
-  - name: O Conto da Princesa Morta e os Sete Cavaleiros
-    code: tale
-    year: 1833
-    link: https://en.wikipedia.org/wiki/The_Tale_of_the_Dead_Princess_and_the_Seven_Knights
-    adapted: 1951
-    origins:
-      - name: Branca de Neve
-        code: snow
-        year: 1812
-        link: https://pt.wikipedia.org/wiki/Branca_de_Neve
-        adapted: 2019
+    - name: A Garrafa de Latão
+      code: brass
+      year: 1900
+      link: https://en.wikipedia.org/wiki/The_Brass_Bottle_(novel)
+      adapted: 1964
   - name: A Flor Escarlate
     code: scarlet
     year: 1858
     link: https://en.wikipedia.org/wiki/The_Scarlet_Flower
     adapted: 1952
     origins:
-      - name: La Belle et la Bête
-        code: beauty
-        year: 1740
-        link: https://pt.wikipedia.org/wiki/La_Belle_et_la_Bête
-        adapted: 2018
+    - name: La Belle et la Bête
+      code: beauty
+      year: 1740
+      link: https://pt.wikipedia.org/wiki/La_Belle_et_la_Bête
+      adapted: 2018
+  - name: O Conto da Princesa Morta e os Sete Cavaleiros
+    code: tale
+    year: 1833
+    link: https://en.wikipedia.org/wiki/The_Tale_of_the_Dead_Princess_and_the_Seven_Knights
+    adapted: 1951
+    origins:
+    - name: Branca de Neve
+      code: snow
+      year: 1812
+      link: https://pt.wikipedia.org/wiki/Branca_de_Neve
+      adapted: 2019
+  - name: O Mágico da Cidade Esmeralda
+    code: wizard
+    year: 1939
+    link: https://en.wikipedia.org/wiki/The_Wizard_of_the_Emerald_City
+    adapted: 1994
+    origins:
+    - name: O Maravilhoso Mágico de Oz
+      code: wonderful
+      year: 1900
+      link: https://pt.wikipedia.org/wiki/O_Maravilhoso_M%C3%A1gico_de_Oz
+      adapted: 1939

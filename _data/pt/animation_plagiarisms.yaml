@@ -5,213 +5,213 @@ sources: >
 
   - [Animation plagiarisms in USSR](https://youtu.be/nw8Z1hwAP9A)
 cases:
-  - name: Bem, Espere Só!
-    code: well
-    year: 1969
-    link: https://pt.wikipedia.org/wiki/Lobo_Pateta
-    origins:
-      - name: Tom e Jerry
-        code: tom
-        year: 1940
-        link: https://pt.wikipedia.org/wiki/Tom_%26_Jerry
-      - name: Invenções Modernas
-        code: modern
-        year: 1937
-        link: https://en.wikipedia.org/wiki/Modern_Inventions
-  - name: Cheburashka
-    code: che
-    year: 1969
-    link: https://pt.wikipedia.org/wiki/Cheburashka
-    origins:
-      - name: Momotaro
-        code: momotaro
-        year: 1940
-        link: https://pt.wikipedia.org/wiki/Momotarō:_Umi_no_Shinpei
-  - name: Leopoldo, o Gato
-    code: leo
-    year: 1975
-    link: https://en.wikipedia.org/wiki/Leopold_the_Cat
-    origins:
-      - name: O Aristogato
-        code: aristo
-        year: 1943
-        link: https://en.wikipedia.org/wiki/Hubie_and_Bertie
-      - name: Aristogatas
-        code: cats
-        year: 1970
-        link: https://en.wikipedia.org/wiki/The_Aristocats
-      - name: Pluto
-        code: pluto
-        year: 1970
-        link: https://pt.wikipedia.org/wiki/Pluto
-  - name: Marinheiro Valente
-    code: brave
-    year: 1936
-    link: https://www.imdb.com/title/tt4859354/
-    origins:
-      - name: Popeye
-        code: popeye
-        year: 1929
-        link: https://pt.wikipedia.org/wiki/Popeye
-  - name: Ursinho Pooh
-    code: winnie
-    year: 1969
-    link: https://en.wikipedia.org/wiki/Winnie-the-Pooh_(1969_film)
-    origins:
-      - name: Ursinho Pooh
-        code: pooh
-        year: 1924
-        link: https://pt.wikipedia.org/wiki/Ursinho_Pooh
-  - name: Junior e Karlson
-    code: junior
-    year: 1968
-    link: https://www.imdb.com/title/tt0756316/
-    origins:
-      - name: Karlsson no Telhado
-        code: karlsson
-        year: 1955
-        link: https://en.wikipedia.org/wiki/Karlsson-on-the-Roof
-  - name: Os Músicos de Bremen
-    code: bremen
-    year: 1969
-    link: https://en.wikipedia.org/wiki/The_Bremen_Town_Musicians_(1969_film)
-    origins:
-      - name: Os Músicos de Bremen
-        code: town
-        year: 1819
-        link: https://pt.wikipedia.org/wiki/Os_Músicos_de_Bremen
-  - name: O Quebra-Nozes
-    code: nut
-    year: 1973
-    link: https://en.wikipedia.org/wiki/The_Nutcracker_(1973_film)
-    origins:
-      - name: O Quebra-Nozes e o Rei dos Camundongos
-        code: cracker
-        year: 1816
-        link: https://pt.wikipedia.org/wiki/O_Quebra-Nozes_e_o_Rei_dos_Camundongos
-  - name: Polegarzinha
-    code: thumb
-    year: 1964
-    link: https://www.imdb.com/title/tt0188580/
-    origins:
-      - name: Polegarzinha
-        code: elina
-        year: 1835
-        link: https://pt.wikipedia.org/wiki/A_Polegarzinha_(Hans_Christian_Andersen)
-  - name: O Patinho Feio
-    code: ugly
-    year: 1956
-    link: https://www.imdb.com/title/tt1074964/
-    origins:
-      - name: O Patinho Feio
-        code: duckling
-        year: 1843
-        link: https://pt.wikipedia.org/wiki/O_Patinho_Feio
-  - name: A Rainha da Neve
-    code: snow
-    year: 1957
-    link: https://en.wikipedia.org/wiki/The_Snow_Queen_(1957_film)
-    origins:
-      - name: A Rainha da Neve
-        code: queen
-        year: 1844
-        link: https://en.wikipedia.org/wiki/The_Snow_Queen
-  - name: O Soldadinho de Chumbo
-    code: tin
-    year: 1976
-    link: https://en.wikipedia.org/wiki/The_Steadfast_Tin_Soldier_(1976_film)
-    origins:
-      - name: O Soldadinho de Chumbo
-        code: soldier
-        year: 1838
-        link: https://pt.wikipedia.org/wiki/O_Soldadinho_de_Chumbo
-  - name: A Princesa e a Ervilha
-    code: princess
-    year: 1978
-    link: https://pt.wikipedia.org/wiki/A_Princesa_e_a_Ervilha
-    origins:
-      - name: A Princesa e a Ervilha
-        code: pea
-        year: 1835
-        link: https://pt.wikipedia.org/wiki/A_Princesa_e_a_Ervilha
-  - name: Alice no País das Maravilhas
-    code: alice
-    year: 1981
-    link: https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1981_film)
-    origins:
-      - name: As Aventuras de Alice no País das Maravilhas
-        code: adventures
-        year: 1865
-        link: https://pt.wikipedia.org/wiki/Alice_no_País_das_Maravilhas
-  - name: A Ilha do Tesouro
-    code: treasure
-    year: 1988
-    link: https://en.wikipedia.org/wiki/Treasure_Island_(1988_film)
-    origins:
-      - name: A Ilha do Tesouro
-        code: island
-        year: 1883
-        link: https://en.wikipedia.org/wiki/Treasure_Island
   - name: As Aventuras de Mogli
     code: adventures
     year: 1967
     link: https://pt.wikipedia.org/wiki/A_Ilha_do_Tesouro
     origins:
-      - name: O Livro da Selva
-        code: jungle
-        year: 1894
-        link: https://en.wikipedia.org/wiki/The_Jungle_Book
+    - name: O Livro da Selva
+      code: jungle
+      year: 1894
+      link: https://en.wikipedia.org/wiki/The_Jungle_Book
+  - name: Alice no País das Maravilhas
+    code: alice
+    year: 1981
+    link: https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1981_film)
+    origins:
+    - name: As Aventuras de Alice no País das Maravilhas
+      code: adventures
+      year: 1865
+      link: https://pt.wikipedia.org/wiki/Alice_no_País_das_Maravilhas
+  - name: Marinheiro Valente
+    code: brave
+    year: 1936
+    link: https://www.imdb.com/title/tt4859354/
+    origins:
+    - name: Popeye
+      code: popeye
+      year: 1929
+      link: https://pt.wikipedia.org/wiki/Popeye
+  - name: Os Músicos de Bremen
+    code: bremen
+    year: 1969
+    link: https://en.wikipedia.org/wiki/The_Bremen_Town_Musicians_(1969_film)
+    origins:
+    - name: Os Músicos de Bremen
+      code: town
+      year: 1819
+      link: https://pt.wikipedia.org/wiki/Os_Músicos_de_Bremen
+  - name: Cheburashka
+    code: che
+    year: 1969
+    link: https://pt.wikipedia.org/wiki/Cheburashka
+    origins:
+    - name: Momotaro
+      code: momotaro
+      year: 1940
+      link: https://pt.wikipedia.org/wiki/Momotarō:_Umi_no_Shinpei
   - name: Cinderela
     code: cinder
     year: 1979
     link: https://pt.wikipedia.org/wiki/O_Livro_da_Selva
     origins:
-      - name: Cinderela
-        code: ella
-        year: 1634
-        link: https://pt.wikipedia.org/wiki/Cinderela
-  - name: Petia e Chapeuzinho Vermelho
-    code: petia
-    year: 1958
-    link: https://www.imdb.com/title/tt0219248/
-    origins:
-      - name: Capuchinho Vermelho
-        code: little
-        year: 1697
-        link: https://pt.wikipedia.org/wiki/Capuchinho_Vermelho
+    - name: Cinderela
+      code: ella
+      year: 1634
+      link: https://pt.wikipedia.org/wiki/Cinderela
   - name: Cebolinha, o Menino Cebola
     code: cipo
     year: 1961
     link: https://www.imdb.com/title/tt2474800/
     origins:
-      - name: Cebolinha
-        code: llino
-        year: 1951
-        link: https://en.wikipedia.org/wiki/Cipollino
-  - name: O Menino Encantado
-    code: enchanted
-    year: 1955
-    link: https://en.wikipedia.org/wiki/The_Enchanted_Boy
-    origins:
-      - name: As Maravilhosas Aventuras de Nils
-        code: wonderful
-        year: 1907
-        link: https://en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils
-  - name: As Aventuras de Münchhausen
-    code: munchausen
-    year: 1982
-    link: https://www.imdb.com/title/tt0381507/
-    origins:
-      - name: As Narrativas do Barão de Münchhausen
-        code: baron
-        year: 1785
-        link: https://en.wikipedia.org/wiki/Baron_Munchausen%27s_Narrative_of_His_Marvellous_Travels_and_Campaigns_in_Russia
+    - name: Cebolinha
+      code: llino
+      year: 1951
+      link: https://en.wikipedia.org/wiki/Cipollino
   - name: Cachorro de Botas
     code: dog
     year: 1981
     link: https://en.wikipedia.org/wiki/Dog_in_Boots
     origins:
-      - name: Os Três Mosqueteiros
-        code: three
-        year: 1844
-        link: https://pt.wikipedia.org/wiki/Os_Três_Mosqueteiros
+    - name: Os Três Mosqueteiros
+      code: three
+      year: 1844
+      link: https://pt.wikipedia.org/wiki/Os_Três_Mosqueteiros
+  - name: O Menino Encantado
+    code: enchanted
+    year: 1955
+    link: https://en.wikipedia.org/wiki/The_Enchanted_Boy
+    origins:
+    - name: As Maravilhosas Aventuras de Nils
+      code: wonderful
+      year: 1907
+      link: https://en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils
+  - name: Junior e Karlson
+    code: junior
+    year: 1968
+    link: https://www.imdb.com/title/tt0756316/
+    origins:
+    - name: Karlsson no Telhado
+      code: karlsson
+      year: 1955
+      link: https://en.wikipedia.org/wiki/Karlsson-on-the-Roof
+  - name: Leopoldo, o Gato
+    code: leo
+    year: 1975
+    link: https://en.wikipedia.org/wiki/Leopold_the_Cat
+    origins:
+    - name: O Aristogato
+      code: aristo
+      year: 1943
+      link: https://en.wikipedia.org/wiki/Hubie_and_Bertie
+    - name: Aristogatas
+      code: cats
+      year: 1970
+      link: https://en.wikipedia.org/wiki/The_Aristocats
+    - name: Pluto
+      code: pluto
+      year: 1970
+      link: https://pt.wikipedia.org/wiki/Pluto
+  - name: As Aventuras de Münchhausen
+    code: munchausen
+    year: 1982
+    link: https://www.imdb.com/title/tt0381507/
+    origins:
+    - name: As Narrativas do Barão de Münchhausen
+      code: baron
+      year: 1785
+      link: https://en.wikipedia.org/wiki/Baron_Munchausen%27s_Narrative_of_His_Marvellous_Travels_and_Campaigns_in_Russia
+  - name: O Quebra-Nozes
+    code: nut
+    year: 1973
+    link: https://en.wikipedia.org/wiki/The_Nutcracker_(1973_film)
+    origins:
+    - name: O Quebra-Nozes e o Rei dos Camundongos
+      code: cracker
+      year: 1816
+      link: https://pt.wikipedia.org/wiki/O_Quebra-Nozes_e_o_Rei_dos_Camundongos
+  - name: Petia e Chapeuzinho Vermelho
+    code: petia
+    year: 1958
+    link: https://www.imdb.com/title/tt0219248/
+    origins:
+    - name: Capuchinho Vermelho
+      code: little
+      year: 1697
+      link: https://pt.wikipedia.org/wiki/Capuchinho_Vermelho
+  - name: A Princesa e a Ervilha
+    code: princess
+    year: 1978
+    link: https://pt.wikipedia.org/wiki/A_Princesa_e_a_Ervilha
+    origins:
+    - name: A Princesa e a Ervilha
+      code: pea
+      year: 1835
+      link: https://pt.wikipedia.org/wiki/A_Princesa_e_a_Ervilha
+  - name: A Rainha da Neve
+    code: snow
+    year: 1957
+    link: https://en.wikipedia.org/wiki/The_Snow_Queen_(1957_film)
+    origins:
+    - name: A Rainha da Neve
+      code: queen
+      year: 1844
+      link: https://en.wikipedia.org/wiki/The_Snow_Queen
+  - name: Polegarzinha
+    code: thumb
+    year: 1964
+    link: https://www.imdb.com/title/tt0188580/
+    origins:
+    - name: Polegarzinha
+      code: elina
+      year: 1835
+      link: https://pt.wikipedia.org/wiki/A_Polegarzinha_(Hans_Christian_Andersen)
+  - name: O Soldadinho de Chumbo
+    code: tin
+    year: 1976
+    link: https://en.wikipedia.org/wiki/The_Steadfast_Tin_Soldier_(1976_film)
+    origins:
+    - name: O Soldadinho de Chumbo
+      code: soldier
+      year: 1838
+      link: https://pt.wikipedia.org/wiki/O_Soldadinho_de_Chumbo
+  - name: A Ilha do Tesouro
+    code: treasure
+    year: 1988
+    link: https://en.wikipedia.org/wiki/Treasure_Island_(1988_film)
+    origins:
+    - name: A Ilha do Tesouro
+      code: island
+      year: 1883
+      link: https://en.wikipedia.org/wiki/Treasure_Island
+  - name: O Patinho Feio
+    code: ugly
+    year: 1956
+    link: https://www.imdb.com/title/tt1074964/
+    origins:
+    - name: O Patinho Feio
+      code: duckling
+      year: 1843
+      link: https://pt.wikipedia.org/wiki/O_Patinho_Feio
+  - name: Bem, Espere Só!
+    code: well
+    year: 1969
+    link: https://pt.wikipedia.org/wiki/Lobo_Pateta
+    origins:
+    - name: Tom e Jerry
+      code: tom
+      year: 1940
+      link: https://pt.wikipedia.org/wiki/Tom_%26_Jerry
+    - name: Invenções Modernas
+      code: modern
+      year: 1937
+      link: https://en.wikipedia.org/wiki/Modern_Inventions
+  - name: Ursinho Pooh
+    code: winnie
+    year: 1969
+    link: https://en.wikipedia.org/wiki/Winnie-the-Pooh_(1969_film)
+    origins:
+    - name: Ursinho Pooh
+      code: pooh
+      year: 1924
+      link: https://pt.wikipedia.org/wiki/Ursinho_Pooh

@@ -40,8 +40,16 @@ A sua riqueza provém do <span class="bloody">__sangue__</span> dos povos coloni
   A sua viúva, a “nova face da oposição russa”, Yulia Navalnaya apoia o
   [Colonialismo russo](/pt/navalny/#yulia-navalnaya-promete-perseguir-os-opositores-do-colonialismo-russo).
 
-[Filmes](/pt/movie_plagiarisms/),
-[animações](/pt/animation_plagiarisms/),
-[literatura](/pt/literature_plagiarisms/)
-e [carros](/pt/cars_plagiarisms/)
+- [Filmes](/pt/movie_plagiarisms/),
+- [animações](/pt/animation_plagiarisms/),
+- [literatura](/pt/literature_plagiarisms/),
+- [carros](/pt/cars_plagiarisms/),
+- [motos](/pt/motorcycles_plagiarisms/),
+- [trens](/pt/trains_plagiarisms/),
+- [aviões](/pt/planes_plagiarisms/),
+- [armas e equipamentos militares](/pt/guns_plagiarisms/),
+- [cartazes de guerra](/pt/other_plagiarisms/#cartazes-de-guerra-da-urss),
+- [eletrônicos e eletrodomésticos](/pt/other_plagiarisms/#eletrónica-e-eletrodomésticos-da-urss),
+- [brinquedos](/pt/other_plagiarisms/#brinquedos-da-urss)
+
 russos plagiam obras e invenções estrangeiras, refletindo um império incapaz de verdadeira criatividade.

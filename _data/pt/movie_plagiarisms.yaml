@@ -7,101 +7,101 @@ sources: >
 
   - [Movie plagiarisms in USSR (Part 2)](https://youtu.be/07xvphHFnpc)
 cases:
-  - name: Sequestro no Cáucaso
-    code: kidnapping
-    year: 1967
-    link: https://en.wikipedia.org/wiki/Kidnapping,_Caucasian_Style
-    origins:
-      - name: O Triciclista
-        code: tricyclist
-        year: 1957
-        link: https://en.wikipedia.org/wiki/The_Tricyclist
-      - name: A Canção do Malandro
-        code: rogue
-        year: 1930
-        link: https://pt.wikipedia.org/wiki/The_Rogue_Song
-      - name: Os Três Patetas
-        code: stooges
-        year: 1922
-        link: https://pt.wikipedia.org/wiki/The_Three_Stooges
   - name: O Braço de Diamante
     code: diamond
     year: 1969
     link: https://en.wikipedia.org/wiki/The_Diamond_Arm
     origins:
-      - name: Freddy Ataca Primeiro
-        code: strike
-        year: 1965
-        link: https://en.wikipedia.org/wiki/Strike_First_Freddy
-  - name: Coração de Cachorro
-    code: heart
-    year: 1988
-    link: https://en.wikipedia.org/wiki/Heart_of_a_Dog_(1988_film)
-    origins:
-      - name: Coração de Cão
-        code: dogs
-        year: 1976
-        link: https://en.wikipedia.org/wiki/Dog%27s_Heart
-  - name: Um Homem do Boulevard des Capucines
-    code: man
-    year: 1987
-    link: https://en.wikipedia.org/wiki/A_Man_from_the_Boulevard_des_Capucines
-    origins:
-      - name: João Limão
-        code: lemonade
-        year: 1964
-        link: https://pt.wikipedia.org/wiki/Limonádový_Joe_aneb_Koňská_opera
+    - name: Freddy Ataca Primeiro
+      code: strike
+      year: 1965
+      link: https://en.wikipedia.org/wiki/Strike_First_Freddy
   - name: As Garotas
     code: girls
     year: 1961
     link: https://en.wikipedia.org/wiki/The_Girls_(1961_film)
     origins:
-      - name: Nosso Garoto
-        code: kid
-        year: 1959
-        link: https://letterboxd.com/film/our-kid/
+    - name: Nosso Garoto
+      code: kid
+      year: 1959
+      link: https://letterboxd.com/film/our-kid/
   - name: Visitante do Futuro
     code: guest
     year: 1985
     link: https://en.wikipedia.org/wiki/Guest_from_the_Future
     origins:
-      - name: Guerra dos Robôs
-        code: war
-        year: 1978
-        link: https://en.wikipedia.org/wiki/War_of_the_Robots_(film)
+    - name: Guerra dos Robôs
+      code: war
+      year: 1978
+      link: https://en.wikipedia.org/wiki/War_of_the_Robots_(film)
+  - name: Coração de Cachorro
+    code: heart
+    year: 1988
+    link: https://en.wikipedia.org/wiki/Heart_of_a_Dog_(1988_film)
+    origins:
+    - name: Coração de Cão
+      code: dogs
+      year: 1976
+      link: https://en.wikipedia.org/wiki/Dog%27s_Heart
   - name: A Ironia do Destino
     code: irony
     year: 1975
     link: https://pt.wikipedia.org/wiki/Ironia_sudby,_ili_S_liegkim_parom!
     origins:
-      - name: Se Meu Apartamento Falasse
-        code: apartment
-        year: 1960
-        link: https://pt.wikipedia.org/wiki/The_Apartment
-  - name: Romance de Escritório
-    code: office
-    year: 1977
-    link: https://pt.wikipedia.org/wiki/Sluzhebnyy_roman
+    - name: Se Meu Apartamento Falasse
+      code: apartment
+      year: 1960
+      link: https://pt.wikipedia.org/wiki/The_Apartment
+  - name: Sequestro no Cáucaso
+    code: kidnapping
+    year: 1967
+    link: https://en.wikipedia.org/wiki/Kidnapping,_Caucasian_Style
     origins:
-      - name: Como se Livrar de Helenka
-        code: helenka
-        year: 1967
-        link: https://en.wikipedia.org/wiki/Jak_se_zbavit_Helenky
+    - name: O Triciclista
+      code: tricyclist
+      year: 1957
+      link: https://en.wikipedia.org/wiki/The_Tricyclist
+    - name: A Canção do Malandro
+      code: rogue
+      year: 1930
+      link: https://pt.wikipedia.org/wiki/The_Rogue_Song
+    - name: Os Três Patetas
+      code: stooges
+      year: 1922
+      link: https://pt.wikipedia.org/wiki/The_Three_Stooges
+  - name: Um Homem do Boulevard des Capucines
+    code: man
+    year: 1987
+    link: https://en.wikipedia.org/wiki/A_Man_from_the_Boulevard_des_Capucines
+    origins:
+    - name: João Limão
+      code: lemonade
+      year: 1964
+      link: https://pt.wikipedia.org/wiki/Limonádový_Joe_aneb_Koňská_opera
   - name: O Lugar de Encontro Não Pode Ser Mudado
     code: meeting
     year: 1979
     link: https://en.wikipedia.org/wiki/The_Meeting_Place_Cannot_Be_Changed
     origins:
-      - name: Tornei-me um Policial
-        code: cop
-        year: 1972
-        link: https://letterboxd.com/film/ive-become-a-cop/
+    - name: Tornei-me um Policial
+      code: cop
+      year: 1972
+      link: https://letterboxd.com/film/ive-become-a-cop/
+  - name: Romance de Escritório
+    code: office
+    year: 1977
+    link: https://pt.wikipedia.org/wiki/Sluzhebnyy_roman
+    origins:
+    - name: Como se Livrar de Helenka
+      code: helenka
+      year: 1967
+      link: https://en.wikipedia.org/wiki/Jak_se_zbavit_Helenky
   - name: Incríveis Aventuras de Italianos na Rússia
     code: unbelievable
     year: 1974
     link: https://en.wikipedia.org/wiki/Unbelievable_Adventures_of_Italians_in_Russia
     origins:
-      - name: Deu a Louca no Mundo
-        code: mad
-        year: 1963
-        link: https://pt.wikipedia.org/wiki/It%27s_a_Mad,_Mad,_Mad,_Mad_World
+    - name: Deu a Louca no Mundo
+      code: mad
+      year: 1963
+      link: https://pt.wikipedia.org/wiki/It%27s_a_Mad,_Mad,_Mad,_Mad_World
