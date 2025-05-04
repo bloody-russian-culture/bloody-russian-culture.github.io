@@ -1,0 +1,70 @@
+lead: >
+  Російські літаки плагіаризують іноземні винаходи, що відображає імперію, нездатну до справжньої творчості.
+sources: >
+  Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
+  - [Cars plagiarisms in USSR](https://youtu.be/gjjCI6TYtsg)
+cases:
+  - name: Як-24
+    code: yak-24
+    year: 1955
+    link: https://uk.wikipedia.org/wiki/%D0%AF%D0%BA-24
+    origins:
+      - name: Piasecki HRP Rescuer
+        code: piasecki
+        year: 1945
+        link: https://en.wikipedia.org/wiki/Piasecki_HRP_Rescuer
+  - name: Лі-2
+    code: li-2
+    year: 1939
+    link: https://uk.wikipedia.org/wiki/%D0%9B%D1%96-2
+    origins:
+      - name: Douglas DC 3
+        code: douglas
+        year: 1936
+        link: https://uk.wikipedia.org/wiki/Douglas_DC-3
+  - name: Ту-4
+    code: tu-4
+    year: 1946
+    link: https://uk.wikipedia.org/wiki/%D0%A2%D1%83-4
+    origins:
+      - name: Boeing B-29 Superfortress
+        code: boeing
+        year: 1943
+        link: https://uk.wikipedia.org/wiki/Boeing_B-29_Superfortress
+  - name: Ту-144 «Конкордський»
+    code: tu-144
+    year: 1968
+    link: https://uk.wikipedia.org/wiki/%D0%A2%D1%83-144
+    origins:
+      - name: Concorde
+        code: concorde
+        year: 1968
+        link: https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D0%BE%D1%80%D0%B4
+  - name: Буран
+    code: buran
+    year: 1984
+    link: https://uk.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%B0%D0%BD_(%D0%BE%D1%80%D0%B1%D1%96%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C)
+    origins:
+      - name: Columbia
+        code: columbia
+        year: 1981
+        link: https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D1%96%D1%8F_(%D1%88%D0%B0%D1%82%D0%BB)
+  - name: У-1
+    code: u-1
+    year: 1921
+    link: https://de.wikipedia.org/wiki/Duks_U-1
+    origins:
+      - name: Avro 504
+        code: avro
+        year: 1913
+        link: https://uk.wikipedia.org/wiki/Avro_504
+  - name: R-1
+    code: pol-r-1
+    year: 1923
+    link: https://de.wikipedia.org/wiki/Polikarpow_R-1
+    origins:
+      - name: Airco DH.9
+        code: airco
+        year: 1917
+        link: https://en.wikipedia.org/wiki/Airco_DH.9

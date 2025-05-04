@@ -7,101 +7,101 @@ sources: >
 
   - [Movie plagiarisms in USSR (Part 2)](https://youtu.be/07xvphHFnpc)
 cases:
-  - name: Кавказька полонянка, або Нові пригоди Шурика
-    code: kidnapping
-    year: 1967
-    link: https://uk.wikipedia.org/wiki/Кавказька_полонянка,_або_Нові_пригоди_Шурика
-    origins:
-      - name: Триколісний велосипед
-        code: tricyclist
-        year: 1957
-        link: https://en.wikipedia.org/wiki/The_Tricyclist
-      - name: Пісня розбійника
-        code: rogue
-        year: 1930
-        link: https://uk.wikipedia.org/wiki/Пісня_розбійника
-      - name: Три бовдури
-        code: stooges
-        year: 1922
-        link: https://uk.wikipedia.org/wiki/Три_бовдури
   - name: Діамантова рука
     code: diamond
     year: 1969
     link: https://uk.wikipedia.org/wiki/Діамантова_рука
     origins:
-      - name: Удар першим, Фредді
-        code: strike
-        year: 1965
-        link: https://en.wikipedia.org/wiki/Strike_First_Freddy
-  - name: Собаче серце
-    code: heart
-    year: 1988
-    link: https://uk.wikipedia.org/wiki/Собаче_серце_(фільм,_1988)
-    origins:
-      - name: Серце собаки
-        code: dogs
-        year: 1976
-        link: https://en.wikipedia.org/wiki/Dog%27s_Heart
-  - name: Людина з бульвару Капуцинів
-    code: man
-    year: 1987
-    link: https://uk.wikipedia.org/wiki/Людина_з_бульвару_Капуцинів
-    origins:
-      - name: Лимонадний Джо
-        code: lemonade
-        year: 1964
-        link: https://uk.wikipedia.org/wiki/Лимонадний_Джо
+    - name: Удар першим, Фредді
+      code: strike
+      year: 1965
+      link: https://en.wikipedia.org/wiki/Strike_First_Freddy
   - name: Дівчата
     code: girls
     year: 1961
     link: https://uk.wikipedia.org/wiki/Дівчата_(фільм)
     origins:
-      - name: Наш хлопець
-        code: kid
-        year: 1959
-        link: https://letterboxd.com/film/our-kid/
+    - name: Наш хлопець
+      code: kid
+      year: 1959
+      link: https://letterboxd.com/film/our-kid/
   - name: Гостя з майбутнього
     code: guest
     year: 1985
     link: https://uk.wikipedia.org/wiki/Гостя_з_майбутнього
     origins:
-      - name: Війна роботів
-        code: war
-        year: 1978
-        link: https://en.wikipedia.org/wiki/War_of_the_Robots_(film)
+    - name: Війна роботів
+      code: war
+      year: 1978
+      link: https://en.wikipedia.org/wiki/War_of_the_Robots_(film)
+  - name: Собаче серце
+    code: heart
+    year: 1988
+    link: https://uk.wikipedia.org/wiki/Собаче_серце_(фільм,_1988)
+    origins:
+    - name: Серце собаки
+      code: dogs
+      year: 1976
+      link: https://en.wikipedia.org/wiki/Dog%27s_Heart
   - name: Іронія долі, або З легкою парою!
     code: irony
     year: 1975
     link: https://uk.wikipedia.org/wiki/Іронія_долі
     origins:
-      - name: Квартира
-        code: apartment
-        year: 1960
-        link: https://uk.wikipedia.org/wiki/Квартира_(фільм)
-  - name: Службовий роман
-    code: office
-    year: 1977
-    link: https://uk.wikipedia.org/wiki/Службовий_роман
+    - name: Квартира
+      code: apartment
+      year: 1960
+      link: https://uk.wikipedia.org/wiki/Квартира_(фільм)
+  - name: Кавказька полонянка, або Нові пригоди Шурика
+    code: kidnapping
+    year: 1967
+    link: https://uk.wikipedia.org/wiki/Кавказька_полонянка,_або_Нові_пригоди_Шурика
     origins:
-      - name: Як позбутися Геленки
-        code: helenka
-        year: 1967
-        link: https://en.wikipedia.org/wiki/Jak_se_zbavit_Helenky
+    - name: Триколісний велосипед
+      code: tricyclist
+      year: 1957
+      link: https://en.wikipedia.org/wiki/The_Tricyclist
+    - name: Пісня розбійника
+      code: rogue
+      year: 1930
+      link: https://uk.wikipedia.org/wiki/Пісня_розбійника
+    - name: Три бовдури
+      code: stooges
+      year: 1922
+      link: https://uk.wikipedia.org/wiki/Три_бовдури
+  - name: Людина з бульвару Капуцинів
+    code: man
+    year: 1987
+    link: https://uk.wikipedia.org/wiki/Людина_з_бульвару_Капуцинів
+    origins:
+    - name: Лимонадний Джо
+      code: lemonade
+      year: 1964
+      link: https://uk.wikipedia.org/wiki/Лимонадний_Джо
   - name: Місце зустрічі змінити не можна
     code: meeting
     year: 1979
     link: https://uk.wikipedia.org/wiki/Місце_зустрічі_змінити_не_можна
     origins:
-      - name: Я став копом
-        code: cop
-        year: 1972
-        link: https://letterboxd.com/film/ive-become-a-cop/
+    - name: Я став копом
+      code: cop
+      year: 1972
+      link: https://letterboxd.com/film/ive-become-a-cop/
+  - name: Службовий роман
+    code: office
+    year: 1977
+    link: https://uk.wikipedia.org/wiki/Службовий_роман
+    origins:
+    - name: Як позбутися Геленки
+      code: helenka
+      year: 1967
+      link: https://en.wikipedia.org/wiki/Jak_se_zbavit_Helenky
   - name: Неймовірні пригоди італійців у Росії
     code: unbelievable
     year: 1974
     link: https://uk.wikipedia.org/wiki/Неймовірні_пригоди_італійців_у_Росії
     origins:
-      - name: Це шалений, шалений, шалений, шалений світ
-        code: mad
-        year: 1963
-        link: https://uk.wikipedia.org/wiki/Цей_шалений,_шалений,_шалений,_шалений_світ
+    - name: Це шалений, шалений, шалений, шалений світ
+      code: mad
+      year: 1963
+      link: https://uk.wikipedia.org/wiki/Цей_шалений,_шалений,_шалений,_шалений_світ

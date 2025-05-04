@@ -131,21 +131,39 @@ cases:
         code: m3
         year: 1939
         link: https://uk.wikipedia.org/wiki/M3_Scout_Car
-  - name: У-1
-    code: u-1
-    year: 1921
-    link: https://de.wikipedia.org/wiki/Duks_U-1
+  - name: С-60 «Сталінєц»
+    code: s-60
+    year: 1933
+    link: https://en.wikipedia.org/wiki/S-60_(tractor)
     origins:
-      - name: Avro 504
-        code: avro
-        year: 1913
-        link: https://uk.wikipedia.org/wiki/Avro_504
-  - name: R-1
-    code: pol-r-1
-    year: 1923
-    link: https://de.wikipedia.org/wiki/Polikarpow_R-1
+      - name: Caterpillar Sixty
+        code: cat
+        year: 1925
+        link: https://en.wikipedia.org/wiki/Caterpillar_Sixty
+  - name: БТ-2
+    code: bt-2
+    year: 1932
+    link: https://uk.wikipedia.org/wiki/%D0%91%D0%A2-2
     origins:
-      - name: Airco DH.9
-        code: airco
-        year: 1917
-        link: https://en.wikipedia.org/wiki/Airco_DH.9
+      - name: Christie M1931
+        code: christie
+        year: 1931
+        link: https://en.wikipedia.org/wiki/Christie_M1931
+  - name: Т-26
+    code: t-26
+    year: 1931
+    link: https://uk.wikipedia.org/wiki/%D0%A2-26
+    origins:
+      - name: Vickers Mark E «Шеститонний»
+        code: vickers
+        year: 1928
+        link: https://uk.wikipedia.org/wiki/Vickers_Mark_E
+  - name: ЗІС-485 БАВ
+    code: zis-485
+    year: 1952
+    link: https://en.wikipedia.org/wiki/BAV_485
+    origins:
+      - name: DUKW 353
+        code: dukw
+        year: 1942
+        link: https://en.wikipedia.org/wiki/DUKW

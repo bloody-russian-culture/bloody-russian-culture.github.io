@@ -1,0 +1,79 @@
+lead: >
+  Російські мотоцикли плагіаризують іноземні винаходи, що відображає імперію, нездатну до справжньої творчості.
+sources: >
+  Youtube: [About Ukraine!](https://www.youtube.com/@pro-ukrainu)
+
+  - [Cars plagiarisms in USSR](https://youtu.be/gjjCI6TYtsg)
+cases:
+  - name: Днєпр M-72
+    code: dnepr-m-72
+    year: 1942
+    link: https://en.wikipedia.org/wiki/Dnepr_M-72
+    origins:
+    - name: BMW R71
+      code: bmw
+      year: 1938
+      link: https://en.wikipedia.org/wiki/BMW_Motorrad
+  - name: ІЖ-49
+    code: izh-49
+    year: 1951
+    link: https://uk.wikipedia.org/wiki/%D0%86%D0%B6-49
+    origins:
+    - name: DKW NZ 350
+      code: dkw
+      year: 1938
+      link: https://uk.wikipedia.org/wiki/DKW_NZ_350
+  - name: K-125
+    code: k-125
+    year: 1946
+    link: https://uk.wikipedia.org/wiki/%D0%9A-125
+    origins:
+    - name: DKW RT 125
+      code: dkw
+      year: 1939
+      link: https://uk.wikipedia.org/wiki/DKW_RT_125
+  - name: К-1Б
+    code: k1-b
+    year: 1946
+    link: https://uk.wikipedia.org/wiki/%D0%9A1-%D0%91_(%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB)
+    origins:
+    - name: Wanderer 1Sp
+      code: wanderer
+      year: 1929
+      link: https://uk.wikipedia.org/wiki/Wanderer_1Sp
+  - name: Л-300
+    code: l-300
+    year: 1930
+    link: https://en.wikipedia.org/wiki/Krasny_Oktyabr_(engine_plant)
+    origins:
+    - name: DKW Luxus 300
+      code: dkw
+      year: 1929
+      link: https://de.wikipedia.org/wiki/DKW_Luxus_300
+  - name: ТІЗ АМ-600
+    code: tiz-am-600
+    year: 1935
+    link: https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB_%D0%A2%D0%86%D0%97
+    origins:
+    - name: BSA H32-9 600cc Slopper
+      code: bsa
+      year: 1927
+      link: https://en.wikipedia.org/wiki/BSA_Sloper
+  - name: TMZ-53
+    code: tmz-53
+    year: 1943
+    link: https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BB%D0%B0_(%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB)
+    origins:
+    - name: BMW R75 Sahara
+      code: bmw
+      year: 1941
+      link: https://en.wikipedia.org/wiki/BMW_R75
+  - name: Вятка ВП-150
+    code: vyatka-vp-150
+    year: 1956
+    link: https://uk.wikipedia.org/wiki/%D0%92%D1%8F%D1%82%D0%BA%D0%B0_(%D0%BC%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D1%80)
+    origins:
+    - name: Vespa GS 150
+      code: vespa
+      year: 1955
+      link: https://de.wikipedia.org/wiki/Vespa_150_GS
