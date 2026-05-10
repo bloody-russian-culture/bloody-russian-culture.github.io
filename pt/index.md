@@ -12,7 +12,7 @@ A resposta é __Imperialismo__.
 A cultura russa é __imperialista__, __elitista__ e __chauvinista__.
 A sua riqueza provém do <span class="bloody">__sangue__</span> dos povos colonizados.
 
-- O "pai da língua russa moderna", [Púchkin](/pt/pushkin/), aprovou a colonização dos
+- O "pai da língua russa moderna", [__Púchkin__](/pt/pushkin/), aprovou a colonização dos
   [tártaros da Crimeia](/pt/pushkin/#genocídio-aprovado-dos-tártaros-da-crimeia-alegou-que-desarmar-os-circassianos-era-a-única-opção-para-os-pacificar-após-a-conquista-violenta),
   [circassianos](/pt/pushkin/#esperava-pacificar-economicamente-os-circassianos-bloqueando-lhes-o-acesso-ao-mar-negro)
   e [ossetas](/pt/pushkin/#prostituição-aprovada-entre-as-mulheres-pobres-da-ossétia).
