@@ -4,10 +4,18 @@ layout: single
 
 <link rel="stylesheet" href="/assets/stylesheets/main.css"/>
 
-{{ content }}
-
 {% assign locale = page.locale %}
 {% unless locale %}{% assign locale = "en" %}{% endunless %}
+
+<button
+    type="button"
+    class="go-up"
+    data-go-up
+    aria-label="{{ site.data[locale].main.go_up }}"
+>&#8593;</button>
+
+{{ content }}
+
 {{ site.data[locale].main.donate }}
 
 <br/><br/><br/>

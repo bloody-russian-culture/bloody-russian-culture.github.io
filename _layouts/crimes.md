@@ -29,6 +29,9 @@ layout: main
     {% endfor %}
 </ul>
 
+{% assign closer = text.closer | default: fallback.closer %}
+{{ closer | markdownify }}
+
 {% for entry in facts.entries %}
     {% assign link = entry.links[locale] | default: entry.links.en %}
     {% assign summary = text.entries[entry.id] | default: fallback.entries[entry.id] %}
@@ -59,6 +62,8 @@ layout: main
         {% endif %}
     </section>
 {% endfor %}
+
+{{ closer | markdownify }}
 
 {{ strings.source_note | markdownify }}
 

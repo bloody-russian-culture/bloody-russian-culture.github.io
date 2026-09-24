@@ -19,3 +19,34 @@
     height: 100%; /* Forces image to fill height */
     object-fit: cover; /* Scales image to fill container without white space */
 }
+
+.go-up {
+    position: fixed;
+    right: 1em;
+    bottom: 1em;
+    z-index: 15;
+    border: 0;
+    border-radius: 50%;
+    width: 2em;
+    height: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5em;
+    line-height: 1;
+    cursor: pointer;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.45);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s ease, visibility 0.2s ease;
+}
+
+.go-up:hover {
+    background: #780607;
+}
+
+.go-up--visible {
+    opacity: 1;
+    visibility: visible;
+}
