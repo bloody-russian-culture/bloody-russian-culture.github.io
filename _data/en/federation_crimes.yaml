@@ -33,9 +33,6 @@ entries:
     justify upcoming the Second Chechen War for civillians. Independent investigations suggest
     Russian state security orchestrated the attacks to escalate conflict and boost Putin's
     popularity.
-  staropromyslovsky-massacre: >
-    During the Staropromyslovsky massacre (Dec 1999-Jan 2000), at least 38 civilians, mostly women
-    and elderly men, were executed by Russian soldiers in Grozny, Chechnya.
   battle-of-grozny-1999-2000: >
     The Battle of Grozny (1999-2000) involved extensive Russian bombardment, leading to Grozny's
     designation as the most destroyed city on Earth. Between 5,000 and 8,000 civilians were killed,
@@ -73,6 +70,12 @@ entries:
     the death of at least 1,348 civilians, with the true toll estimated to be thousands higher. The
     siege also caused the destruction of 90% of the city's residential buildings, while Russian
     forces blocked humanitarian aid, committing numerous war crimes.
+  bombing-of-borodianka: >
+    On 1–2 March 2022, Russian airstrikes destroyed 8 multi-storey residential buildings in
+    Borodianka, killing 40-80 civilians.
+  kharkiv-government-building-airstrike: >
+    On 1 March 2022, two Russian cruise missiles struck the Kharkiv Regional State Administration
+    building and nearby Freedom Square, killing 29 people and injuring more than 35.
   3-march-2022-chernihiv-bombing: >
     On 3 March 2022, Russian aircraft bombed a residential area in Chernihiv, killing 47 and
     injuring 18, while civilians were going about their daily activities.
@@ -86,15 +89,26 @@ entries:
     The Bucha massacre involved the mass murder of Ukrainian civilians by Russian forces, with 458
     bodies recovered, including 9 children. The UN documented at least 73 unlawful killings, and
     Human Rights Watch confirmed war crimes by Russian troops, including executions and torture.
+  stara-krasnianka-care-house-attack: >
+    On 11 March 2022, Russia-affiliated forces shelled a care home at Stara Krasnianka with heavy
+    weapons while 71 disabled patients and 15 staff remained inside. A fire followed and 56
+    civilians died.
   16-march-2022-chernihiv-breadline-attack: >
     On 16 March 2022, Russian forces attacked civilians queuing for bread in Chernihiv, killing 18
     and injuring 26.
   mariupol-theatre-airstrike: >
     The Russian Armed Forces bombed the Mariupol theatre on March 16, 2022, used as a civilian air
     raid shelter, causing up to 600 deaths.
+  mykolaiv-government-building-missile-strike: >
+    On 29 March 2022, Russian forces launched a cruise missile at the Mykolaiv Regional State
+    Administration building, destroying roughly half of the structure and triggering fires. The
+    strike killed 37 people and injured 34.
   kramatorsk-railway-station-attack: >
     On April 8, 2022, a Russian missile strike hit Kramatorsk's railway station, killing 63
     civilians, including 9 children, and wounding 150.
+  bilohorivka-school-bombing: >
+    On 7 May 2022, Russian forces bombed a school in Bilohorivka where about 90 people were
+    sheltering in the basement. The strike caused a fire and trapped people inside. Up to 60 civilians died.
   kremenchuk-shopping-mall-attack: >
     On June 27, 2022, Russian missiles hit the Kremenchuk shopping mall, killing at least 20 people
     and injuring 59.
@@ -111,6 +125,12 @@ entries:
     Russian forces shelled a Ukrainian prison in Olenivka, killing 53 Ukrainian prisoners of war and
     wounding 75-130, with independent investigations pointing to Russia's responsibility and Russian
     refusal to cooperate with UN investigations.
+  kharkiv-dormitories-missile-strike: >
+    On 17–18 August 2022, Russian forces struck residential dormitories in Kharkiv with missiles,
+    killing 25 people, and injuring 44.
+  chaplyne-railway-station-attack: >
+    On 24 August 2022, Russian forces carried out a missile strike on Chaplyne, killing 25 people
+    and injuring 31.
   izium-mass-graves: >
     After Ukrainian forces recaptured Izium during the Kharkiv counteroffensive, 447 bodies were
     discovered in mass graves, including 414 civilians (215 women, 194 men, 5 children) and 22
@@ -153,6 +173,11 @@ entries:
   hroza-missile-attack: >
     On October 5, 2023, a Russian Iskander missile struck a café in Hroza during a memorial
     gathering for a Ukrainian soldier, killing 59 civilians and injuring 7.
+  volnovakha-massacre: >
+    On 27 October 2023, two Russian soldiers allegedly entered a civilian family's home in occupied
+    Volnovakha and killed all 9 members of the Kapkanets family, including children aged 5 and 9.
+    The victims were reportedly shot after refusing to surrender their home for use by a Russian
+    military unit.
   2024-pokrovsk-missile-strike: >
     On 6 January 2024, Russian forces launched a missile strike on a residential area in Pokrovsk,
     killing 12 people, including 6 children, and injuring 10.
@@ -173,3 +198,7 @@ entries:
   2025-yarova-attack: >
     On 9 September 2025, Russian forces struck Yarova with a glide bomb while pensioners were
     gathering to receive their pensions, killing 25 and injuring 19.
+  2025-ternopil-strike: >
+    On 19 November 2025, Russian forces carried out a large combined missile and drone
+    attack on Ternopil, striking residential areas and two apartment buildings. The attack killed at
+    least 38 civilians, including 8 children, and injured 99 people.

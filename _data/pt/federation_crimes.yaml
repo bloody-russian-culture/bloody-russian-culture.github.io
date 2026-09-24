@@ -31,9 +31,6 @@ entries:
     Os atentados a apartamentos na Rússia em 1999 mataram mais de 300 pessoas e feriram mais de 1,000, instigando o medo para
     justificar a iminente Segunda Guerra da Chechénia para os civis. Investigações independentes sugerem que
     segurança do Estado russo orquestrou os ataques para intensificar o conflito e aumentar a popularidade de Putin.
-  staropromyslovsky-massacre: >
-    Durante o massacre de Staropromyslovsky (dezembro de 1999 a janeiro de 2000), pelo menos 38 civis, na sua maioria mulheres
-    e homens idosos, foram executados por soldados russos em Grozny, na Chechénia.
   battle-of-grozny-1999-2000: >
     A Batalha de Grozny (1999-2000) envolveu intensos bombardeamentos russos, levando à designação de Grozny como a cidade mais destruída do planeta.
     Entre 5,000 e 8,000 civis foram mortos e ocorreram graves violações dos direitos humanos.
@@ -68,6 +65,12 @@ entries:
     O cerco russo a Mariupol durou quase 3 meses, resultando na ocupação da cidade e na morte de pelo menos 1,348 civis,
     sendo que o número real de vítimas está estimado em milhares. O cerco provocou ainda a destruição de 90% dos edifícios
     residenciais da cidade, enquanto as forças russas bloquearam a ajuda humanitária, cometendo inúmeros crimes de guerra.
+  bombing-of-borodianka: >
+    Em 1–2 de março de 2022, ataques aéreos russos destruíram 8 edifícios residenciais de vários
+    andares em Borodianka, matando entre 40 e 80 civis.
+  kharkiv-government-building-airstrike: >
+    Em 1 de março de 2022, dois mísseis de cruzeiro russos atingiram o edifício da Administração
+    Estatal Regional de Kharkiv e a vizinha Praça da Liberdade, matando 29 pessoas e ferindo mais de 35.
   3-march-2022-chernihiv-bombing: >
     A 3 de março de 2022, aviões russos bombardearam uma zona residencial em Chernihiv,
     matando 47 pessoas e ferindo 18, enquanto os civis realizavam as suas atividades diárias.
@@ -81,14 +84,26 @@ entries:
     O massacre de Bucha envolveu o assassinato em massa de civis ucranianos pelas forças russas, tendo sido recuperados 458 corpos,
     incluindo 9 crianças. A ONU documentou pelo menos 73 assassinatos ilegais, e a Human Rights Watch confirmou crimes
     de guerra cometidos pelas tropas russas, incluindo execuções e tortura.
+  stara-krasnianka-care-house-attack: >
+    Em 11 de março de 2022, forças ligadas à Rússia bombardearam com armas pesadas uma instituição
+    de acolhimento em Stara Krasnianka, enquanto 71 pacientes com deficiência e 15 funcionários
+    permaneciam no interior. Um incêndio ocorreu em seguida e 56 civis morreram.
   16-march-2022-chernihiv-breadline-attack: >
     A 16 de março de 2022, as forças russas atacaram civis que faziam fila para comprar pão em Chernihiv, matando 18 pessoas e ferindo 26.
   mariupol-theatre-airstrike: >
     As Forças Armadas Russas bombardearam o teatro de Mariupol a 16 de março de 2022,
     utilizado como abrigo antiaéreo civil, causando até 600 mortos.
+  mykolaiv-government-building-missile-strike: >
+    Em 29 de março de 2022, forças russas lançaram um míssil de cruzeiro contra o edifício da
+    Administração Estatal Regional de Mykolaiv, destruindo aproximadamente metade da estrutura e
+    provocando incêndios. O ataque matou 37 pessoas e feriu 34.
   kramatorsk-railway-station-attack: >
     A 8 de abril de 2022, um ataque com mísseis russos atingiu a estação ferroviária de Kramatorsk,
     matando 63 civis, incluindo 9 crianças, e ferindo 150.
+  bilohorivka-school-bombing: >
+    Em 7 de maio de 2022, forças russas bombardearam uma escola em Bilohorivka onde cerca de 90
+    pessoas estavam abrigadas no porão. O ataque provocou um incêndio e deixou pessoas presas no
+    interior. Até 60 civis morreram.
   kremenchuk-shopping-mall-attack: >
     A 27 de junho de 2022, mísseis russos atingiram o centro comercial de Kremenchuk, matando pelo menos 20 pessoas e ferindo 59.
   serhiivka-missile-strike: >
@@ -104,6 +119,12 @@ entries:
     As forças russas bombardearam uma prisão ucraniana em Olenivka, matando 53 prisioneiros de guerra ucranianos
     e ferindo entre 75 e 130. As investigações independentes apontam para a responsabilidade da Rússia
     e para a recusa russa em cooperar com as investigações da ONU.
+  kharkiv-dormitories-missile-strike: >
+    Em 17–18 de agosto de 2022, forças russas atingiram dormitórios residenciais em Kharkiv com
+    mísseis, matando 25 pessoas e ferindo 44.
+  chaplyne-railway-station-attack: >
+    Em 24 de agosto de 2022, forças russas realizaram um ataque com mísseis contra Chaplyne,
+    matando 25 pessoas e ferindo 31.
   izium-mass-graves: >
     Após as forças ucranianas terem recapturado Izium durante a contra-ofensiva de Kharkiv,
     foram descobertos 447 corpos em valas comuns, incluindo 414 civis (215 mulheres, 194 homens e 5 crianças) e 22 militares.
@@ -143,6 +164,11 @@ entries:
   hroza-missile-attack: >
     A 5 de outubro de 2023, um míssil russo Iskander atingiu um café em Hroza durante
     uma homenagem a um soldado ucraniano, matando 59 civis e ferindo 7.
+  volnovakha-massacre: >
+    Em 27 de outubro de 2023, dois soldados russos teriam entrado na casa de uma família civil em
+    Volnovakha, sob ocupação, e matado todos os 9 membros da família Kapkanets, incluindo crianças
+    de 5 e 9 anos. As vítimas teriam sido baleadas após se recusarem a entregar a casa para uso por
+    uma unidade militar russa.
   2024-pokrovsk-missile-strike: >
     A 6 de janeiro de 2024, as forças russas lançaram um ataque com mísseis contra uma área residencial em Pokrovsk,
     matando 12 pessoas, incluindo 6 crianças, e ferindo 10.
@@ -163,3 +189,7 @@ entries:
   2025-yarova-attack: >
     A 9 de setembro de 2025, as forças russas atacaram Yarova com uma bomba planadora enquanto
     os reformados se reuniam para receber as suas pensões, matando 25 pessoas e ferindo 19.
+  2025-ternopil-strike: >
+    Em 19 de novembro de 2025, forças russas realizaram um grande ataque combinado com mísseis e
+    drones contra Ternopil, atingindo áreas residenciais e dois edifícios de apartamentos. O ataque
+    matou pelo menos 38 civis, incluindo 8 crianças, e feriu 99 pessoas.

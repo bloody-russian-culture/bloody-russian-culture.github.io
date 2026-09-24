@@ -90,18 +90,6 @@ entries:
         credit: "https://commons.wikimedia.org/wiki/File:RIAN_archive_140276_Removing_rubble_at_site_of_damaged_apartment_house_on_Kashira_Highway.jpg"
       - file: "10.jpg"
         credit: "https://commons.wikimedia.org/wiki/File:Volgodonsk_1999.jpg"
-  - id: "staropromyslovsky-massacre"
-    date: "12.1999"
-    links:
-      en:
-        title: "Staropromyslovsky massacre"
-        url: "https://en.wikipedia.org/wiki/Staropromyslovski_massacre"
-      ua:
-        title: "Різанина в Старопромисловському"
-        url: "https://en.wikipedia.org/wiki/Staropromyslovski_massacre"
-      pt:
-        title: "Massacre de Staropromyslovsky"
-        url: "https://en.wikipedia.org/wiki/Staropromyslovski_massacre"
   - id: "battle-of-grozny-1999-2000"
     date: "25.12.1999"
     links:
@@ -363,6 +351,43 @@ entries:
       - file: "17.jpg"
         caption: "War damage in Mariupol, 12 March 2022"
         credit: "https://commons.wikimedia.org/wiki/File:War_damages_in_Mariupol,_12_March_2022_(02).jpg"
+  - id: "bombing-of-borodianka"
+    date: "01.03.2022"
+    links:
+      en:
+        title: "Bombing of Borodianka"
+        url: "https://en.wikipedia.org/wiki/Bombing_of_Borodianka"
+      ua:
+        title: "Масові вбивства в Бородянці"
+        url: "https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BE%D0%B2%D1%96_%D0%B2%D0%B1%D0%B8%D0%B2%D1%81%D1%82%D0%B2%D0%B0_%D0%B2_%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D1%8F%D0%BD%D1%86%D1%96"
+      pt:
+        title: "Bombardeio de Borodianka"
+        url: "https://pt.wikipedia.org/wiki/Bombardeio_de_Borodianka"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:%D0%A3_%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D1%8F%D0%BD%D1%86%D1%96_%D0%BD%D0%B5%D0%BC%D0%B0%D1%94_%D0%B2%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D1%85_%D0%BE%D0%B1%E2%80%99%D1%94%D0%BA%D1%82%D1%96%D0%B2_%E2%80%94_%D0%BB%D0%B8%D1%88%D0%B5_%D0%B6%D0%B8%D1%82%D0%BB%D0%BE%D0%B2%D1%96_%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BA%D0%B8_%D1%82%D0%B0_%D0%B4%D0%B8%D1%82%D1%8F%D1%87%D1%96_%D1%81%D0%B0%D0%B4%D0%BE%D1%87%D0%BA%D0%B8.jpg"
+      - file: "02.jpg"
+        caption: "Borodianka after the bombing, 2 March 2022"
+        credit: "https://commons.wikimedia.org/wiki/File:Borodianka_after_Russian_bombing,_2022-03-02_(16).jpg"
+      - file: "03.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Transferring_of_the_kitchen_cabinet_from_Borodianka_to_Maidan_Museum_(02).jpg"
+      - file: "04.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Rescue_of_a_cat_in_Borodianka,_2_May_2022_(2).jpg"
+  - id: "kharkiv-government-building-airstrike"
+    date: "01.03.2022"
+    links:
+      en:
+        title: "Kharkiv government building airstrike"
+        url: "https://en.wikipedia.org/wiki/Kharkiv_government_building_airstrike"
+      ua:
+        title: "Ракетний удар по будівлі Харківської ОДА 1 березня 2022"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE_%D0%B1%D1%83%D0%B4%D1%96%D0%B2%D0%BB%D1%96_%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%9E%D0%94%D0%90_1_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F_2022"
+      pt:
+        title: "Ataque aéreo ao prédio do governo de Carquive"
+        url: "https://pt.wikipedia.org/wiki/Ataque_a%C3%A9reo_ao_pr%C3%A9dio_do_governo_de_Carquive"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Kalibr_missile_strike_in_Kharkiv,_Ukraine.jpg"
   - id: "3-march-2022-chernihiv-bombing"
     date: "03.03.2022"
     links:
@@ -438,6 +463,18 @@ entries:
       - file: "09.jpg"
         caption: "Murdered Ukrainian civilians with wrists bound in plastic restraints, in a basement in Bucha, 3 April 2022"
         credit: "https://commons.wikimedia.org/wiki/File:Executed_people_in_basement_in_Bucha.jpg"
+  - id: "stara-krasnianka-care-house-attack"
+    date: "11.03.2022"
+    links:
+      en:
+        title: "Stara Krasnianka care house attack"
+        url: "https://en.wikipedia.org/wiki/Stara_Krasnianka_care_house_attack"
+      ua:
+        title: "Обстріл будинку літніх людей у Кремінній 11 березня 2022"
+        url: "https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%D1%81%D1%82%D1%80%D1%96%D0%BB_%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BA%D1%83_%D0%BB%D1%96%D1%82%D0%BD%D1%96%D1%85_%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9_%D1%83_%D0%9A%D1%80%D0%B5%D0%BC%D1%96%D0%BD%D0%BD%D1%96%D0%B9_11_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F_2022"
+      pt:
+        title: "Ataque à casa de acolhimento de Stara Krasnianka"
+        url: "https://en.wikipedia.org/wiki/Stara_Krasnianka_care_house_attack"
   - id: "16-march-2022-chernihiv-breadline-attack"
     date: "16.03.2022"
     links:
@@ -474,6 +511,21 @@ entries:
       - file: "03.jpg"
         caption: "The theatre in May 2021, ten months before the airstrike"
         credit: "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80.jpg"
+  - id: "mykolaiv-government-building-missile-strike"
+    date: "29.03.2022"
+    links:
+      en:
+        title: "Mykolaiv government building missile strike"
+        url: "https://en.wikipedia.org/wiki/Mykolaiv_government_building_missile_strike"
+      ua:
+        title: "Ракетний удар по будівлі Миколаївської ОДА 29 березня 2022"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE_%D0%B1%D1%83%D0%B4%D1%96%D0%B2%D0%BB%D1%96_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%9E%D0%94%D0%90_29_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F_2022"
+      pt:
+        title: "Ataque aéreo ao prédio do governo de Micolaíve"
+        url: "https://pt.wikipedia.org/wiki/Ataque_a%C3%A9reo_ao_pr%C3%A9dio_do_governo_de_Micola%C3%ADve"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Mykolaiv_Regional_State_Administration_after_Russian_shelling,_29.03.2022_(01).jpg"
   - id: "kramatorsk-railway-station-attack"
     date: "08.04.2022"
     links:
@@ -495,6 +547,21 @@ entries:
       - file: "03.jpg"
         caption: "Debris from one of the missiles, with the railway station visible in the background. The top half of the inscription ЗА ДЕТЕЙ (\"[in revenge] for the children\") is visible."
         credit: "https://commons.wikimedia.org/wiki/File:Kramatorsk_railway_bombing_2022_April_8_(9).jpg"
+  - id: "bilohorivka-school-bombing"
+    date: "07.05.2022"
+    links:
+      en:
+        title: "Bilohorivka school bombing"
+        url: "https://en.wikipedia.org/wiki/Bilohorivka_school_bombing"
+      ua:
+        title: "Авіаудар по школі в Білогорівці 7 травня 2022"
+        url: "https://uk.wikipedia.org/wiki/%D0%90%D0%B2%D1%96%D0%B0%D1%83%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE_%D1%88%D0%BA%D0%BE%D0%BB%D1%96_%D0%B2_%D0%91%D1%96%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%96%D0%B2%D1%86%D1%96_7_%D1%82%D1%80%D0%B0%D0%B2%D0%BD%D1%8F_2022"
+      pt:
+        title: "Bombardeio da escola de Bilohorivka"
+        url: "https://pt.wikipedia.org/wiki/Bombardeio_da_escola_de_Bilohorivka"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:School_in_Bilohorivka_after_Russian_shelling,_2022-05-08_(01)_cropped.jpg"
   - id: "kremenchuk-shopping-mall-attack"
     date: "27.06.2022"
     links:
@@ -544,7 +611,7 @@ entries:
         title: "Ракетний удар по Часовому Яру 9 липня 2022"
         url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE_%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%BC%D1%83_%D0%AF%D1%80%D1%83_9_%D0%BB%D0%B8%D0%BF%D0%BD%D1%8F_2022"
       pt:
-        title: "Ataque de míssil a Chasiv Yar em julho de 2022"
+        title: "Ataque com mísseis a Chasiv Yar em julho de 2022"
         url: "https://en.wikipedia.org/wiki/July_2022_Chasiv_Yar_missile_strike"
     images:
       - file: "01.jpg"
@@ -605,6 +672,45 @@ entries:
       pt:
         title: "Massacre da prisão de Olenivka"
         url: "https://pt.wikipedia.org/wiki/Massacre_da_pris%C3%A3o_de_Olenivka"
+  - id: "kharkiv-dormitories-missile-strike"
+    date: "17.08.2022"
+    links:
+      en:
+        title: "Kharkiv dormitories missile strike"
+        url: "https://en.wikipedia.org/wiki/Kharkiv_dormitories_missile_strike"
+      ua:
+        title: "Ракетний удар по гуртожитках у Харкові 17 серпня 2022"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE_%D0%B3%D1%83%D1%80%D1%82%D0%BE%D0%B6%D0%B8%D1%82%D0%BA%D0%B0%D1%85_%D1%83_%D0%A5%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D1%96_17_%D1%81%D0%B5%D1%80%D0%BF%D0%BD%D1%8F_2022"
+      pt:
+        title: "Ataque aéreo a Carquive de agosto de 2022"
+        url: "https://pt.wikipedia.org/wiki/Ataque_a%C3%A9reo_a_Carquive_de_agosto_de_2022"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Kharkiv_after_Russian_shelling,_2022-08-17_(50).jpg"
+      - file: "02.jpg"
+        caption: "Dormitory in Saltivskyi district in the day of the strike"
+        credit: "https://commons.wikimedia.org/wiki/File:Kharkiv_after_Russian_shelling,_2022-08-17_(11).jpg"
+      - file: "03.jpg"
+        caption: "Dormitory in Slobidskyi district after the strike"
+        credit: "https://commons.wikimedia.org/wiki/File:Rocket_strike_on_a_tram_depot_and_dormitory_in_Slobidskyi_District,_18_August_2022_(30).jpg"
+  - id: "chaplyne-railway-station-attack"
+    date: "24.08.2022"
+    links:
+      en:
+        title: "Chaplyne railway station attack"
+        url: "https://en.wikipedia.org/wiki/Chaplyne_railway_station_attack"
+      ua:
+        title: "Ракетний удар по залізничній станції Чаплине"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%BB%D1%96%D0%B7%D0%BD%D0%B8%D1%87%D0%BD%D1%96%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%97_%D0%A7%D0%B0%D0%BF%D0%BB%D0%B8%D0%BD%D0%B5"
+      pt:
+        title: "Ataque à estação ferroviária de Chaplyne"
+        url: "https://pt.wikipedia.org/wiki/Ataque_%C3%A0_esta%C3%A7%C3%A3o_ferrovi%C3%A1ria_de_Chaplyne"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%B1%D1%81%D1%82%D1%80%D1%96%D0%BB_%D0%A7%D0%B0%D0%BF%D0%BB%D0%B8%D0%BD%D0%B5.jpg"
+      - file: "02.jpg"
+        caption: "Bomb crater in Chaplyne"
+        credit: "https://commons.wikimedia.org/wiki/File:Rocket_strike_on_Chaplyne,_24_August_2022_(01).jpg"
   - id: "izium-mass-graves"
     date: "15.09.2022"
     links:
@@ -666,7 +772,7 @@ entries:
         title: "Ракетний удар по Запоріжжю 9 жовтня 2022"
         url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE_%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B6%D0%B6%D1%8E_9_%D0%B6%D0%BE%D0%B2%D1%82%D0%BD%D1%8F_2022"
       pt:
-        title: "Ataque aéreo a edifício residencial de Zaporizhzhia em 2022"
+        title: "Ataque aéreo a edifício residencial em Zaporizhzhia em 2022"
         url: "https://en.wikipedia.org/wiki/2022_Zaporizhzhia_residential_building_airstrike"
     images:
       - file: "01.jpg"
@@ -717,7 +823,7 @@ entries:
         title: "Ракетний удар по Умані 28 квітня 2023"
         url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE_%D0%A3%D0%BC%D0%B0%D0%BD%D1%96_28_%D0%BA%D0%B2%D1%96%D1%82%D0%BD%D1%8F_2023"
       pt:
-        title: "Ataque de míssil a Uman em 2023"
+        title: "Ataque com mísseis a Uman em 2023"
         url: "https://en.wikipedia.org/wiki/2023_Uman_missile_strike"
     images:
       - file: "01.jpg"
@@ -744,10 +850,10 @@ entries:
       - file: "01.jpg"
         credit: "https://commons.wikimedia.org/wiki/File:Flooding_in_Kherson_after_the_destruction_of_the_Kakhovka_Dam_2023.jpg"
       - file: "03.jpg"
-        caption: "Flood in Kherson Oblast on 10 June 2023"
+        caption: "Flood in Kherson Oblast on 10 June 2023"
         credit: "https://commons.wikimedia.org/wiki/File:Flood_in_Kherson_Oblast,_2023-06-10.jpg"
       - file: "04.jpg"
-        caption: "Kherson flooded on 7 June 2023"
+        caption: "Kherson flooded on 7 June 2023"
         credit: "https://commons.wikimedia.org/wiki/File:Flooded_Kherson,_2023-06-07_(22).jpg"
   - id: "2023-kramatorsk-restaurant-missile-strike"
     date: "27.06.2023"
@@ -788,7 +894,7 @@ entries:
         title: "Бомбардування Лимана"
         url: "https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%9B%D0%B8%D0%BC%D0%B0%D0%BD%D0%B0"
       pt:
-        title: "Bombardeio de Lyman com bombas de fragmentação"
+        title: "Bombardeio com bombas de fragmentação em Lyman"
         url: "https://en.wikipedia.org/wiki/Lyman_cluster_bombing"
     images:
       - file: "01.jpg"
@@ -803,7 +909,7 @@ entries:
         title: "Ракетний удар по Покровську 7 серпня 2023"
         url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE_%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D1%83_7_%D1%81%D0%B5%D1%80%D0%BF%D0%BD%D1%8F_2023"
       pt:
-        title: "Ataque de míssil a Pokrovsk em 2023"
+        title: "Ataque com mísseis a Pokrovsk em 2023"
         url: "https://en.wikipedia.org/wiki/2023_Pokrovsk_missile_strike"
     images:
       - file: "01.jpg"
@@ -824,7 +930,7 @@ entries:
         title: "Ракетний удар по Чернігову 19 серпня 2023"
         url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE_%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B3%D0%BE%D0%B2%D1%83_19_%D1%81%D0%B5%D1%80%D0%BF%D0%BD%D1%8F_2023"
       pt:
-        title: "Ataque de míssil a Chernihiv em agosto de 2023"
+        title: "Ataque com mísseis a Chernihiv em agosto de 2023"
         url: "https://en.wikipedia.org/wiki/August_2023_Chernihiv_missile_strike"
     images:
       - file: "01.jpg"
@@ -852,6 +958,18 @@ entries:
     images:
       - file: "01.jpg"
         credit: "https://commons.wikimedia.org/wiki/File:Hroza_after_missile_strike,_2023-10-05_(52).jpg"
+  - id: "volnovakha-massacre"
+    date: "27.10.2023"
+    links:
+      en:
+        title: "Volnovakha massacre"
+        url: "https://en.wikipedia.org/wiki/Volnovakha_massacre"
+      ua:
+        title: "Волноваська різанина"
+        url: "https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_%D1%80%D1%96%D0%B7%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0"
+      pt:
+        title: "Massacre de Volnovakha"
+        url: "https://en.wikipedia.org/wiki/Volnovakha_massacre"
   - id: "2024-pokrovsk-missile-strike"
     date: "06.01.2024"
     links:
@@ -862,7 +980,7 @@ entries:
         title: "Обстріл Покровська 6 січня 2024"
         url: "https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%D1%81%D1%82%D1%80%D1%96%D0%BB_%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_6_%D1%81%D1%96%D1%87%D0%BD%D1%8F_2024"
       pt:
-        title: "Ataque de míssil a Pokrovsk em 2024"
+        title: "Ataque com mísseis a Pokrovsk em 2024"
         url: "https://en.wikipedia.org/wiki/2024_Pokrovsk_missile_strike"
     images:
       - file: "01.jpg"
@@ -883,7 +1001,7 @@ entries:
         title: "Ракетні удари по Одесі 15 березня 2024"
         url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%96_%D1%83%D0%B4%D0%B0%D1%80%D0%B8_%D0%BF%D0%BE_%D0%9E%D0%B4%D0%B5%D1%81%D1%96_15_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F_2024"
       pt:
-        title: "Ataques de mísseis a Odessa em 15 de março de 2024"
+        title: "Ataques com mísseis a Odesa em 15 de março de 2024"
         url: "https://en.wikipedia.org/wiki/15_March_2024_Odesa_missile_strikes"
     images:
       - file: "01.jpg"
@@ -1001,3 +1119,18 @@ entries:
     images:
       - file: "01.jpg"
         credit: "https://commons.wikimedia.org/wiki/File:Destructions_in_Yarova_after_Russian_attack,_2025-09-09_(80).jpg"
+  - id: "2025-ternopil-strike"
+    date: "19.11.2025"
+    links:
+      en:
+        title: "2025 Ternopil strike"
+        url: "https://en.wikipedia.org/wiki/2025_Ternopil_strike"
+      ua:
+        title: "Масований обстріл України 19 листопада 2025"
+        url: "https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D1%81%D1%82%D1%80%D1%96%D0%BB_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_19_%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0_2025"
+      pt:
+        title: "Ataque a Ternopil em 2025"
+        url: "https://en.wikipedia.org/wiki/2025_Ternopil_strike"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Destructions_in_Ternopil_after_Russian_attack,_2025-11-19_(10).webp"
