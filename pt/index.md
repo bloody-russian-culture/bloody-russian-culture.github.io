@@ -38,29 +38,28 @@ A oposição russa moderna critica o regime de Putin, mas não as políticas imp
   A sua viúva, a “nova face da oposição russa”, Yulia Navalnaya apoia o
   [Colonialismo russo](/pt/navalny/#yulia-navalnaya-promete-perseguir-os-opositores-do-colonialismo-russo).
 
-- [Filmes](/pt/movie_plagiarisms/),
-- [animações](/pt/animation_plagiarisms/),
-- [literatura](/pt/literature_plagiarisms/),
-- [carros](/pt/cars_plagiarisms/),
-- [motos](/pt/motorcycles_plagiarisms/),
-- [trens](/pt/trains_plagiarisms/),
-- [aviões](/pt/planes_plagiarisms/),
-- [armas e equipamentos militares](/pt/guns_plagiarisms/),
-- [cartazes de guerra](/pt/other_plagiarisms/#posters),
-- [eletrônicos e eletrodomésticos](/pt/other_plagiarisms/#tech),
-- [brinquedos](/pt/other_plagiarisms/#toys)
-
+[Filmes](/pt/movie_plagiarisms/),
+[animações](/pt/animation_plagiarisms/),
+[literatura](/pt/literature_plagiarisms/),
+[carros](/pt/cars_plagiarisms/),
+[motos](/pt/motorcycles_plagiarisms/),
+[trens](/pt/trains_plagiarisms/),
+[aviões](/pt/planes_plagiarisms/),
+[armas e equipamentos militares](/pt/guns_plagiarisms/),
+[cartazes de guerra](/pt/other_plagiarisms/#posters),
+[eletrônicos e eletrodomésticos](/pt/other_plagiarisms/#tech),
+[brinquedos](/pt/other_plagiarisms/#toys)
 russos plagiam obras e invenções estrangeiras, refletindo um império carente de criatividade.
 
 Os crimes atrozes do [__Império Russo__](/pt/empire_crimes/) e da [__União Soviética__](/pt/soviet_crimes/),
 incluindo:
-- [pogroms](/pt/empire_crimes/#kishinev-pogrom),
 - [genocídios](/pt/empire_crimes/#circassian-genocide),
-- [fomes](/pt/soviet_crimes/#holodomor),
-- [deportações](/pt/soviet_crimes/#deportation-of-the-crimean-tatars),
+- [pogroms](/pt/empire_crimes/#kishinev-pogrom),
 - [execuções em massa](/pt/soviet_crimes/#great-purge),
+- [fomes](/pt/soviet_crimes/#holodomor),
+- [deportações](/pt/soviet_crimes/#deportation-of-the-crimean-tatars)
 
-permanecem sem reflexão e sem condenação na cultura russa, levando a crimes na [__Federação Russa__](/pt/federation_crimes/) contemporânea, tais como:
+permanecem sem reflexão e sem condenação na cultura russa, levando a crimes na [__Federação Russa__](/pt/federation_crimes/) contemporânea, tais como
 
 - [cidades arrasadas](/pt/federation_crimes/#battle-of-grozny-1999-2000),
 - [hospitais bombardeados](/pt/federation_crimes/#8-july-2024-russian-strikes-on-ukraine),

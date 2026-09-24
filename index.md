@@ -41,27 +41,26 @@ The modern Russian opposition is criticizing Putin's regime, but not the __impre
   [Russian colonialism](/navalny/#yulia-navalnaya-promises-to-pursue-the-opponents-of-russian-colonialism).
 
 Russian
-- [movies](/movie_plagiarisms/),
-- [animation](/animation_plagiarisms/),
-- [literature](/literature_plagiarisms/),
-- [cars](/cars_plagiarisms/),
-- [motorcycles](/motorcycles_plagiarisms/),
-- [trains](/trains_plagiarisms/),
-- [planes](/planes_plagiarisms/),
-- [guns and military equipment](/guns_plagiarisms/),
-- [war posters](/other_plagiarisms/#posters),
-- [electronics and household appliances](/other_plagiarisms/#tech),
-- [toys](/other_plagiarisms/#toys)
-
+[movies](/movie_plagiarisms/),
+[animation](/animation_plagiarisms/),
+[literature](/literature_plagiarisms/),
+[cars](/cars_plagiarisms/),
+[motorcycles](/motorcycles_plagiarisms/),
+[trains](/trains_plagiarisms/),
+[planes](/planes_plagiarisms/),
+[guns and military equipment](/guns_plagiarisms/),
+[war posters](/other_plagiarisms/#posters),
+[electronics and household appliances](/other_plagiarisms/#tech),
+[toys](/other_plagiarisms/#toys)
 plagiarize foreign works and inventions, reflecting an empire lacking creativity.
 
 The <span class="bloody">__atrocious__</span> crimes of the [__Russian Empire__](/empire_crimes/), and the [__Soviet Union__](/soviet_crimes/),
 including
-- [pogroms](/empire_crimes/#kishinev-pogrom),
 - [genocides](/empire_crimes/#circassian-genocide),
+- [pogroms](/empire_crimes/#kishinev-pogrom),
+- [mass executions](/soviet_crimes/#great-purge),
 - [famines](/soviet_crimes/#holodomor),
-- [deportations](/soviet_crimes/#deportation-of-the-crimean-tatars),
-- [mass executions](/soviet_crimes/#great-purge)
+- [deportations](/soviet_crimes/#deportation-of-the-crimean-tatars)
 
 remain unreflexed and uncondemned in Russian culture, leading to modern day [__Russian Federation__](/federation_crimes/) crimes, such as
 

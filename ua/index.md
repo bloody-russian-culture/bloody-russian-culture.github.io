@@ -42,26 +42,25 @@ related: false
   [російський колоніалізм](/ua/navalny#юлія-навальна-обіцяє-переслідувати-противників-російського-колоніалізму).
 
 Російські
-- [фільми](/ua/movie_plagiarisms/),
-- [анімація](/ua/animation_plagiarisms/),
-- [література](/ua/literature_plagiarisms/),
-- [автомобілі](/ua/cars_plagiarisms/),
-- [мотоцикли](/ua/motorcycles_plagiarisms/),
-- [поїзди](/ua/trains_plagiarisms/),
-- [літаки](/ua/planes_plagiarisms/),
-- [зброя та військова техніка](/ua/guns_plagiarisms/),
-- [воєнні плакати](/ua/other_plagiarisms/#posters),
-- [електроніка та побутова техніка](/ua/other_plagiarisms/#tech),
-- [іграшки](/ua/other_plagiarisms/#toys)
-
+[фільми](/ua/movie_plagiarisms/),
+[анімація](/ua/animation_plagiarisms/),
+[література](/ua/literature_plagiarisms/),
+[автомобілі](/ua/cars_plagiarisms/),
+[мотоцикли](/ua/motorcycles_plagiarisms/),
+[поїзди](/ua/trains_plagiarisms/),
+[літаки](/ua/planes_plagiarisms/),
+[зброя та військова техніка](/ua/guns_plagiarisms/),
+[воєнні плакати](/ua/other_plagiarisms/#posters),
+[електроніка та побутова техніка](/ua/other_plagiarisms/#tech),
+[іграшки](/ua/other_plagiarisms/#toys)
 плагіаризують іноземні твори та винаходи, що відображає імперію, якій бракує творчості.
 
 <span class="bloody">__Звірські__</span> злочини [__Російської Імперії__](/ua/empire_crimes/) та [__Радянського Союзу__](/ua/soviet_crimes/), включно з
-- [погромами](/ua/empire_crimes/#kishinev-pogrom),
 - [геноцидами](/ua/empire_crimes/#circassian-genocide),
+- [погромами](/ua/empire_crimes/#kishinev-pogrom),
+- [масовими стратами](/ua/soviet_crimes/#great-purge),
 - [голодами](/ua/soviet_crimes/#holodomor),
-- [депортаціями](/ua/soviet_crimes/#deportation-of-the-crimean-tatars),
-- [масовими стратами](/ua/soviet_crimes/#great-purge)
+- [депортаціями](/ua/soviet_crimes/#deportation-of-the-crimean-tatars)
 
 залишаються невідрефлексованими і незасудженими російською культурою, що призводить до злочинів сучасної [__Російської Федерації__](/ua/federation_crimes/), таких як
 
