@@ -6,6 +6,12 @@ layout: single
 
 {{ content }}
 
+{% assign locale = page.locale %}
+{% unless locale %}{% assign locale = "en" %}{% endunless %}
+{{ site.data[locale].main.donate }}
+
+<br/><br/><br/>
+
 <div class="slideshow-wrapper">
     {% assign folderNames = "russian_culture,blood" | split: "," %}
     {% for folderName in folderNames %}
@@ -33,7 +39,3 @@ layout: single
 </div>
 
 <script src="/assets/javascript/main.js"></script>
-
-{% assign locale = page.locale %}
-{% unless locale %}{% assign locale = "en" %}{% endunless %}
-{{ site.data[locale].main.donate }}
