@@ -21,8 +21,7 @@ layout: main
         {% if case.year %}
             {% assign case_name_year = case_name_year | append: " (" | append: case.year | append: ")" %}
         {% endif %}
-        {% assign slug = case_name_year | downcase | replace: ' ', '-' | replace: '.', '' | replace: ',', '' | replace: "'", '' | replace: '!', '' | replace: '(', '' | replace: ')', '' | replace: '«', '' | replace: '»', '' | replace: '/', '' %}
-        <li><a href="#{{ slug }}">{{ case_name_year }}</a></li>
+        <li><a href="#{{ case.code }}">{{ case_name_year }}</a></li>
     {% endfor %}
 </ul>
 
@@ -34,9 +33,9 @@ layout: main
         {% assign case_name_year = case_name_year | append: " (" | append: case.year | append: ")" %}
     {% endif %}
     {% if case.link %}
-        {% capture case_title %}## [{{ case_name_year }}]({{ case.link }}){% endcapture %}
+        {% capture case_title %}## [{{ case_name_year }}]({{ case.link }}) {#{{ case.code }}}{% endcapture %}
     {% else %}
-        {% capture case_title %}## {{ case_name_year }}{% endcapture %}
+        {% capture case_title %}## {{ case_name_year }} {#{{ case.code }}}{% endcapture %}
     {% endif %}
     {{ case_title | markdownify }}
     {% for origin in case.origins %}

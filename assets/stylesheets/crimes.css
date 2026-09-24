@@ -1,0 +1,138 @@
+.crimes__toc {
+    columns: 2;
+    column-gap: 2em;
+}
+
+.crimes__toc li {
+    break-inside: avoid;
+}
+
+.crime {
+    border-top: 1px solid #e6e6e6;
+    padding-top: 0.5em;
+    margin-top: 2em;
+}
+
+.crime h2 {
+    margin-bottom: 0.2em;
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+.crime__date {
+    color: #7a7a7a;
+    font-size: 0.75em;
+    font-weight: normal;
+    white-space: nowrap;
+}
+
+.crime h2 .crime__date {
+    margin-left: 0.5em;
+}
+
+.crime__summary {
+    margin-top: 0;
+}
+
+.carousel {
+    --media-height: min(60vh, 460px);
+    position: relative;
+}
+
+.carousel__track {
+    display: flex;
+    align-items: flex-start;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    gap: 1em;
+    scrollbar-width: none;
+}
+
+.carousel__track::-webkit-scrollbar {
+    display: none;
+}
+
+.carousel__slide {
+    flex: 0 0 100%;
+    scroll-snap-align: center;
+    margin: 0;
+}
+
+.carousel__slide img {
+    display: block;
+    width: 100%;
+    height: var(--media-height);
+    object-fit: contain;
+    background: #f2f2f2;
+}
+
+.carousel__slide figcaption {
+    font-size: 0.75em;
+    color: #5a5a5a;
+    padding: 0.4em 0.2em;
+    min-height: 3em;
+}
+
+.carousel__nav {
+    position: absolute;
+    top: calc(var(--media-height) / 2);
+    transform: translateY(-50%);
+    border: 0;
+    border-radius: 50%;
+    width: 2em;
+    height: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 0 0.15em;
+    font-size: 1.5em;
+    line-height: 1;
+    cursor: pointer;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.45);
+}
+
+.carousel__nav:hover {
+    background: #780607;
+}
+
+.carousel__nav[disabled] {
+    opacity: 0.25;
+    cursor: default;
+}
+
+.carousel__nav--prev {
+    left: 0.25em;
+}
+
+.carousel__nav--next {
+    right: 0.25em;
+}
+
+.carousel__count {
+    position: absolute;
+    top: 0.5em;
+    right: 0.5em;
+    margin: 0;
+    padding: 0.1em 0.5em;
+    border-radius: 1em;
+    font-size: 0.7em;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.45);
+}
+
+.crimes__sources summary {
+    cursor: pointer;
+    margin-bottom: 0.75em;
+}
+
+.crimes__sources ul {
+    font-size: 0.8em;
+}
+
+@media (max-width: 600px) {
+    .crimes__toc {
+        columns: 1;
+    }
+}

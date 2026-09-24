@@ -5,10 +5,6 @@ locale: pt
 related: false
 ---
 
-Já ouviu falar da "Grande" cultura russa?
-Já se perguntou o que o torna tão bom?
-A resposta é __Imperialismo__.
-
 A cultura russa é __imperialista__, __elitista__ e __chauvinista__.
 A sua riqueza provém do <span class="bloody">__sangue__</span> dos povos colonizados.
 
@@ -28,10 +24,12 @@ A sua riqueza provém do <span class="bloody">__sangue__</span> dos povos coloni
   os [austríacos](/pt/dostoevsky/#chamados-de-escumalha-polaca-e-austríaca-alegou-que-eram-indignos-da-simpatia-russa)
   e os [sérvios](/pt/dostoevsky/#alegou-que-os-russos-eram-superiores-e-que-as-nações-colonizadas-eram-inferiores-e-prejudiciais).
 
-- O "crítico visionário da sociedade soviética", [__Bulgákov__](/pt/bulgakov/), nasceu e viveu em Kiev, mas troçava dos
+- O "crítico visionário da sociedade soviética", [__Bulgákov__](/pt/bulgakov/), nasceu e viveu em Kyiv, mas troçava dos
   [kyivianos](/pt/bulgakov/#considerou-kyiv-inferior-a-moscovo),
   da [língua ucraniana](/pt/bulgakov/#gozou-com-a-língua-ucraniana-considerando-a-inferior)
   e dos [falantes de ucraniano](/pt/bulgakov/#gozou-com-as-pessoas-que-passaram-a-falar-a-língua-ucraniana-afirmando-implicitamente-que-a-língua-e-os-recursos-russos-são-mais-relevantes).
+
+A oposição russa moderna critica o regime de Putin, mas não as políticas imperialistas da federação.
 
 - O “líder da oposição russa”, [__Navalny__](/pt/navalny/), apoiou
   a [anexação da Crimeia](/pt/navalny/#apoiou-a-anexação-da-crimeia-pela-rússia)
@@ -48,8 +46,22 @@ A sua riqueza provém do <span class="bloody">__sangue__</span> dos povos coloni
 - [trens](/pt/trains_plagiarisms/),
 - [aviões](/pt/planes_plagiarisms/),
 - [armas e equipamentos militares](/pt/guns_plagiarisms/),
-- [cartazes de guerra](/pt/other_plagiarisms/#cartazes-de-guerra-da-urss),
-- [eletrônicos e eletrodomésticos](/pt/other_plagiarisms/#eletrónica-e-eletrodomésticos-da-urss),
-- [brinquedos](/pt/other_plagiarisms/#brinquedos-da-urss)
+- [cartazes de guerra](/pt/other_plagiarisms/#posters),
+- [eletrônicos e eletrodomésticos](/pt/other_plagiarisms/#tech),
+- [brinquedos](/pt/other_plagiarisms/#toys)
 
-russos plagiam obras e invenções estrangeiras, refletindo um império incapaz de verdadeira criatividade.
+russos plagiam obras e invenções estrangeiras, refletindo um império carente de criatividade.
+
+Os crimes atrozes do [__Império Russo__](/pt/empire_crimes/) e da [__União Soviética__](/pt/soviet_crimes/),
+incluindo:
+- [pogroms](/pt/empire_crimes/#kishinev-pogrom),
+- [genocídios](/pt/empire_crimes/#circassian-genocide),
+- [fomes](/pt/soviet_crimes/#holodomor),
+- [deportações](/pt/soviet_crimes/#deportation-of-the-crimean-tatars),
+- [execuções em massa](/pt/soviet_crimes/#great-purge),
+
+permanecem sem reflexão e sem condenação na cultura russa, levando a crimes na [__Federação Russa__](/pt/federation_crimes/) contemporânea, tais como:
+
+- [cidades arrasadas](/pt/federation_crimes/#battle-of-grozny-1999-2000),
+- [hospitais bombardeados](/pt/federation_crimes/#8-july-2024-russian-strikes-on-ukraine),
+- [civis assassinados](/pt/federation_crimes/#bucha-massacre).

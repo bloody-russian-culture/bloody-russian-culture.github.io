@@ -4,10 +4,6 @@ title: Bloody Russian Culture
 related: false
 ---
 
-Ever heard of the "Great" Russian culture?
-Ever wondered what makes it so great?
-The answer is __Imperialism__.
-
 Russian culture is __imperialist__, __elitist__ and __chauvinistic__.
 It's richness comes from the <span class="bloody">__blood__</span> of the colonized people.
 
@@ -22,25 +18,27 @@ It's richness comes from the <span class="bloody">__blood__</span> of the coloni
   that accompanied these conquests.
 
 - The "empathetic examiner of the human soul", [__Dostoevsky__](/dostoevsky/), openly despised
-  [Ukrainians](/dostoevsky/#despised-ukrainians-being-liberal-and-respecting-womens-rights-claimed-russian-patriarchy-to-be-natural),
+  [Ukrainians](/dostoevsky/#despised-ukrainians-being-liberal-and-respecting-women-s-rights-claimed-russian-patriarchy-to-be-natural),
   [Jews](/dostoevsky/#used-antisemitic-slurs-despised-jews-for-not-being-christians),
   [Poles](/dostoevsky/#claimed-poles-to-be-hostile-and-ultra-nationalist),
-  [Austrians](/dostoevsky/#called-old-poles-and-austrians-scum-claimed-them-to-be-unworthy-of-russian-sympathy)
+  [Austrians](/dostoevsky/#called-poles-and-austrians-scum-claimed-them-to-be-unworthy-of-russian-sympathy)
   and
   [Serbs](/dostoevsky/#claimed-russians-to-be-superior-and-colonized-nations-to-be-inferior-and-harmful).
 
 - The "visionary critic of Soviet society", [__Bulgakov__](/bulgakov/), was born and lived in Kyiv, yet mocked
   [Kyivians](/bulgakov/#viewed-kyiv-as-inferior-to-moscow),
-  [Ukrainian language](/bulgakov/#mocked-ukrainian-language-and-didnt-take-it-seriously)
+  [Ukrainian language](/bulgakov/#mocked-ukrainian-language-and-didn-t-take-it-seriously)
   and
   [Ukrainian speakers](/bulgakov/#mocked-people-who-switched-to-ukrainian-implying-russian-language-and-resources-are-richer).
 
+The modern Russian opposition is criticizing Putin's regime, but not the __imprerialist__ politics of the federation.
+
 - The "Russian opposition leader", [__Navalny__](/navalny/), supported
   [Crimea annexation](/navalny/#supported-crimea-annexation-by-russia)
-  and despised [Crimean Tatars](/navalny/#referred-to-indigenous-crimean-tatars-as-agitating-interested-parties).
+  and despised [Crimean Tatars](/navalny/#referred-to-indigenous-crimean-tatars-as-agitating-interested-party).
 
   His widow, the "New face of Russian opposition", __Yulia Navalnaya__ supports
-  [Russian colonialism](/navalny/#yulia-navalnaya-wishes-to-punish-the-opponents-of-russian-colonialism).
+  [Russian colonialism](/navalny/#yulia-navalnaya-promises-to-pursue-the-opponents-of-russian-colonialism).
 
 Russian
 - [movies](/movie_plagiarisms/),
@@ -51,8 +49,22 @@ Russian
 - [trains](/trains_plagiarisms/),
 - [planes](/planes_plagiarisms/),
 - [guns and military equipment](/guns_plagiarisms/),
-- [war posters](/other_plagiarisms/#ussr-war-posters),
-- [electronics and household appliances](/other_plagiarisms/#ussr-electronics-and-household-appliances),
-- [toys](/other_plagiarisms/#ussr-toys)
+- [war posters](/other_plagiarisms/#posters),
+- [electronics and household appliances](/other_plagiarisms/#tech),
+- [toys](/other_plagiarisms/#toys)
 
-plagiarize foreign works and inventions, reflecting an empire incapable of true creativity.
+plagiarize foreign works and inventions, reflecting an empire lacking creativity.
+
+The <span class="bloody">__atrocious__</span> crimes of the [__Russian Empire__](/empire_crimes/), and the [__Soviet Union__](/soviet_crimes/),
+including
+- [pogroms](/empire_crimes/#kishinev-pogrom),
+- [genocides](/empire_crimes/#circassian-genocide),
+- [famines](/soviet_crimes/#holodomor),
+- [deportations](/soviet_crimes/#deportation-of-the-crimean-tatars),
+- [mass executions](/soviet_crimes/#great-purge)
+
+remain unreflexed and uncondemned in Russian culture, leading to modern day [__Russian Federation__](/federation_crimes/) crimes, such as
+
+- [razed cities](/federation_crimes/#battle-of-grozny-1999-2000),
+- [bombed hospitals](/federation_crimes/#8-july-2024-russian-strikes-on-ukraine),
+- [murdered civilians](/federation_crimes/#bucha-massacre).

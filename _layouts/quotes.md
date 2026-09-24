@@ -16,17 +16,16 @@ layout: main
 <ul>
     {%- for category in data.categories -%}
         {% for quote in category.quotes %}
-            {% assign slug = quote.summary | downcase | replace: ' ', '-' | replace: '.', '' | replace: ',', '' | replace: "'", '' | replace: '!', '' | replace: '«', '' | replace: '»', '' | replace: '/', '' %}
-            <li><a href="#{{ slug }}">{{ quote.summary }}</a></li>
+            <li><a href="#{{ quote.summary | slugify }}">{{ quote.summary }}</a></li>
         {% endfor %}
     {%- endfor -%}
 </ul>
 
 {% for category in data.categories %}
-    {% capture category_name %}## {{ category.name }}{% endcapture %}
+    {% capture category_name %}## {{ category.name }} {#{{ category.name | slugify }}}{% endcapture %}
     {{ category_name | markdownify }}
     {% for quote in category.quotes %}
-        {% capture quote_summary %}- ##### {{ quote.summary }}{% endcapture %}
+        {% capture quote_summary %}- ##### {{ quote.summary }} {#{{ quote.summary | slugify }}}{% endcapture %}
         {{ quote_summary | markdownify }}
         <blockquote>
             {{ quote.excerpt }}

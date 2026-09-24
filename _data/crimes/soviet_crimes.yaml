@@ -1,0 +1,1111 @@
+entries:
+  - id: "opposition-to-the-russian-orthodox-church-during-the-russian-civil-war"
+    date: "11.1917"
+    links:
+      en:
+        title: "Opposition to the Russian Orthodox Church during the Russian Civil War"
+        url: "https://en.wikipedia.org/wiki/USSR_anti-religious_campaign_(1917%E2%80%931921)"
+      ua:
+        title: "Опозиція Російській православній церкві під час Громадянської війни в Росії"
+        url: "https://en.wikipedia.org/wiki/USSR_anti-religious_campaign_(1917%E2%80%931921)"
+      pt:
+        title: "Oposição à Igreja Ortodoxa Russa durante a Guerra Civil Russa"
+        url: "https://en.wikipedia.org/wiki/USSR_anti-religious_campaign_(1917%E2%80%931921)"
+  - id: "makhnovshchina"
+    date: "1918"
+    links:
+      en:
+        title: "Makhnovshchina"
+        url: "https://en.wikipedia.org/wiki/Makhno_movement"
+      ua:
+        title: "Вільна територія"
+        url: "https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D0%B0_%D1%82%D0%B5%D1%80%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%8F"
+      pt:
+        title: "Makhnovtchina"
+        url: "https://pt.wikipedia.org/wiki/Makhnovtchina"
+    images:
+      - file: "02.jpg"
+        caption: "The burial of insurgents killed in battle with the Austro-Hungarian Army."
+        credit: "https://commons.wikimedia.org/wiki/File:1918._%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%82%D1%80%D1%8F%D0%B4._%D0%A2._%D0%92%D0%B4%D0%BE%D0%B2%D0%B8%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%82_%D0%BF%D0%BE%D0%B2%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B5%D0%B2,_%D1%83%D0%B1%D0%B8%D1%82%D1%8B%D1%85_%D0%B2_%D0%B1%D0%BE%D1%8F%D1%85_%D1%81_%D0%B0%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B9%D1%86%D0%B0%D0%BC%D0%B8.jpg"
+      - file: "09.jpg"
+        caption: "Makhno and his lieutenants, 1919"
+        credit: "https://commons.wikimedia.org/wiki/File:Makhno_group.jpg"
+  - id: "pogroms-during-the-russian-civil-war"
+    date: "1918"
+    links:
+      en:
+        title: "Pogroms during the Russian Civil War"
+        url: "https://en.wikipedia.org/wiki/Pogroms_during_the_Russian_Civil_War"
+      ua:
+        title: "Погроми під час Громадянської війни в Росії"
+        url: "https://en.wikipedia.org/wiki/Pogroms_during_the_Russian_Civil_War"
+      pt:
+        title: "Pogroms da Guerra Civil Russa"
+        url: "https://pt.wikipedia.org/wiki/Pogroms_da_Guerra_Civil_Russa"
+    images:
+      - file: "03.jpg"
+        caption: "Victims of a pogrom perpetrated by Ukrainian forces in Khodorkiv, 1919"
+        credit: "https://commons.wikimedia.org/wiki/File:Khodorkiv_Pogrom.jpg"
+      - file: "04.jpg"
+        caption: "Damaged Torah scrolls after pogrom in Kyiv, 1920"
+        credit: "https://commons.wikimedia.org/wiki/File:Pogrom,_damaged_Torah_scrolls.jpg"
+  - id: "basmachi-movement"
+    date: "02.1918"
+    links:
+      en:
+        title: "Basmachi movement"
+        url: "https://en.wikipedia.org/wiki/Basmachi_revolt"
+      ua:
+        title: "Басмацтво"
+        url: "https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D0%BC%D0%B0%D1%86%D1%82%D0%B2%D0%BE"
+      pt:
+        title: "Revolta Basmachi"
+        url: "https://pt.wikipedia.org/wiki/Revolta_Basmachi"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Fires_in_Bukhara_1920.jpg"
+      - file: "09.jpg"
+        caption: "Turkestan front, 1922"
+        credit: "https://commons.wikimedia.org/wiki/File:Turk_front1922.jpg"
+  - id: "red-terror"
+    date: "05.09.1918"
+    links:
+      en:
+        title: "Red Terror"
+        url: "https://en.wikipedia.org/wiki/Red_Terror"
+      ua:
+        title: "Червоний терор"
+        url: "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D1%80%D0%BE%D1%80"
+      pt:
+        title: "Terror Vermelho"
+        url: "https://pt.wikipedia.org/wiki/Terror_Vermelho"
+    images:
+      - file: "04.jpg"
+        caption: "Chinese Chekists executing an Orthodox priest in Moscow, White Russian anti-Bolshevik propaganda poster, c. 1920"
+        credit: "https://commons.wikimedia.org/wiki/File:Chinese_Cheka_spec._CHON_units_shooting_priest_1920_Moscow-_White_Guard_Propaganda_Poster.jpg"
+      - file: "07.jpg"
+        caption: "Murder of the Romanov family in 1918, Le Petit Journal"
+        credit: "https://commons.wikimedia.org/wiki/File:Le_Petit_Journal,_1926_cover.png"
+      - file: "08.jpg"
+        caption: "Vladimir Pchelin's 1927 depiction of Fanny Kaplan's assassination attempt on Vladimir Lenin"
+        credit: "https://commons.wikimedia.org/wiki/File:Lenin_attempt.jpg"
+      - file: "12.jpg"
+        caption: "Corpses of hostages executed by Cheka in 1918 in the basement of Tulpanov's house in Kherson, Ukrainian SSR, The Black Book of Communism"
+        credit: "https://commons.wikimedia.org/wiki/File:Red_terror_001.jpg"
+      - file: "13.jpg"
+        caption: "Naked corpses of people executed by Cheka in 1918 at a yard in Kharkiv, Ukrainian SSR, The Black Book of Communism"
+        credit: "https://commons.wikimedia.org/wiki/File:Red_terror_002.jpg"
+      - file: "15.jpg"
+        caption: "Corpses of victims of the 1919 Tartu Credit Center Massacre killed by the retreating Bolsheviks"
+        credit: "https://commons.wikimedia.org/wiki/File:Victims_of_Bolshevik_Cheka_in_Tartu,_Estonia,_1919.jpg"
+      - file: "16.jpg"
+        caption: "Corpses of victims of the Palermo Forest Massacre. The massacre was carried out by the Bolsheviks in late 1918 and early 1919 in the occupied Rakvere, Estonia."
+        credit: "https://commons.wikimedia.org/wiki/File:Victims_of_Bolshevik_Cheka_near_Rakvere,_Estonia,_1919.jpg"
+  - id: "executed-renaissance"
+    date: "1920"
+    links:
+      en:
+        title: "Executed Renaissance"
+        url: "https://en.wikipedia.org/wiki/Executed_Renaissance"
+      ua:
+        title: "Розстріляне відродження"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D1%81%D1%82%D1%80%D1%96%D0%BB%D1%8F%D0%BD%D0%B5_%D0%B2%D1%96%D0%B4%D1%80%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F"
+      pt:
+        title: "Renascença Executada"
+        url: "https://pt.wikipedia.org/wiki/Renascen%C3%A7a_Executada"
+    images:
+      - file: "01.jpg"
+        caption: "Members of the literary group Lanka in 1924. From left to right: Borys Antonenko-Davydovych, Hryhorii Kosynka, Maria Halych, Yevhen Pluzhnyk, Valerian Pidmohylny and Todos Osmachka. Kosynka, Pluzhnyk and Pidmohylny would all be executed under Stalin."
+        credit: "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%BD%D0%BA%D0%B01924.jpg"
+  - id: "tambov-rebellion"
+    date: "19.08.1920"
+    links:
+      en:
+        title: "Tambov Rebellion"
+        url: "https://en.wikipedia.org/wiki/Tambov_Rebellion"
+      ua:
+        title: "Тамбовське повстання"
+        url: "https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B5_%D0%BF%D0%BE%D0%B2%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%8F"
+      pt:
+        title: "Revolta de Tambov"
+        url: "https://pt.wikipedia.org/wiki/Revolta_de_Tambov"
+  - id: "russian-famine-of-1921-1922"
+    date: "1921"
+    links:
+      en:
+        title: "Russian famine of 1921–1922"
+        url: "https://en.wikipedia.org/wiki/Russian_famine_of_1921%E2%80%931922"
+      ua:
+        title: "Голод на Поволжі (1921—1922)"
+        url: "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B4_%D0%BD%D0%B0_%D0%9F%D0%BE%D0%B2%D0%BE%D0%BB%D0%B6%D1%96_(1921%E2%80%941922)"
+      pt:
+        title: "Fome russa de 1921"
+        url: "https://pt.wikipedia.org/wiki/Fome_russa_de_1921"
+    images:
+      - file: "02.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:1922SovietFaminevictim.jpg"
+      - file: "03.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:A_starving_child_during_the_Famine_of_1921-22_in_Ukraine.jpg"
+      - file: "04.jpg"
+        caption: "Cannibalism in Samara during the famine"
+        credit: "https://commons.wikimedia.org/wiki/File:Cannibalism_during_Russian_famine_1921.jpg"
+      - file: "05.jpg"
+        caption: "Six peasants of Buzuluk and the remains of humans they had eaten during the famine"
+        credit: "https://commons.wikimedia.org/wiki/File:Cannibalism_russian_famine1921_6_peasants_bouzuluk_district_and_remains_of_humans_they_eatten.jpg"
+      - file: "06.jpg"
+        caption: "Starving children in 1922"
+        credit: "https://commons.wikimedia.org/wiki/File:Children_during_famine_in_Russia.png"
+      - file: "07.jpg"
+        caption: "Nansen's photos on postcards were meant to raise awareness about the famine."
+        credit: "https://commons.wikimedia.org/wiki/File:Fridtjof_Nansen,_Les_deux_%C3%A9tapes_de_la_faim_(1922).jpg"
+      - file: "09.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:No-nb_bldsa_6a027.jpg"
+      - file: "10.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:No-nb_bldsa_6a043.jpg"
+      - file: "11.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:No-nb_bldsa_6a053.jpg"
+      - file: "12.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:No-nb_bldsa_6a057.jpg"
+      - file: "14.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Victims_of_the_1921_famine_in_Russia.jpg"
+  - id: "ussr-anti-religious-campaign-1921-1928"
+    date: "1921"
+    links:
+      en:
+        title: "USSR anti-religious campaign (1921–1928)"
+        url: "https://en.wikipedia.org/wiki/USSR_anti-religious_campaign_%281921%E2%80%931928%29"
+      ua:
+        title: "Антирелігійна кампанія в СРСР 1921–1928 років"
+        url: "https://en.wikipedia.org/wiki/USSR_anti-religious_campaign_%281921%E2%80%931928%29"
+      pt:
+        title: "Campanha antirreligiosa na URSS (1921–1928)"
+        url: "https://en.wikipedia.org/wiki/USSR_anti-religious_campaign_%281921%E2%80%931928%29"
+    images:
+      - file: "02.jpg"
+        caption: "Russian Orthodox metropolitan Benjamin (Kazansky) facing charges by revolutionary tribunal of Petrograd for counter-revolutionary agitation (details)"
+        credit: "https://commons.wikimedia.org/wiki/File:Proces_metropolity_weniamina.jpg"
+  - id: "soviet-invasion-of-georgia"
+    date: "11.02.1921"
+    links:
+      en:
+        title: "Soviet invasion of Georgia"
+        url: "https://en.wikipedia.org/wiki/Red_Army_invasion_of_Georgia"
+      ua:
+        title: "Радянсько-грузинська війна"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%BE-%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B2%D1%96%D0%B9%D0%BD%D0%B0"
+      pt:
+        title: "Invasão soviética da Geórgia"
+        url: "https://pt.wikipedia.org/wiki/Invas%C3%A3o_sovi%C3%A9tica_da_Ge%C3%B3rgia"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Red_Army_in_Tiflis_Feb_25_1921.jpg"
+  - id: "treaty-of-riga"
+    date: "18.03.1921"
+    links:
+      en:
+        title: "Treaty of Riga"
+        url: "https://en.wikipedia.org/wiki/Riga_Peace"
+      ua:
+        title: "Ризький мир (1921)"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80_(1921)"
+      pt:
+        title: "Paz de Riga"
+        url: "https://pt.wikipedia.org/wiki/Paz_de_Riga"
+  - id: "ussr-anti-religious-campaign-1928-1941"
+    date: "1928"
+    links:
+      en:
+        title: "USSR anti-religious campaign (1928–1941)"
+        url: "https://en.wikipedia.org/wiki/USSR_anti-religious_campaign_(1928%E2%80%931941)"
+      ua:
+        title: "Антирелігійна кампанія в СРСР 1928-1941 років"
+        url: "https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%80%D0%B5%D0%BB%D1%96%D0%B3%D1%96%D0%B9%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%8F_%D0%B2_%D0%A1%D0%A0%D0%A1%D0%A0_1928-1941_%D1%80%D0%BE%D0%BA%D1%96%D0%B2"
+      pt:
+        title: "Campanha antirreligiosa na URSS (1928–1941)"
+        url: "https://en.wikipedia.org/wiki/USSR_anti-religious_campaign_(1928%E2%80%931941)"
+    images:
+      - file: "01.jpg"
+        caption: "\"Monks are bloody enemies of the working people\" (banner on the Dormition Cathedral of the Kyiv Cave Monastery, 1930s)"
+        credit: "https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B5%D0%BD%D1%86%D1%96_-_%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D0%B2%D1%96_%D0%B2%D0%BE%D1%80%D0%BE%D0%B3%D0%B8_%D1%82%D1%80%D1%83%D0%B4%D1%8F%D1%89%D0%B8%D1%85.jpg"
+      - file: "05.jpg"
+        caption: "Children carrying an anti-religious slogan in Belarus, circa 1932"
+        credit: "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D1%82%D0%B8_%D1%87%D0%B8%D1%81%D1%82%D0%BE_%D1%81%D0%B5%D0%BA%D1%82%D0%B0%D0%BD%D1%82%D0%BE%D0%B2_%D0%B1%D0%B0%D0%BF%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2.png"
+  - id: "shakhty-trial"
+    date: "18.05.1928"
+    links:
+      en:
+        title: "Shakhty Trial"
+        url: "https://en.wikipedia.org/wiki/Shakhty_Trial"
+      ua:
+        title: "Шахтинська справа"
+        url: "https://uk.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B0"
+      pt:
+        title: "Processo de Shakhty"
+        url: "https://en.wikipedia.org/wiki/Shakhty_Trial"
+    images:
+      - file: "01.jpg"
+        caption: "Defendants during the Shakhty Trial"
+        credit: "https://commons.wikimedia.org/wiki/File:19280518-shakhty-trial-01.jpg"
+  - id: "genocide-of-the-ingrian-finns"
+    date: "1929"
+    links:
+      en:
+        title: "Genocide of the Ingrian Finns"
+        url: "https://en.wikipedia.org/wiki/Deportations_of_the_Ingrian_Finns"
+      ua:
+        title: "Геноцид фінів-інгерманландців"
+        url: "https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%BE%D1%86%D0%B8%D0%B4_%D1%84%D1%96%D0%BD%D1%96%D0%B2-%D1%96%D0%BD%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4%D1%86%D1%96%D0%B2"
+      pt:
+        title: "Genocídio dos finlandeses ingrianos"
+        url: "https://en.wikipedia.org/wiki/Deportations_of_the_Ingrian_Finns"
+    images:
+      - file: "02.jpg"
+        caption: "Flags of Ingria, Finland, and East-Karelia at half-mast as a protest against deportations at the Old Student House, Helsinki in 1934."
+        credit: "https://commons.wikimedia.org/wiki/File:Flag_Ingria_down.jpg"
+  - id: "dekulakization"
+    date: "1930"
+    links:
+      en:
+        title: "Dekulakization"
+        url: "https://en.wikipedia.org/wiki/Dekulakization"
+      ua:
+        title: "Розкуркулення"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BA%D1%83%D1%80%D0%BA%D1%83%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F"
+      pt:
+        title: "Desculaquização"
+        url: "https://pt.wikipedia.org/wiki/Desculaquiza%C3%A7%C3%A3o"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Dekulakisation_in_the_USSR_V_3.jpg"
+      - file: "03.jpg"
+        caption: "The requisition of grains from wealthy peasants during the forced collectivization in Timashyovsky District, Kuban, Soviet Union, 1933"
+        credit: "https://commons.wikimedia.org/wiki/File:Forced_collectivization_USSR.jpg"
+      - file: "04.jpg"
+        caption: "Children of kulaks in Northern krai, 1930"
+        credit: "https://commons.wikimedia.org/wiki/File:Kulak_children.jpeg"
+      - file: "05.jpg"
+        caption: "Kulak women in a forest cutting 1930"
+        credit: "https://commons.wikimedia.org/wiki/File:Kulak_women1930.jpeg"
+  - id: "kazakh-famine-of-1930-1933"
+    date: "1930"
+    links:
+      en:
+        title: "Kazakh famine of 1930–1933"
+        url: "https://en.wikipedia.org/wiki/Kazakh_famine_of_1930%E2%80%931933"
+      ua:
+        title: "Голодомор у Казахстані (1932—1933)"
+        url: "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%BC%D0%BE%D1%80_%D1%83_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%96_%281932%E2%80%941933%29"
+      pt:
+        title: "Fome cazaque de 1930-1933"
+        url: "https://pt.wikipedia.org/wiki/Fome_cazaque_de_1930-1933"
+    images:
+      - file: "02.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Kazakh_eagle_hunting_by_E.M.Korneev.jpg"
+  - id: "holodomor"
+    date: "1932"
+    links:
+      en:
+        title: "Holodomor"
+        url: "https://en.wikipedia.org/wiki/Holodomor"
+      ua:
+        title: "Голодомор (1932—1933)"
+        url: "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%BC%D0%BE%D1%80_%281932%E2%80%941933%29"
+      pt:
+        title: "Holodomor"
+        url: "https://pt.wikipedia.org/wiki/Holodomor"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:HolodomorKharkiv_1933_Wienerberger.jpg"
+      - file: "04.jpg"
+        caption: "Starvation during the Holodomor, Kharkivshchyna, 1933. Photo by Alexander Wienerberger"
+        credit: "https://commons.wikimedia.org/wiki/File:Alexander_Wienerberger_Holodomor18.jpg"
+      - file: "11.jpg"
+        caption: "A print from a postcard designed by Zofia Nalepińska-Bojczuk, referring to the Holodomor, 1935"
+        credit: "https://commons.wikimedia.org/wiki/File:Famine_in_Ukraine.jpg"
+      - file: "17.jpg"
+        caption: "Passers-by and the corpse of a starved man on a street in Kharkiv, 1932"
+        credit: "https://commons.wikimedia.org/wiki/File:HolodomorUcrania9.jpg"
+      - file: "18.jpg"
+        caption: "A \"Red Train\" of carts from the \"Wave of Proletarian Revolution\" collective farm in the village of Oleksiyivka, Kharkiv oblast in 1932. \"Red Trains\" took the first harvest of the season's crop to the government depots. During the Holodomor, these brigades were part of the Soviet Government's policy of taking away food from the peasants."
+        credit: "https://commons.wikimedia.org/wiki/File:HolodomorVyizdValky.jpg"
+  - id: "great-purge"
+    date: "08.1936"
+    links:
+      en:
+        title: "Great Purge"
+        url: "https://en.wikipedia.org/wiki/Great_Purge"
+      ua:
+        title: "Великий терор"
+        url: "https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D1%80%D0%BE%D1%80"
+      pt:
+        title: "Grande Expurgo"
+        url: "https://pt.wikipedia.org/wiki/Grande_Expurgo"
+    images:
+      - file: "15.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Kurapaty_1989_meeting.jpg"
+      - file: "32.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Wall_of_sorrow_at_the_first_exhibition_of_the_victims_of_Stalinism_in_Moscow.jpg"
+  - id: "vinnytsia-massacre"
+    date: "1937"
+    links:
+      en:
+        title: "Vinnytsia massacre"
+        url: "https://en.wikipedia.org/wiki/Vinnytsia_massacre"
+      ua:
+        title: "Вінницька трагедія"
+        url: "https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B0_%D1%82%D1%80%D0%B0%D0%B3%D0%B5%D0%B4%D1%96%D1%8F"
+      pt:
+        title: "Massacre de Winniza"
+        url: "https://pt.wikipedia.org/wiki/Massacre_de_Winniza"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Vinnycia16.jpg"
+  - id: "nkvd-order-no-00439"
+    date: "25.07.1937"
+    links:
+      en:
+        title: "NKVD Order No. 00439"
+        url: "https://en.wikipedia.org/wiki/German_Operation_of_the_NKVD"
+      ua:
+        title: "Наказ НКВС № 00439"
+        url: "https://en.wikipedia.org/wiki/German_Operation_of_the_NKVD"
+      pt:
+        title: "NKVD Ordem Nº 00439"
+        url: "https://pt.wikipedia.org/wiki/NKVD_Ordem_N%C2%BA_00439"
+  - id: "nkvd-order-no-00447"
+    date: "30.07.1937"
+    links:
+      en:
+        title: "NKVD Order No. 00447"
+        url: "https://en.wikipedia.org/wiki/NKVD_Order_No._00447"
+      ua:
+        title: "Наказ НКВС № 00447"
+        url: "https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BA%D0%B0%D0%B7_%D0%9D%D0%9A%D0%92%D0%A1_%E2%84%96_00447"
+      pt:
+        title: "Ordem Nº 00447 da NKVD"
+        url: "https://pt.wikipedia.org/wiki/Ordem_N%C2%BA_00447_da_NKVD"
+  - id: "nkvd-order-no-00485"
+    date: "11.08.1937"
+    links:
+      en:
+        title: "NKVD Order No. 00485"
+        url: "https://en.wikipedia.org/wiki/NKVD_Order_No._00485"
+      ua:
+        title: "Наказ НКВС № 00485"
+        url: "https://en.wikipedia.org/wiki/NKVD_Order_No._00485"
+      pt:
+        title: "NKVD Ordem Nº 00485"
+        url: "https://pt.wikipedia.org/wiki/NKVD_Ordem_N%C2%BA_00485"
+  - id: "polish-operation-of-the-nkvd"
+    date: "11.08.1937"
+    links:
+      en:
+        title: "Polish Operation of the NKVD"
+        url: "https://en.wikipedia.org/wiki/Polish_Operation_of_the_NKVD"
+      ua:
+        title: "Польська операція НКВС"
+        url: "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F_%D0%9D%D0%9A%D0%92%D0%A1"
+      pt:
+        title: "Operação polonesa do NKVD"
+        url: "https://en.wikipedia.org/wiki/Polish_Operation_of_the_NKVD"
+  - id: "deportation-of-koreans-in-the-soviet-union"
+    date: "21.09.1937"
+    links:
+      en:
+        title: "Deportation of Koreans in the Soviet Union"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_Koreans_in_the_Soviet_Union"
+      ua:
+        title: "Депортація корейців"
+        url: "https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D0%BA%D0%BE%D1%80%D0%B5%D0%B9%D1%86%D1%96%D0%B2"
+      pt:
+        title: "Deportação dos coreanos na União Soviética"
+        url: "https://pt.wikipedia.org/wiki/Deporta%C3%A7%C3%A3o_dos_coreanos_na_Uni%C3%A3o_Sovi%C3%A9tica"
+    images:
+      - file: "02.jpg"
+        caption: "Train car used for the Soviet deportations"
+        credit: "https://commons.wikimedia.org/wiki/File:Isxodiwozwr1.jpg"
+  - id: "stalinist-repressions-in-mongolia"
+    date: "10.1937"
+    links:
+      en:
+        title: "Stalinist repressions in Mongolia"
+        url: "https://en.wikipedia.org/wiki/Stalinist_repressions_in_Mongolia"
+      ua:
+        title: "Сталінські репресії в Монголії"
+        url: "https://en.wikipedia.org/wiki/Stalinist_repressions_in_Mongolia"
+      pt:
+        title: "Grande Repressão na Mongólia"
+        url: "https://pt.wikipedia.org/wiki/Grande_Repress%C3%A3o_na_Mong%C3%B3lia"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Skulls_at_Khambyn_Ovoo.jpg"
+      - file: "03.jpg"
+        caption: "Choijin Lama Temple during the height of the repressions in 1937."
+        credit: "https://commons.wikimedia.org/wiki/File:Choijin_Lama_Temple_during_the_1937_repressions.png"
+  - id: "1937-mass-execution-of-belarusians"
+    date: "29.10.1937"
+    links:
+      en:
+        title: "1937 mass execution of Belarusians"
+        url: "https://en.wikipedia.org/wiki/1937_mass_execution_of_Belarusians"
+      ua:
+        title: "Розстріл білоруських діячів (1937)"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D1%81%D1%82%D1%80%D1%96%D0%BB_%D0%B1%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D0%B4%D1%96%D1%8F%D1%87%D1%96%D0%B2_(1937)"
+      pt:
+        title: "Execução em massa de bielorrussos de 1937"
+        url: "https://pt.wikipedia.org/wiki/Execu%C3%A7%C3%A3o_em_massa_de_bielorrussos_de_1937"
+    images:
+      - file: "01.jpg"
+        caption: "Kurapaty near Minsk is the place where mass executions of Belarusian civilians were carried out during the Stalinist regime (1937 - 1941)"
+        credit: "https://commons.wikimedia.org/wiki/File:Kurapaty_-_07.jpg"
+  - id: "latvian-operation-of-the-nkvd"
+    date: "03.12.1937"
+    links:
+      en:
+        title: "Latvian Operation of the NKVD"
+        url: "https://en.wikipedia.org/wiki/Latvian_Operation_of_the_NKVD"
+      ua:
+        title: "Латвійська операція НКВС"
+        url: "https://en.wikipedia.org/wiki/Latvian_Operation_of_the_NKVD"
+      pt:
+        title: "Operação letã do NKVD"
+        url: "https://en.wikipedia.org/wiki/Latvian_Operation_of_the_NKVD"
+  - id: "estonian-operation-of-the-nkvd"
+    date: "14.12.1937"
+    links:
+      en:
+        title: "Estonian Operation of the NKVD"
+        url: "https://en.wikipedia.org/wiki/Estonian_Operation_of_the_NKVD"
+      ua:
+        title: "Естонська операція НКВС"
+        url: "https://uk.wikipedia.org/wiki/%D0%95%D1%81%D1%82%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F_%D0%9D%D0%9A%D0%92%D0%A1"
+      pt:
+        title: "Operação estoniana do NKVD"
+        url: "https://en.wikipedia.org/wiki/Estonian_Operation_of_the_NKVD"
+  - id: "finnish-operation-of-the-nkvd"
+    date: "14.12.1937"
+    links:
+      en:
+        title: "Finnish Operation of the NKVD"
+        url: "https://en.wikipedia.org/wiki/Finnish_Operation_of_the_NKVD"
+      ua:
+        title: "Фінська операція НКВС"
+        url: "https://en.wikipedia.org/wiki/Finnish_Operation_of_the_NKVD"
+      pt:
+        title: "Operação finlandesa do NKVD"
+        url: "https://en.wikipedia.org/wiki/Finnish_Operation_of_the_NKVD"
+  - id: "soviet-invasion-of-poland"
+    date: "17.09.1939"
+    links:
+      en:
+        title: "Soviet invasion of Poland"
+        url: "https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland"
+      ua:
+        title: "Радянське вторгнення до Польщі"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B5_%D0%B2%D1%82%D0%BE%D1%80%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B4%D0%BE_%D0%9F%D0%BE%D0%BB%D1%8C%D1%89%D1%96"
+      pt:
+        title: "Invasão soviética da Polónia"
+        url: "https://pt.wikipedia.org/wiki/Invas%C3%A3o_sovi%C3%A9tica_da_Pol%C3%B3nia"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Lviv_1939_Sov_Cavalry.jpg"
+      - file: "12.jpg"
+        caption: "Advancing Red Army troops, Soviet invasion of Poland, 1939"
+        credit: "https://commons.wikimedia.org/wiki/File:Soviet_invasion_on_Poland_1939.jpg"
+      - file: "15.jpg"
+        caption: "Soviet propaganda appealing to Ukrainian peasants in Eastern Poland"
+        credit: "https://commons.wikimedia.org/wiki/File:Tak_bulo_-_tak_ye.jpg"
+  - id: "katyn-massacre"
+    date: "03.04.1940"
+    links:
+      en:
+        title: "Katyn massacre"
+        url: "https://en.wikipedia.org/wiki/Katyn_massacre"
+      ua:
+        title: "Катинський розстріл"
+        url: "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D0%BE%D0%B7%D1%81%D1%82%D1%80%D1%96%D0%BB"
+      pt:
+        title: "Massacre de Katyn"
+        url: "https://pt.wikipedia.org/wiki/Massacre_de_Katyn"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Katyn_Massacre_-_Mass_Graves_2.jpg"
+      - file: "05.jpg"
+        caption: "Polish POWs captured by the Red Army during the Soviet invasion of Poland"
+        credit: "https://commons.wikimedia.org/wiki/File:Je%C5%84cy1.jpg"
+      - file: "09.jpg"
+        caption: "A mass grave at Katyn, 1943"
+        credit: "https://commons.wikimedia.org/wiki/File:Katyn_massacre_1.jpg"
+      - file: "14.jpg"
+        caption: "Katyn exhumation, 1943"
+        credit: "https://commons.wikimedia.org/wiki/File:Katy%C5%84,_ekshumacja_ofiar.jpg"
+  - id: "soviet-deportations-from-bessarabia-and-northern-bukovina"
+    date: "13.06.1941"
+    links:
+      en:
+        title: "Soviet deportations from Bessarabia and Northern Bukovina"
+        url: "https://en.wikipedia.org/wiki/Soviet_deportations_from_Bessarabia_and_Northern_Bukovina"
+      ua:
+        title: "Операція «Юг»"
+        url: "https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F_%C2%AB%D0%AE%D0%B3%C2%BB"
+      pt:
+        title: "Deportações soviéticas da Bessarábia e do norte da Bucovina"
+        url: "https://en.wikipedia.org/wiki/Soviet_deportations_from_Bessarabia_and_Northern_Bukovina"
+    images:
+      - file: "01.jpg"
+        caption: "Romanian refugees after the Soviet occupation of Bessarabia and Northern Bukovina"
+        credit: "https://commons.wikimedia.org/wiki/File:Soviet_occupation_of_Bessarabia_and_Northern_Bukovina_07.jpg"
+      - file: "04.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Soviet_occupation_of_Bessarabia_and_Northern_Bukovina_03.jpg"
+  - id: "soviet-deportations-from-latvia"
+    date: "14.06.1941"
+    links:
+      en:
+        title: "Soviet deportations from Latvia"
+        url: "https://en.wikipedia.org/wiki/Soviet_deportations_from_Latvia"
+      ua:
+        title: "Радянські депортації з Латвії"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B4%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%97_%D0%B7_%D0%9B%D0%B0%D1%82%D0%B2%D1%96%D1%97"
+      pt:
+        title: "Deportações soviéticas da Letônia"
+        url: "https://en.wikipedia.org/wiki/Soviet_deportations_from_Latvia"
+  - id: "soviet-deportations-from-lithuania"
+    date: "14.06.1941"
+    links:
+      en:
+        title: "Soviet deportations from Lithuania"
+        url: "https://en.wikipedia.org/wiki/Soviet_deportations_from_Lithuania"
+      ua:
+        title: "Радянські депортації з Литви"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B4%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%97_%D0%B7_%D0%9B%D0%B8%D1%82%D0%B2%D0%B8"
+      pt:
+        title: "Deportações soviéticas da Lituânia"
+        url: "https://en.wikipedia.org/wiki/Soviet_deportations_from_Lithuania"
+    images:
+      - file: "04.jpg"
+        caption: "Train cars used to transport deportees (on display in Naujoji Vilnia)"
+        credit: "https://commons.wikimedia.org/wiki/File:Lithuania._Vilnius._Naujoji_Vilnia_005.JPG"
+  - id: "nkvd-prisoner-massacres-in-lviv"
+    date: "22.06.1941"
+    links:
+      en:
+        title: "NKVD prisoner massacres in Lviv"
+        url: "https://en.wikipedia.org/wiki/NKVD_prisoner_massacres_in_Lviv"
+      ua:
+        title: "Винищення львівських в'язнів у червні 1941"
+        url: "https://uk.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D1%8F_%D0%BB%D1%8C%D0%B2%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D0%B2'%D1%8F%D0%B7%D0%BD%D1%96%D0%B2_%D1%83_%D1%87%D0%B5%D1%80%D0%B2%D0%BD%D1%96_1941"
+      pt:
+        title: "Massacres de prisioneiros pelo NKVD em Lviv"
+        url: "https://en.wikipedia.org/wiki/NKVD_prisoner_massacres_in_Lviv"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:01941_Opfer_des_NKWD_im_Hof_des_Geheimpolizeigef%C3%A4ngnisses_von_Lemberg_am_06.07.1941.jpg"
+      - file: "04.jpg"
+        caption: "The corpses of the victims in the courtyard of the prison on Łącki Street"
+        credit: "https://commons.wikimedia.org/wiki/File:Lviv_during_the_II_world_war.jpg"
+      - file: "05.jpg"
+        caption: "Jewish woman fleeing from the mob during a pogrom in Lviv"
+        credit: "https://commons.wikimedia.org/wiki/File:Lviv_pogrom_(June_-_July_1941).jpg"
+  - id: "nkvd-prisoner-massacre-in-lutsk"
+    date: "23.06.1941"
+    links:
+      en:
+        title: "NKVD prisoner massacre in Lutsk"
+        url: "https://en.wikipedia.org/wiki/NKVD_prisoner_massacre_in_Lutsk"
+      ua:
+        title: "Трагедія Луцької в'язниці (1941)"
+        url: "https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%B3%D0%B5%D0%B4%D1%96%D1%8F_%D0%9B%D1%83%D1%86%D1%8C%D0%BA%D0%BE%D1%97_%D0%B2'%D1%8F%D0%B7%D0%BD%D0%B8%D1%86%D1%96_(1941)"
+      pt:
+        title: "Massacre de prisioneiros pelo NKVD em Lutsk"
+        url: "https://en.wikipedia.org/wiki/NKVD_prisoner_massacre_in_Lutsk"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:%D0%9B%D1%83%D1%86%D1%8C%D0%BA%D0%91%D1%80%D0%B8%D0%B3%D1%96%D0%B4%D0%BE%D0%BA%D0%93%D0%BE%D0%BB.jpg"
+  - id: "anglo-soviet-invasion-of-iran"
+    date: "25.08.1941"
+    links:
+      en:
+        title: "Anglo-Soviet invasion of Iran"
+        url: "https://en.wikipedia.org/wiki/Anglo-Soviet_invasion_of_Iran"
+      ua:
+        title: "Англо-радянське вторгнення в Іран"
+        url: "https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%BE-%D1%80%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B5_%D0%B2%D1%82%D0%BE%D1%80%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B2_%D0%86%D1%80%D0%B0%D0%BD"
+      pt:
+        title: "Invasão anglo-soviética do Irã"
+        url: "https://pt.wikipedia.org/wiki/Invas%C3%A3o_anglo-sovi%C3%A9tica_do_Ir%C3%A3"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Soviet_tankmen_of_the_6th_Armoured_Division_drive_through_the_streets_of_Tabriz_(2).jpg"
+      - file: "09.jpg"
+        caption: "British and Soviet officers inspect troops, in preparations to the Joint Soviet-British military parade in Tehran. Iran, September 1941."
+        credit: "https://commons.wikimedia.org/wiki/File:Preparations_for_the_Joint_Russo-British_military_parade_in_Tehran.jpg"
+      - file: "12.jpg"
+        caption: "A supply train passing through Iran after the invasion"
+        credit: "https://commons.wikimedia.org/wiki/File:Supply_train_through_the_Persian_Corridor.jpg"
+  - id: "deportation-of-soviet-germans-1941-1942"
+    date: "28.08.1941"
+    links:
+      en:
+        title: "Deportation of Soviet Germans (1941–1942)"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_Soviet_Germans_(1941%E2%80%931942)"
+      ua:
+        title: "Депортація радянських німців під час Другої світової війни"
+        url: "https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D1%80%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D0%BD%D1%96%D0%BC%D1%86%D1%96%D0%B2_%D0%BF%D1%96%D0%B4_%D1%87%D0%B0%D1%81_%D0%94%D1%80%D1%83%D0%B3%D0%BE%D1%97_%D1%81%D0%B2%D1%96%D1%82%D0%BE%D0%B2%D0%BE%D1%97_%D0%B2%D1%96%D0%B9%D0%BD%D0%B8"
+      pt:
+        title: "Deportação de alemães soviéticos (1941–1942)"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_Soviet_Germans_(1941%E2%80%931942)"
+  - id: "deportation-of-the-soviet-greeks"
+    date: "1942"
+    links:
+      en:
+        title: "Deportation of the Soviet Greeks"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_the_Soviet_Greeks"
+      ua:
+        title: "Депортація понтійських греків"
+        url: "https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D0%BF%D0%BE%D0%BD%D1%82%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D0%B3%D1%80%D0%B5%D0%BA%D1%96%D0%B2"
+      pt:
+        title: "Deportação dos gregos soviéticos"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_the_Soviet_Greeks"
+  - id: "deportation-of-the-karachays"
+    date: "02.11.1943"
+    links:
+      en:
+        title: "Deportation of the Karachays"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_the_Karachays"
+      ua:
+        title: "Депортація карачаївців"
+        url: "https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D0%BA%D0%B0%D1%80%D0%B0%D1%87%D0%B0%D1%97%D0%B2%D1%86%D1%96%D0%B2"
+      pt:
+        title: "Deportação dos carachais"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_the_Karachays"
+  - id: "deportation-of-the-kalmyks"
+    date: "28.12.1943"
+    links:
+      en:
+        title: "Deportation of the Kalmyks"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_the_Kalmyks"
+      ua:
+        title: "Депортація калмиків"
+        url: "https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D0%BA%D0%B0%D0%BB%D0%BC%D0%B8%D0%BA%D1%96%D0%B2"
+      pt:
+        title: "Deportação dos calmucos"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_the_Kalmyks"
+    images:
+      - file: "04.jpg"
+        caption: "Painting of dogs howling after deportation of Kalmyks, Hoton"
+        credit: "https://commons.wikimedia.org/wiki/File:Kikeev_Kalmyk_hoton.jpg"
+  - id: "operation-lentil-caucasus"
+    date: "23.02.1944"
+    links:
+      en:
+        title: "Operation Lentil (Caucasus)"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_the_Chechens_and_Ingush"
+      ua:
+        title: "Депортація чеченців та інгушів"
+        url: "https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D1%87%D0%B5%D1%87%D0%B5%D0%BD%D1%86%D1%96%D0%B2_%D1%82%D0%B0_%D1%96%D0%BD%D0%B3%D1%83%D1%88%D1%96%D0%B2"
+      pt:
+        title: "Deportação de chechenos e inguches"
+        url: "https://pt.wikipedia.org/wiki/Deporta%C3%A7%C3%A3o_de_chechenos_e_inguches"
+    images:
+      - file: "03.jpg"
+        caption: "Sealed off freight cars were used to deport the Chechens and Ingush"
+        credit: "https://commons.wikimedia.org/wiki/File:Naujoji_Vilnia_train_station_4.JPG"
+  - id: "deportation-of-the-balkars"
+    date: "08.03.1944"
+    links:
+      en:
+        title: "Deportation of the Balkars"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_the_Balkars"
+      ua:
+        title: "Депортація балкарців"
+        url: "https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0%D1%80%D1%86%D1%96%D0%B2"
+      pt:
+        title: "Deportação dos bálcaros"
+        url: "https://pt.wikipedia.org/wiki/Deporta%C3%A7%C3%A3o_dos_b%C3%A1lcaros"
+  - id: "deportation-of-the-crimean-tatars"
+    date: "18.05.1944"
+    links:
+      en:
+        title: "Deportation of the Crimean Tatars"
+        url: "https://en.wikipedia.org/wiki/Crimean_Tatar_deportation"
+      ua:
+        title: "Депортація кримських татар"
+        url: "https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D0%BA%D1%80%D0%B8%D0%BC%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D1%82%D0%B0%D1%82%D0%B0%D1%80"
+      pt:
+        title: "Deportação dos tártaros da Crimeia"
+        url: "https://pt.wikipedia.org/wiki/Deporta%C3%A7%C3%A3o_dos_t%C3%A1rtaros_da_Crimeia"
+    images:
+      - file: "06.jpg"
+        caption: "A Crimean Tatar family in the 1960s during deportation after Soviet authorities refused to permit them to live in Crimea. Even after the \"special-settlers\" regime was lifted, Crimean Tatars were not allowed to live in Crimea without a residence permit"
+        credit: "https://en.wikipedia.org/wiki/File:Deportation_of_the_Crimean_Tatars.jpg"
+      - file: "10.jpg"
+        caption: "Corpses of victims of the winter 1918 Red Terror in Evpatoria, Crimea"
+        credit: "https://commons.wikimedia.org/wiki/File:Evpatoria_red_terror_corpses_at_sea_coast.jpg"
+      - file: "15.jpg"
+        caption: "An empty Tatar home in Crimea, photographed in 1968"
+        credit: "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D0%BB%D1%8F_%D0%B2_%D0%9A%D1%80%D1%8B%D0%BC%D1%83.jpg"
+  - id: "deportation-of-the-meskhetian-turks"
+    date: "15.11.1944"
+    links:
+      en:
+        title: "Deportation of the Meskhetian Turks"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_the_Meskhetian_Turks"
+      ua:
+        title: "Депортація турків-месхетинців"
+        url: "https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D1%82%D1%83%D1%80%D0%BA%D1%96%D0%B2-%D0%BC%D0%B5%D1%81%D1%85%D0%B5%D1%82%D0%B8%D0%BD%D1%86%D1%96%D0%B2"
+      pt:
+        title: "Deportação dos turcos mesquécios"
+        url: "https://en.wikipedia.org/wiki/Deportation_of_the_Meskhetian_Turks"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Ahiska_Turk_woman_and_her_child.jpg"
+      - file: "07.jpg"
+        caption: "Cattle wagons used for the Soviet deportations"
+        credit: "https://commons.wikimedia.org/wiki/File:Tremties_muziejaus_eksponatas.jpg"
+  - id: "soviet-deportations-from-estonia"
+    date: "1945"
+    links:
+      en:
+        title: "Soviet deportations from Estonia"
+        url: "https://en.wikipedia.org/wiki/Soviet_deportations_from_Estonia"
+      ua:
+        title: "Радянські депортації з Естонії"
+        url: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B4%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%97_%D0%B7_%D0%95%D1%81%D1%82%D0%BE%D0%BD%D1%96%D1%97"
+      pt:
+        title: "Deportações soviéticas da Estônia"
+        url: "https://en.wikipedia.org/wiki/Soviet_deportations_from_Estonia"
+    images:
+      - file: "02.jpg"
+        caption: "Exhibition of vehicles similar to these that were used for deporting people to Siberia in 1941."
+        credit: "https://commons.wikimedia.org/wiki/File:Kaheteljeline_vagun.JPG"
+  - id: "soviet-annexation-of-transcarpathia"
+    date: "29.06.1945"
+    links:
+      en:
+        title: "Soviet annexation of Transcarpathia"
+        url: "https://en.wikipedia.org/wiki/Soviet_annexation_of_Transcarpathia"
+      ua:
+        title: "Радянська анексія Закарпаття"
+        url: "https://en.wikipedia.org/wiki/Soviet_annexation_of_Transcarpathia"
+      pt:
+        title: "Anexação soviética da Transcarpátia"
+        url: "https://en.wikipedia.org/wiki/Soviet_annexation_of_Transcarpathia"
+  - id: "augustow-roundup"
+    date: "12.07.1945"
+    links:
+      en:
+        title: "Augustów roundup"
+        url: "https://en.wikipedia.org/wiki/August%C3%B3w_roundup"
+      ua:
+        title: "Августівська облава"
+        url: "https://uk.wikipedia.org/wiki/%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%BE%D0%B1%D0%BB%D0%B0%D0%B2%D0%B0"
+      pt:
+        title: "Batida de Augustów"
+        url: "https://en.wikipedia.org/wiki/August%C3%B3w_roundup"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Giby_-_krzy%C5%BC-1.jpg"
+      - file: "02.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Giby_-_pomnik_zgin%C4%99li.jpg"
+      - file: "03.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Giby_-_tablica_z_nazwiskami.jpg"
+  - id: "soviet-invasion-of-south-sakhalin"
+    date: "11.08.1945"
+    links:
+      en:
+        title: "Soviet invasion of South Sakhalin"
+        url: "https://en.wikipedia.org/wiki/Soviet_invasion_of_South_Sakhalin"
+      ua:
+        title: "Південно-Сахалінська операція"
+        url: "https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE-%D0%A1%D0%B0%D1%85%D0%B0%D0%BB%D1%96%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F"
+      pt:
+        title: "Invasão do Sul da Sacalina"
+        url: "https://pt.wikipedia.org/wiki/Invas%C3%A3o_do_Sul_da_Sacalina"
+    images:
+      - file: "05.jpg"
+        caption: "A Soviet soldier advances over the bodies of Japanese soldiers at Mooka and the Kumosa Pass."
+        credit: "https://commons.wikimedia.org/wiki/File:Soviet_soldier_marches_past_a_fallen_Japanese.jpg"
+      - file: "08.jpg"
+        caption: "The urban area of Esutoru Town (Hama District)"
+        credit: "https://commons.wikimedia.org/wiki/File:View_of_Esutoru.JPG"
+  - id: "gegenmiao-massacre"
+    date: "14.08.1945"
+    links:
+      en:
+        title: "Gegenmiao massacre"
+        url: "https://en.wikipedia.org/wiki/Gegenmiao_massacre"
+      ua:
+        title: "Масове вбивство в Гегенмяо"
+        url: "https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BE%D0%B2%D0%B5_%D0%B2%D0%B1%D0%B8%D0%B2%D1%81%D1%82%D0%B2%D0%BE_%D0%B2_%D0%93%D0%B5%D0%B3%D0%B5%D0%BD%D0%BC%D1%8F%D0%BE"
+      pt:
+        title: "Massacre de Gegenmiao"
+        url: "https://pt.wikipedia.org/wiki/Massacre_de_Gegenmiao"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:39th_army_HQ_report,_14_august,_1945.jpg"
+  - id: "operation-vistula"
+    date: "28.04.1947"
+    links:
+      en:
+        title: "Operation Vistula"
+        url: "https://en.wikipedia.org/wiki/Operation_Vistula"
+      ua:
+        title: "Операція «Вісла»"
+        url: "https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F_%C2%AB%D0%92%D1%96%D1%81%D0%BB%D0%B0%C2%BB"
+      pt:
+        title: "Operação Vístula"
+        url: "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_V%C3%ADstula"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:Operation_Wis%C5%82a._1947.jpg"
+      - file: "06.jpg"
+        caption: "Resettlement of Ukrainians in 1947"
+        credit: "https://commons.wikimedia.org/wiki/File:Operation_Wis%C5%82a.jpg"
+  - id: "operation-priboi"
+    date: "25.03.1949"
+    links:
+      en:
+        title: "Operation Priboi"
+        url: "https://en.wikipedia.org/wiki/Operation_Priboi"
+      ua:
+        title: "Операція «Прибій»"
+        url: "https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F_%C2%AB%D0%9F%D1%80%D0%B8%D0%B1%D1%96%D0%B9%C2%BB"
+      pt:
+        title: "Operação Priboi"
+        url: "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Priboi"
+    images:
+      - file: "02.jpg"
+        caption: "Estonian deportees in Siberia – 28% of deportees were children under the age of 16"
+        credit: "https://en.wikipedia.org/wiki/File:Deportees.jpg"
+  - id: "operation-north"
+    date: "01.04.1951"
+    links:
+      en:
+        title: "Operation North"
+        url: "https://en.wikipedia.org/wiki/Operation_North"
+      ua:
+        title: "Операція «Північ»"
+        url: "https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F_%C2%AB%D0%9F%D1%96%D0%B2%D0%BD%D1%96%D1%87%C2%BB"
+      pt:
+        title: "Operação Norte"
+        url: "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Norte"
+  - id: "operation-osen"
+    date: "02.10.1951"
+    links:
+      en:
+        title: "Operation Osen"
+        url: "https://en.wikipedia.org/wiki/Operation_Osen"
+      ua:
+        title: "Операція «Осінь»"
+        url: "https://en.wikipedia.org/wiki/Operation_Osen"
+      pt:
+        title: "Operação Osen"
+        url: "https://en.wikipedia.org/wiki/Operation_Osen"
+  - id: "night-of-the-murdered-poets"
+    date: "12.08.1952"
+    links:
+      en:
+        title: "Night of the Murdered Poets"
+        url: "https://en.wikipedia.org/wiki/Night_of_the_Murdered_Poets"
+      ua:
+        title: "Справа Єврейського антифашистського комітету"
+        url: "https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%B0_%D0%84%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BD%D1%82%D0%B8%D1%84%D0%B0%D1%88%D0%B8%D1%81%D1%82%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BC%D1%96%D1%82%D0%B5%D1%82%D1%83"
+      pt:
+        title: "A noite dos Poetas Assassinados"
+        url: "https://pt.wikipedia.org/wiki/A_noite_dos_Poetas_Assassinados"
+  - id: "east-german-uprising-of-1953"
+    date: "17.06.1953"
+    links:
+      en:
+        title: "East German uprising of 1953"
+        url: "https://en.wikipedia.org/wiki/Uprising_of_1953_in_East_Germany"
+      ua:
+        title: "Берлінське повстання (1953)"
+        url: "https://uk.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BB%D1%96%D0%BD%D1%81%D1%8C%D0%BA%D0%B5_%D0%BF%D0%BE%D0%B2%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%8F_(1953)"
+      pt:
+        title: "Revolta da Alemanha Oriental de 1953"
+        url: "https://pt.wikipedia.org/wiki/Revolta_da_Alemanha_Oriental_de_1953"
+    images:
+      - file: "03.jpg"
+        caption: "Soviet IS-2 tank passing in front of the old Reichsgericht building in Leipzig on 17 June"
+        credit: "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_175-14676,_Leipzig,_Reichsgericht,_russischer_Panzer.jpg"
+  - id: "1956-georgian-demonstrations"
+    date: "04.03.1956"
+    links:
+      en:
+        title: "1956 Georgian demonstrations"
+        url: "https://en.wikipedia.org/wiki/1956_Georgian_demonstrations"
+      ua:
+        title: "Тбіліські події (1956)"
+        url: "https://uk.wikipedia.org/wiki/%D0%A2%D0%B1%D1%96%D0%BB%D1%96%D1%81%D1%8C%D0%BA%D1%96_%D0%BF%D0%BE%D0%B4%D1%96%D1%97_(1956)"
+      pt:
+        title: "Manifestações georgianas de 1956"
+        url: "https://en.wikipedia.org/wiki/1956_Georgian_demonstrations"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:1956_Georgian_demonstrations_in_Tbilisi.jpg"
+      - file: "04.jpg"
+        caption: "Stalin's funeral in Moscow, March 1953. His death led to power struggles and the eventual policy of de-Stalinization."
+        credit: "https://commons.wikimedia.org/wiki/File:Stalin%27s_funeral_procession_entering_Manezhnaya_Square_from_Okhotny_Ryad.jpg"
+      - file: "05.jpg"
+        caption: "Plaque commemorating the 9 March massacre on Rustaveli Avenue in Tbilisi in English and Georgian"
+        credit: "https://commons.wikimedia.org/wiki/File:Tbilisirallymemorial.jpg"
+  - id: "hungarian-revolution-of-1956"
+    date: "23.10.1956"
+    links:
+      en:
+        title: "Hungarian Revolution of 1956"
+        url: "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
+      ua:
+        title: "Угорська революція (1956)"
+        url: "https://uk.wikipedia.org/wiki/%D0%A3%D0%B3%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D1%96%D1%8F_%281956%29"
+      pt:
+        title: "Revolução Húngara de 1956"
+        url: "https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_H%C3%BAngara_de_1956"
+    images:
+      - file: "05.jpg"
+        caption: "Corvin Cinema after the end of the revolution"
+        credit: "https://commons.wikimedia.org/wiki/File:Corvin_(Kisfaludy)_k%C3%B6z,_Corvin_mozi._Fortepan_24782.jpg"
+      - file: "09.jpg"
+        caption: "A Soviet-built BTR-152 armored personnel carrier burns on a Budapest street, November 1956."
+        credit: "https://commons.wikimedia.org/wiki/File:Fortepan_12830_R%C3%A1k%C3%B3czi_%C3%BAt_-_Ak%C3%A1cfa_utca_sarok._Ki%C3%A9gett_szovjet_BTR-152_p%C3%A1nc%C3%A9lozott_l%C3%B6v%C3%A9szsz%C3%A1ll%C3%ADt%C3%B3_j%C3%A1rm%C5%B1..jpg"
+      - file: "10.jpg"
+        caption: "Suspected ÁVH agents digging at Republic Square in search of mass grave of Stalinist repressions and underground escape tunnels"
+        credit: "https://commons.wikimedia.org/wiki/File:II._J%C3%A1nos_P%C3%A1l_(K%C3%B6zt%C3%A1rsas%C3%A1g)_t%C3%A9r,_a_p%C3%A1rth%C3%A1zhoz_k%C3%B6t%C5%91d%C5%91_felt%C3%A9telezett_kazamat%C3%A1k_keres%C3%A9se._Fortepan_24518.jpg"
+      - file: "11.jpg"
+        caption: "The damaged headquarters of the Hungarian Communist Party, on Köztársaság tér, in Budapest."
+        credit: "https://commons.wikimedia.org/wiki/File:II._J%C3%A1nos_P%C3%A1l_p%C3%A1pa_(K%C3%B6zt%C3%A1rsas%C3%A1g)_t%C3%A9r,_MDP_Budapesti_P%C3%A1rtbizotts%C3%A1g%C3%A1nak_sz%C3%A9kh%C3%A1za._Fortepan_24495.jpg"
+      - file: "12.jpg"
+        caption: "The corpse of a communist officer killed defending the headquarters of the Hungarian Communist Party, Republic Square, Budapest."
+        credit: "https://commons.wikimedia.org/wiki/File:II._J%C3%A1nos_P%C3%A1l_p%C3%A1pa_(K%C3%B6zt%C3%A1rsas%C3%A1g)_t%C3%A9r,_a_p%C3%A1rth%C3%A1z_ostromakor_kiv%C3%A9gzett_v%C3%A9d%C5%91_holtteste._Fortepan_24462.jpg"
+      - file: "14.jpg"
+        caption: "Two disabled Soviet ISU-152 assault guns in Budapest's 8th District with an abandoned T-34/85 tank in the background"
+        credit: "https://commons.wikimedia.org/wiki/File:J%C3%B3zsef_k%C3%B6r%C3%BAt_a_Corvin_(Kisfaludy)_k%C3%B6zn%C3%A9l._Harck%C3%A9ptelenn%C3%A9_tett_ISU-152-es_szovjet_rohaml%C3%B6vegek,_a_h%C3%A1tt%C3%A9rben_egy_T-34-85_harckocsi._Fortepan_24854.jpg"
+      - file: "15.jpg"
+        caption: "A crowd cheers Hungarian troops in Budapest."
+        credit: "https://commons.wikimedia.org/wiki/File:Kossuth_Lajos_utca_-_K%C3%A1roly_(Tan%C3%A1cs)_k%C3%B6r%C3%BAt_sarok._Fortepan_23591.jpg"
+      - file: "16.jpg"
+        caption: "Kossuth Lajos Street seen from Ferenciek Square: anti-Soviet demonstrators march in protest against the USSR's control of Hungary, 25 October 1956."
+        credit: "https://commons.wikimedia.org/wiki/File:Kossuth_Lajos_utca_a_Ferenciek_tere_fel%C5%91l_n%C3%A9zve._1956._okt%C3%B3ber_25-e_d%C3%A9lut%C3%A1n,_-_Fortepan_24652.jpg"
+      - file: "19.jpg"
+        caption: "Protesters kicking the body of a slain ÁVH agent"
+        credit: "https://commons.wikimedia.org/wiki/File:Protesters_with_body_of_AVH_personnel.jpg"
+      - file: "23.jpg"
+        caption: "The Soviet repression of the Hungarian Revolution saw T-54 tanks patrolling the streets of Budapest, until the Red Army temporarily withdrew on 31 October 1956."
+        credit: "https://commons.wikimedia.org/wiki/File:Szent_Istv%C3%A1n_k%C3%B6r%C3%BAt_a_Falk_Miksa_(N%C3%A9phadsereg)_utca_fel%C5%91l_a_Honv%C3%A9d_utca_fel%C3%A9_n%C3%A9zve._A_szovjet_csapatok_ideiglenes_kivonul%C3%A1sa_1956._okt%C3%B3ber_31-%C3%A9n._Fortepan_24787.jpg"
+      - file: "28.jpg"
+        caption: "Rubble after the end of fighting in Budapest's 8th District"
+        credit: "https://commons.wikimedia.org/wiki/File:%C3%9Cll%C5%91i_%C3%BAt_a_Nagyk%C3%B6r%C3%BAt_fel%C5%91l_a_Vajdahunyad_utca_fel%C3%A9_n%C3%A9zve._Fortepan_24768.jpg"
+  - id: "ussr-anti-religious-campaign-1958-1964"
+    date: "1958"
+    links:
+      en:
+        title: "USSR anti-religious campaign (1958–1964)"
+        url: "https://en.wikipedia.org/wiki/USSR_anti-religious_campaign_%281958%E2%80%931964%29"
+      ua:
+        title: "Хрущовська антирелігійна кампанія"
+        url: "https://uk.wikipedia.org/wiki/%D0%A5%D1%80%D1%83%D1%89%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%B0%D0%BD%D1%82%D0%B8%D1%80%D0%B5%D0%BB%D1%96%D0%B3%D1%96%D0%B9%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%8F"
+      pt:
+        title: "Campanha antirreligiosa na URSS (1958–1964)"
+        url: "https://en.wikipedia.org/wiki/USSR_anti-religious_campaign_%281958%E2%80%931964%29"
+  - id: "novocherkassk-massacre"
+    date: "02.06.1962"
+    links:
+      en:
+        title: "Novocherkassk massacre"
+        url: "https://en.wikipedia.org/wiki/Novocherkassk_massacre"
+      ua:
+        title: "Новочеркаський розстріл"
+        url: "https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%87%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D0%BE%D0%B7%D1%81%D1%82%D1%80%D1%96%D0%BB"
+      pt:
+        title: "Massacre de Novocherkassk"
+        url: "https://pt.wikipedia.org/wiki/Massacre_de_Novocherkassk"
+    images:
+      - file: "01.jpg"
+        caption: "Strikers gathered at the plant on 1 June. A placard with the slogan \"Meat, butter, a pay raise!\" is attached atop a power line."
+        credit: "https://commons.wikimedia.org/wiki/File:Novocherkassk_demonstrators,_1_June_1962.jpg"
+  - id: "soviet-afghan-war"
+    date: "24.12.1979"
+    links:
+      en:
+        title: "Soviet–Afghan War"
+        url: "https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War"
+      ua:
+        title: "Війна в Афганістані (1979—1989)"
+        url: "https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B9%D0%BD%D0%B0_%D0%B2_%D0%90%D1%84%D0%B3%D0%B0%D0%BD%D1%96%D1%81%D1%82%D0%B0%D0%BD%D1%96_(1979%E2%80%941989)"
+      pt:
+        title: "Guerra do Afeganistão (1979–1989)"
+        url: "https://pt.wikipedia.org/wiki/Guerra_do_Afeganist%C3%A3o_(1979%E2%80%931989)"
+    images:
+      - file: "02.jpg"
+        caption: "Soviet forces after capturing some Mujahideen"
+        credit: "https://commons.wikimedia.org/wiki/File:Afgan_prisoners_in_Vardak_1987.jpg"
+      - file: "30.jpg"
+        caption: "A member of the International Committee of the Red Cross helping a wounded Afghan child walk in 1986"
+        credit: "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B0%D1%86%D1%96%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9C%D0%9A%D0%A7%D0%A5_%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%B0%D0%B3%D0%B0%D1%8E%D1%82%D1%8C_%D0%B4%D1%96%D1%82%D1%8F%D0%BC,_%D1%89%D0%BE_%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BB%D0%B8_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%BC%D1%96%D0%BD%D0%BD%D1%83_%D0%BD%D0%B5%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D0%BA%D1%83_%D0%B2_%D0%90%D1%84%D0%B3%D0%B0%D0%BD%D1%96%D1%81%D1%82%D0%B0%D0%BD%D1%96.jpg"
+  - id: "rauzdi-massacre"
+    date: "30.06.1983"
+    links:
+      en:
+        title: "Rauzdi massacre"
+        url: "https://en.wikipedia.org/wiki/Rauzdi_massacre"
+      ua:
+        title: "Різанина в Раузді"
+        url: "https://en.wikipedia.org/wiki/Rauzdi_massacre"
+      pt:
+        title: "Massacre de Rauzdi"
+        url: "https://en.wikipedia.org/wiki/Rauzdi_massacre"
+  - id: "kulchabat-bala-karz-and-mushkizi-massacre"
+    date: "12.10.1983"
+    links:
+      en:
+        title: "Kulchabat, Bala Karz and Mushkizi massacre"
+        url: "https://en.wikipedia.org/wiki/Kulchabat,_Bala_Karz_and_Mushkizi_massacre"
+      ua:
+        title: "Різанина в Кульчабаті, Бала-Карзі та Мушкізі"
+        url: "https://en.wikipedia.org/wiki/Kulchabat,_Bala_Karz_and_Mushkizi_massacre"
+      pt:
+        title: "Massacre de Kulchabat, Bala Karz e Mushkizi"
+        url: "https://en.wikipedia.org/wiki/Kulchabat,_Bala_Karz_and_Mushkizi_massacre"
+  - id: "kunduz-massacre"
+    date: "22.12.1984"
+    links:
+      en:
+        title: "Kunduz massacre"
+        url: "https://en.wikipedia.org/wiki/Kunduz_massacre"
+      ua:
+        title: "Різанина в Кундузі"
+        url: "https://en.wikipedia.org/wiki/Kunduz_massacre"
+      pt:
+        title: "Massacre de Kunduz"
+        url: "https://en.wikipedia.org/wiki/Kunduz_massacre"
+  - id: "laghman-massacre"
+    date: "04.1985"
+    links:
+      en:
+        title: "Laghman massacre"
+        url: "https://en.wikipedia.org/wiki/Laghman_massacre"
+      ua:
+        title: "Різанина в Лагмані"
+        url: "https://en.wikipedia.org/wiki/Laghman_massacre"
+      pt:
+        title: "Massacre de Laghman"
+        url: "https://en.wikipedia.org/wiki/Laghman_massacre"
+  - id: "black-january"
+    date: "20.01.1990"
+    links:
+      en:
+        title: "Black January"
+        url: "https://en.wikipedia.org/wiki/Black_January"
+      ua:
+        title: "Чорний січень"
+        url: "https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9_%D1%81%D1%96%D1%87%D0%B5%D0%BD%D1%8C"
+      pt:
+        title: "Janeiro Negro"
+        url: "https://pt.wikipedia.org/wiki/Janeiro_Negro"
+    images:
+      - file: "01.jpg"
+        credit: "https://commons.wikimedia.org/wiki/File:20_yanvar_abid%C9%99si.jpg"
+      - file: "03.jpg"
+        caption: "Victims of Black January in Martyrs' Lane, Baku."
+        credit: "https://en.wikipedia.org/wiki/File:SV100182.jpg"
